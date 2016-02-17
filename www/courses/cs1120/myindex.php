@@ -1,4 +1,4 @@
-<img src="/images/textbook.jpg" alt="" class="textbook">
+<img src="<?php echo $basePath; ?>/images/textbook.jpg" alt="" class="textbook">
 <h3>About the Course</h3>
 <p>CS 1120: Media Computation provides an introduction to computation, algorithmic thinking, data transformation and processing, and programming in the context of media such as images, sound, and video (course description from the university catalog). 
 
