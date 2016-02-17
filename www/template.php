@@ -6,6 +6,7 @@
         <title><?php echo $html_head_title;?></title>
         <link rel="stylesheet" href="<?php echo $basePath; ?>/styles/reset.css">
         <link rel="stylesheet" href="<?php echo $basePath; ?>/styles/main.css">
+<?php include_once "_system/googleanalytics.html"; ?>
     </head>
     <body>
 
