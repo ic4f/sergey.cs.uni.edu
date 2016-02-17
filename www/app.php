@@ -76,6 +76,12 @@ else {
     }
 }
 
+
+$homePath = $basePath;
+if ($homePath == '') {
+    $homePath = '/';
+}
+
 require 'template.php';
 
 
