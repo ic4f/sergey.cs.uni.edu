@@ -1,9 +1,23 @@
 <img src="<?php echo $basePath; ?>/images/textbook.jpg" alt="" class="textbook">
 <h3>About the Course</h3>
+
+<aside class="aside1">
+    <h5>Links</h5>
+    <ul>
+        <li><a href="syllabus-cs1120-spring2016.pdf">Syllabus</a>
+        <li><a href="resources">Resources</a>
+        <li><a href="https://bb9.uni.edu/">eLearning</a>
+        <li><a href="https://cs.uni.edu/">cs.uni.edu</a>
+    </ul>
+</aside>
+
 <p>CS 1120: Media Computation provides an introduction to computation, algorithmic thinking, data transformation and processing, and programming in the context of media such as images, sound, and video (course description from the university catalog). 
 
 <p>This course has two primary goals. First, you will study digital media and some of the techniques that are used to digitally represent photo, sound, and text files. Second, the course aims to teach you a bit about how to write computer programs. We hope that you leave this course with a sense of what programs can do and how you can write programs to express ideas. 
 <p>Media computation is the primary theme in this course. Computing with images, sound, and text offers a rich body of problems to solve that will bring us into contact with many of the fundamental ideas of computer science: representing and transforming data; design, analysis, and experimentation; and the thrill of solving problems in any domain of human thought. 
+
+
+
 <br clear="all">
 <h3>Tentative Schedule</h3>
 

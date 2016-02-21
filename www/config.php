@@ -13,6 +13,8 @@ $site['/courses/cs3110'] = 'CS 3110: Web Application Development';
 $site['/courses/hist4159'] = 'COMM/HIST 4159/5159: Digital History'; 
 
 
+$site['/courses/cs1120/resources'] = 'Resources';
+
 $site['/courses/cs1120/sessions'] = 'Sessions';
 $site['/courses/cs1120/sessions/1'] = 'Session 1: Introduction to Computer Science';
 $site['/courses/cs1120/sessions/2'] = 'Session 2: Introduction to Programming';
