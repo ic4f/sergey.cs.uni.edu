@@ -204,8 +204,9 @@ table.schedule thead {
 }
 
 table.schedule th, .schedule td {
-    padding: 10px;
+    padding: 6px;
     border: 1px solid #999;
+    line-height: 1.5;
 }
 
 /* 1st column */
