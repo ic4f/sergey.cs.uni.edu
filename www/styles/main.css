@@ -238,10 +238,11 @@ table.schedule tr.break {
     color: maroon;
 }
 
-pre code {
+pre, code {
     font-family: monospace;
-    color: navy;
     font-size: 1.2em;
+    line-height: 1.2;
+    color: navy;
 }
 
 @media (max-width: 500px) {
