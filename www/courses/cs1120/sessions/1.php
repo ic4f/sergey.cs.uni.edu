@@ -68,6 +68,8 @@
 etc...
 </pre>
 
+<p>Hence, there are only <span style="color:navy; font-weight:bold;">10</span> types of people: those who get binary, and those who don't ;-)
+
 <p>Thus, 2 digits give us 4 different values, 3 digits - 8 values, 4 digits - 16 values, etc. The pattern here, as you may have noticed, is 2<sup>n</sup>. A set of eight bits is called a byte (it can encode 256 values). Of course decimal numbers can be used to encode characters (in <a href="http://www.asciitable.com/">ASCII</a>, 65 = 'A' ). Sequences of characters form strings that can be used to encode commands (in Python, to print the number 42 to the screen you would type "print 42"). 
 
 <p>This hierarchy of encodings (or levels of abstraction) enables us to describe fairly complicated, high-level tasks without worrying about the low-level details. Just like in your previous exercise, your steps were more like "turn left, walk to the wall, turn right..." instead of "use muscle x to do y..." - same in our programs, we write "print 42" instead of a long sequence of 1's and 0's. 

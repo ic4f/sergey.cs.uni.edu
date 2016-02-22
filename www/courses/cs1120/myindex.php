@@ -43,26 +43,29 @@
             <td>01/19
             <td>
             <td><a href="sessions/1">Session 1: Introduction to computer science and digital media</a>
+                <br>Lab 0: Getting started with JES
             <td><a href="homework/1">Homework 1</a>
         <tr>
             <td>01/21
             <td>
-            <td>Lab 0: Exploring JES
+            <td><a href="sessions/2">Session 2: Introduction to programming</a>
             <td>
         <tr>
             <td>01/26
             <td>Ch.2
-            <td>Session 2: Introduction to programming
+            <td><a href="sessions/3">Session 3: Introduction to programming (cont.)</a>
             <td>
         <tr>
             <td>01/28
             <td>
-            <td>Lab 1: Getting started with JES; basic math in Python
+            <td>Session 4: lab
+                <br><a href="labs/lab1.pdf">Lab 1: Getting started with JES; basic math in Python</a>
+                ---- <a href="labs/lab1_responses.pdf">Lab 1 response sheet</a>
             <td>
         <tr>
             <td>02/02
             <td>
-            <td>Session 2: Introduction to programming (cont.)
+            <td><a href="sessions/5">Session 5: Functions</a>
             <td>
         <tr>
             <td>02/04
@@ -72,38 +75,42 @@
         <tr>
             <td>02/09
             <td>Ch.3
-            <td>Session 3: Basic text processing
-                / <a href="code/session3.py">code used in class</a>
+            <td><a href="">Session 6: Text processing</a>
             <td>
         <tr>
             <td>02/11
             <td>
-            <td><a href="labs/lab2.pdf">Lab 2: Text processing</a>
+            <td><a href="">Session 7: Text processing (cont.)</a>
+                <br><a href="labs/lab2.pdf">Lab 2: Text processing</a>
             <td>
         <tr>
             <td>02/16
             <td>Ch.4
-            <td>
+            <td>Session 8: lab
+                <br><a href="labs/lab3a.pdf">Lab 3 Part 1: Manipulating images with loops</a>
+                ---- <a href="labs/lab3a_responses.pdf">Lab 3 Part 1 response sheet</a>
             <td><a href="homework/2">Homework 2</a>
         <tr>
             <td>02/18
             <td>
-            <td>
+            <td>Session 9: Manipulating images with loops
+                <br><a href="labs/lab3b.pdf">Lab 3 Part 2: Manipulating images with loops</a>
+                ---- <a href="labs/lab3b_responses.pdf">Lab 3 Part 2 response sheet</a>
             <td>
         <tr>
             <td>02/23
-            <td>
-            <td>
+            <td>Ch.5
+            <td><a href="sessions/10">Session 10</a>
             <td>Homework 3 
         <tr>
             <td>02/25
             <td>
-            <td>
+            <td>Session 11
             <td>
         <tr>
             <td>03/01
             <td>
-            <td>Review
+            <td>Session 12: Review
             <td>
         <tr>
             <td>03/03
@@ -114,7 +121,7 @@
             <td>03/08
             <td>
             <td>
-            <td>Homework 4
+            <td>
         <tr>
             <td>03/10
             <td>
