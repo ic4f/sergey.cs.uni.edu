@@ -25,5 +25,61 @@
     <li>Do the examples from the book and from class. Try to replicate them. Try to understand them - i.e., try to understand each line (what does it do, why is it there, and, maybe, what happens if you change or remove it). Do this every week - that way you will encounter all the simple-but-confusing errors early, before your next assignment is due.
     <li>Never miss an assignment. If your work is incomplete, submit what you have and you may receive partial credit. 
 </ol>
+
 <h4>What computer science is about</h4>
-<p>[Content  to be added: computer science, computational thinking, algorithms]
+<p>In this course we will talk about digital media and computer science. You know what's digital media, but what is computer science? It is not what you might think it is: it is said that computer science is no more about computers than astronomy is about telescopes (attributed to <a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra)</a>. Your textbook explains that computer science is about process - i.e., how we do things, how we specify what we do, and how we specify the stuff that we process. One way to think of process is in terms of a recipe. In fact, using a recipe as a metaphor, we can describe some of the main areas of computer science: 
+<ul>
+    <li>how recipes work (algorithms)
+    <li>how recipes are written (programming languages and software engineering)
+    <li>the units used in recipes (data structures and databases)
+    <li>what recipes can be written (theory of computation, artificial intelligence)
+    <li>do we like the recipes that have been written and why (human-computer interaction)
+    <li>...etc.
+</ul>
+
+<p><b>EXERCISE:</b> A recipe is a sequence of steps. Try to come up with a recipe - i.e., a sequence of steps - for forming a line and exiting the classroom in case of a fire alarm. Be as detailed and explicit as you can. Write it down.
+
+<p><b>DISCUSSION:</b> Here's the most common recipe (more or less):
+
+<pre>
+
+- stand up
+- first row: 
+  - turn left
+  - move to wall
+  - turn right, move forward to door
+- do the same for each row while there are rows remaining
+</pre>
+
+<p>Another variation was to split each row in the middle (i.e., looking for the median to split the load - good thinking!) and form a line along both walls. There are lots of other variations of course. 
+
+<p>Congratulations - you've written an <a href="https://en.wikipedia.org/wiki/Algorithm">algorithm</a>! Your recipes were quite explicit (i.e., there were no generalizations like "form a line") - which is good! However, as we started discussing the details, we discovered that there can be different levels of detail - i.e., how do I stand up? Do I push the chair backward? What muscles do I use? How far do I turn? How do I walk? What happens if the spot near the wall is taken? 
+
+<p>Of course, I know what you mean by "stand up" - but if we are writing a program (which is a recipe that can be run on a computer), we need to be more specific. How specific? Each step in our recipe must describe an action the computer knows how to do - i.e., understands. What does a computer understand?
+
+<p>Not much! In fact, a computer "understands" only voltages - nothing more! A wire may have a voltage on it, or it may not - these are the two conditions to which a computer can react. Of course voltages can be encoded as numbers: 0 for no voltage and 1 for voltage. We call this a bit (short for binary digit) - it is the smallest unit of data a computer can work with. We can then use sequences of bits to encode decimal numbers (i.e., numbers that we are used to dealing with).
+
+<pre>
+
+00 -> 0
+01 -> 1
+10 -> 2
+11 -> 3
+etc...
+</pre>
+
+<p>Thus, 2 digits give us 4 different values, 3 digits - 8 values, 4 digits - 16 values, etc. The pattern here, as you may have noticed, is 2<sup>n</sup>. A set of eight bits is called a byte (it can encode 256 values). Of course decimal numbers can be used to encode characters (in <a href="http://www.asciitable.com/">ASCII</a>, 65 = 'A' ). Sequences of characters form strings that can be used to encode commands (in Python, to print the number 42 to the screen you would type "print 42"). 
+
+<p>This hierarchy of encodings (or levels of abstraction) enables us to describe fairly complicated, high-level tasks without worrying about the low-level details. Just like in your previous exercise, your steps were more like "turn left, walk to the wall, turn right..." instead of "use muscle x to do y..." - same in our programs, we write "print 42" instead of a long sequence of 1's and 0's. 
+
+<p>In this course you will learn that writing programs is very much about building layers of abstraction: from variables - to functions - to programs, and through that - expressing more and more complex ideas. 
+
+<h4>Wrap-up</h4>
+<ol>
+    <li>Computer science is the study of process.
+    <li>We will use recipes as a metaphor for process.
+    <li>A recipe that can be run on a computer is a program.
+    <li>When specifying a recipe, state explicitly what you want the computer to do.
+    <li>Each step in a recipe should be something a computer knows how to do.
+</ol>
+
