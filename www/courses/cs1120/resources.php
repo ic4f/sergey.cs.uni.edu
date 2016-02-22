@@ -12,8 +12,6 @@
 <ul>
 <li><em>Introduction to Computing and Programming in Python</em> (4th Edition) 
     by <a href="http://www.cc.gatech.edu/~mark.guzdial/">Mark Guzdial</a> and <a href="http://barbara-ericson.strikingly.com/">Barbara Ericson</a>. ISBN-13: 978-0-13-292351-4
-
-textbook
     <li><a href="http://coweb.cc.gatech.edu/mediaComp-teach/60">PowerPoint slides</a>
     <li><a href="http://coweb.cc.gatech.edu/mediaComp-teach/uploads/1/mediasources-4ed.zip">Media sources</a> (zip file with images and sounds used in the book)
 </ul>
