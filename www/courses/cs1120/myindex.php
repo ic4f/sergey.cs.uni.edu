@@ -53,7 +53,7 @@
         <tr>
             <td>01/26
             <td>Ch.2
-            <td><a href="sessions/3">Session 3: Introduction to programming (cont.)</a>
+            <td>Session 3: Introduction to programming (cont.)
             <td>
         <tr>
             <td>01/28
@@ -65,7 +65,7 @@
         <tr>
             <td>02/02
             <td>
-            <td><a href="sessions/5">Session 5: Functions</a>
+            <td>Session 5: Functions
             <td>
         <tr>
             <td>02/04
@@ -75,12 +75,12 @@
         <tr>
             <td>02/09
             <td>Ch.3
-            <td><a href="">Session 6: Text processing</a>
+            <td>Session 6: Text processing
             <td>
         <tr>
             <td>02/11
             <td>
-            <td><a href="">Session 7: Text processing (cont.)</a>
+            <td>Session 7: Text processing (cont.)
                 <br><a href="labs/lab2.pdf">Lab 2: Text processing</a>
             <td>
         <tr>
@@ -93,15 +93,15 @@
         <tr>
             <td>02/18
             <td>
-            <td><a href="sessions/9">Session 9: Manipulating images with loops</a>
+            <td>Session 9: Manipulating images with loops
                 <br><a href="labs/lab3b.pdf">Lab 3 Part 2: Manipulating images with loops</a>
                 ---- <a href="labs/lab3b_responses.pdf">Lab 3 Part 2 response sheet</a>
             <td>
         <tr>
             <td>02/23
             <td>Ch.5
-            <td><a href="sessions/10">Session 10: ...</a>
-            <td>Homework 3 
+            <td>Session 10
+            <td> 
         <tr>
             <td>02/25
             <td>
@@ -111,7 +111,7 @@
             <td>03/01
             <td>
             <td>Session 12: Review
-            <td>
+            <td>Homework 3
         <tr>
             <td>03/03
             <td>
