@@ -43,12 +43,12 @@
             <td>01/19
             <td>
             <td><a href="sessions/1">Session 1: Introduction to computer science and digital media</a>
-                <br>Lab 0: Getting started with JES
             <td><a href="homework/1">Homework 1</a>
         <tr>
             <td>01/21
             <td>
             <td><a href="sessions/2">Session 2: Introduction to programming</a>
+                <br>Lab 0: Getting started with JES
             <td>
         <tr>
             <td>01/26
@@ -58,7 +58,7 @@
         <tr>
             <td>01/28
             <td>
-            <td>Session 4: lab
+            <td>Session 4: lab only
                 <br><a href="labs/lab1.pdf">Lab 1: Getting started with JES; basic math in Python</a>
                 ---- <a href="labs/lab1_responses.pdf">Lab 1 response sheet</a>
             <td>
@@ -86,21 +86,21 @@
         <tr>
             <td>02/16
             <td>Ch.4
-            <td>Session 8: lab
+            <td>Session 8: lab only
                 <br><a href="labs/lab3a.pdf">Lab 3 Part 1: Manipulating images with loops</a>
                 ---- <a href="labs/lab3a_responses.pdf">Lab 3 Part 1 response sheet</a>
             <td><a href="homework/2">Homework 2</a>
         <tr>
             <td>02/18
             <td>
-            <td>Session 9: Manipulating images with loops
+            <td><a href="sessions/9">Session 9: Manipulating images with loops</a>
                 <br><a href="labs/lab3b.pdf">Lab 3 Part 2: Manipulating images with loops</a>
                 ---- <a href="labs/lab3b_responses.pdf">Lab 3 Part 2 response sheet</a>
             <td>
         <tr>
             <td>02/23
             <td>Ch.5
-            <td><a href="sessions/10">Session 10</a>
+            <td><a href="sessions/10">Session 10: ...</a>
             <td>Homework 3 
         <tr>
             <td>02/25
