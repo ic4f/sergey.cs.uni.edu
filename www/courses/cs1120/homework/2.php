@@ -14,7 +14,7 @@
 
 <pre>
     <code>
->>> textsquare("x", 3)
+>>> textsquare("x", 5)
 xxxxx
 x   x
 x   x
