@@ -12,14 +12,8 @@
 
 <p>1. Using for loops and using the same techniques as the pyramid function (see p.49), create a textsquare function that takes in two values as input: the character to use in making the square, and the size of the square in characters. Then print out a square of that many characters. You must use a for loop in your function.
 
-<<<<<<< HEAD
-<pre>
-    <code>
->>> textsquare("x", 5)
-=======
 <pre class="code">
 >>> textsquare("x", 3)
->>>>>>> dev
 xxxxx
 x   x
 x   x
