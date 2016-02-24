@@ -100,7 +100,7 @@
         <tr>
             <td>02/23
             <td>Ch.5
-            <td>Session 10
+            <td><a href="sessions/10">Session 10: Manipulating images with loops (cont.)</a>
             <td> 
         <tr>
             <td>02/25

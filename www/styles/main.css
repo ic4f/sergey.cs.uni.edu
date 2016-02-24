@@ -239,7 +239,7 @@ table.schedule tr.break {
     color: maroon;
 }
 
-pre, code {
+pre.code, code {
     font-family: monospace;
     font-size: 1.2em;
     line-height: 1.2;
@@ -272,4 +272,13 @@ pre, code {
 
 table.table1 td {
     padding: 0.3em;
+}
+
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
 }

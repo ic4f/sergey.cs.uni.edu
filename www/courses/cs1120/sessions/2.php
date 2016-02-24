@@ -38,34 +38,28 @@
 
 <p>Print "Hello, world!" in Java:
 
-<pre>
-    <code>
+<pre class="code">
 public class HelloApp {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
-    </code>
 </pre>
 
 <p>Same in Python:
 
-<pre>
-    <code>
+<pre class="code">
 print("Hello, World!")
-    </code>
 </pre>
 
 <p>At the same time, Python is extremely popular in the corporate and open source world and is used by many organizations, <a href="https://wiki.python.org/moin/OrganizationsUsingPython">some of which you might have heard of</a>. So fear not - what you'll be learning is no joke... even though the language <a href="https://docs.python.org/2/faq/general.html#why-is-it-called-python">is named after a BBC comedy series!</a>
 
 <p>We will be using or Jython, which is Python, or a variant of Python (it is Python implemented in Java). What that means for us is this: Jython provides access to rich multimedia facilities. For example, if we were using plain Python, we would have to write up some non-trivial code to process an image file, but with Jython we get to use very convenient shortcuts:
 
-<pre>
-    <code>
+<pre class="code">
 pickAFile() 
 makePicture(file)
 show(picture)
-    </code>
 </pre>
 
 <p>More on this later... 

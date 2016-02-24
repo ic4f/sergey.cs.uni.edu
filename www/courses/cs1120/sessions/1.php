@@ -41,8 +41,7 @@
 
 <p><b>DISCUSSION:</b> Here's the most common recipe (more or less):
 
-<pre>
-
+<pre class="code">
 - stand up
 - first row: 
   - turn left
@@ -59,8 +58,7 @@
 
 <p>Not much! In fact, a computer "understands" only voltages - nothing more! A wire may have a voltage on it, or it may not - these are the two conditions to which a computer can react. Of course voltages can be encoded as numbers: 0 for no voltage and 1 for voltage. We call this a bit (short for binary digit) - it is the smallest unit of data a computer can work with. We can then use sequences of bits to encode decimal numbers (i.e., numbers that we are used to dealing with).
 
-<pre>
-
+<pre class="code">
 00 -> 0
 01 -> 1
 10 -> 2
