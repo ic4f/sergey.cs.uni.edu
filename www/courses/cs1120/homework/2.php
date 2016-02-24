@@ -12,43 +12,41 @@
 
 <p>1. Using for loops and using the same techniques as the pyramid function (see p.49), create a textsquare function that takes in two values as input: the character to use in making the square, and the size of the square in characters. Then print out a square of that many characters. You must use a for loop in your function.
 
+<<<<<<< HEAD
 <pre>
     <code>
 >>> textsquare("x", 5)
+=======
+<pre class="code">
+>>> textsquare("x", 3)
+>>>>>>> dev
 xxxxx
 x   x
 x   x
 x   x
 xxxxx
-    </code>
 </pre>
 
 <p>2. Write a function stringanalyzer that accepts a string as input, then prints out the vowels in that string and then prints the consonants in that string:
 
-<pre>
-    <code>
+<pre class="code">
 >>> stringanalyzer("hogwarts")
 oa
 hgwrts
-    </code>
 </pre>
 
 <p>3. You have written an essay for school, and it has to be at least five pages long. But your essay is only 4.5 pages long! You decide to use your new Python skills to make your essay longer by spacing out the letters. Write a function that takes a string and a number of spaces to insert between each character, then print out the resulting string.
 
-<pre>
-    <code>
+<pre class="code">
 >>> betteressay("my long essay", 2)
 m  y     l  o  n  g     e  s  s  a  y
-    </code>
 </pre>
 
 <p>4. Same problem as before, but you decide to use more of your new Python skills. You are going to increase the spaces between the words. Write a function that takes a string and a number of spaces to insert between each word, then print out the resulting string.
 
-<pre>
-    <code>
+<pre class="code">
 >>> betteressay("my long essay", 2)
 my   long   essay
-    </code>
 </pre>
 
 <h4>Submissions</h4>
