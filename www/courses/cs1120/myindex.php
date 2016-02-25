@@ -106,7 +106,8 @@
         <tr>
             <td>02/25
             <td>
-            <td>Session 11
+            <td><a href="sessions/11">Session 11: Working with ranges of pixels</a>
+                <br><a href="labs/lab4.pdf">Lab 4</a> ---- <a href="labs/lab4_responses.pdf">Lab 4 response sheet</a>
             <td>
         <tr>
             <td>03/01
