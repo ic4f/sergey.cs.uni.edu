@@ -198,15 +198,25 @@ table.schedule {
     border-collapse: collapse;
 }
 
+.grid {
+    border: 1px solid #666;
+    border-collapse: collapse;
+}
+
 table.schedule thead {
     background: #ccc;
     font-weight: bold;
 }
 
-table.schedule th, .schedule td {
+table.schedule th, .schedule td, 
+.grid th, .grid td {
     padding: 6px;
     border: 1px solid #999;
     line-height: 1.5;
+}
+
+.grid td {
+    text-align: center;
 }
 
 /* 1st column */

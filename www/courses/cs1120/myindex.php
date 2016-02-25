@@ -8,6 +8,7 @@
         <li><a href="resources">Resources</a>
         <li><a href="https://bb9.uni.edu/">eLearning</a>
         <li><a href="https://cs.uni.edu/">cs.uni.edu</a>
+        <li><a href="credits">Credits</a>
     </ul>
 </aside>
 
@@ -93,7 +94,7 @@
         <tr>
             <td>02/18
             <td>
-            <td>Session 9: Manipulating images with loops
+            <td><a href="sessions/9">Session 9: Manipulating images with loops</a>
                 <br><a href="labs/lab3b.pdf">Lab 3 Part 2: Manipulating images with loops</a>
                 ---- <a href="labs/lab3b_responses.pdf">Lab 3 Part 2 response sheet</a>
             <td>
