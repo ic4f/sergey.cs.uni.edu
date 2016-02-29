@@ -112,17 +112,17 @@
         <tr>
             <td>03/01
             <td>
-            <td>
+            <td>Session 12
             <td>Homework 3
         <tr>
             <td>03/03
-            <td>
-            <td>
+            <td>Ch.6 (sections 1-2-3)
+            <td>Session 13
             <td>
        <tr>
             <td>03/08
             <td>
-            <td>Session 12: Review
+            <td>Session 14
             <td>Homework 4
         <tr>
             <td>03/10
