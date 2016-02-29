@@ -112,7 +112,7 @@
         <tr>
             <td>03/01
             <td>
-            <td>Session 12: Review
+            <td>
             <td>Homework 3
         <tr>
             <td>03/03
@@ -122,8 +122,8 @@
        <tr>
             <td>03/08
             <td>
-            <td>
-            <td>
+            <td>Session 12: Review
+            <td>Homework 4
         <tr>
             <td>03/10
             <td>
