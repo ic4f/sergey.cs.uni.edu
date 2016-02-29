@@ -117,7 +117,7 @@
         <tr>
             <td>03/03
             <td>
-            <td>Exam 1
+            <td>
             <td>
        <tr>
             <td>03/08
@@ -127,7 +127,7 @@
         <tr>
             <td>03/10
             <td>
-            <td>
+            <td>Exam 1
             <td>
         <tr class="break">
             <td>03/15
