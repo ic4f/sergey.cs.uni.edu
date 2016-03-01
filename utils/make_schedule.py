@@ -15,7 +15,7 @@ def main() :
     for i in range(day_count):
         html += '\n\t\t<tr>'
         html += '\n\t\t\t<td>' + mydate.strftime('%a, %m/%d')
-        for j in range(3):
+        for j in range(4):
             html += '\n\t\t\t<td>'
 
         if is_new_week:
@@ -36,6 +36,7 @@ def get_header():
     html += '\n\t\t\t<th>Date'
     html += '\n\t\t\t<th>Readings and pre-class assignments'
     html += '\n\t\t\t<th>Sessions'
+    html += '\n\t\t\t<th>Labs'
     html += '\n\t\t\t<th>Homework'
     html += '\n\t<tbody>'
     return html

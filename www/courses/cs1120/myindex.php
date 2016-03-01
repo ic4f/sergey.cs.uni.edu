@@ -28,6 +28,7 @@
             <th>Date
             <th>Readings
             <th>Topics
+            <th>Labs
             <th>Homework
     <tbody>
         <tr>
@@ -35,103 +36,113 @@
             <td>
             <td>no class
             <td>
+            <td>
         <tr>
             <td>01/14
             <td>Ch.1
             <td>no class
             <td>
+            <td>
         <tr>
             <td>01/19
             <td>
             <td><a href="sessions/1">Session 1: Introduction to computer science and digital media</a>
+            <td>
             <td><a href="homework/1">Homework 1</a>
         <tr>
             <td>01/21
             <td>
             <td><a href="sessions/2">Session 2: Introduction to programming</a>
-                <br>Lab 0: Getting started with JES
+            <td>Lab 0
             <td>
         <tr>
             <td>01/26
             <td>Ch.2
             <td>Session 3: Introduction to programming (cont.)
             <td>
+            <td>
         <tr>
             <td>01/28
             <td>
             <td>Session 4: lab only
-                <br><a href="labs/lab1.pdf">Lab 1: Getting started with JES; basic math in Python</a>
-                ---- <a href="labs/lab1_responses.pdf">Lab 1 response sheet</a>
+            <td><a href="labs/lab1.pdf">Lab 1</a> / <a href="labs/lab1_responses.pdf">responses</a>
             <td>
         <tr>
             <td>02/02
             <td>
             <td>Session 5: Functions
             <td>
+            <td>
         <tr>
             <td>02/04
             <td>
             <td>snow day
+            <td>
             <td>
         <tr>
             <td>02/09
             <td>Ch.3
             <td>Session 6: Text processing
             <td>
+            <td>
         <tr>
             <td>02/11
             <td>
             <td>Session 7: Text processing (cont.)
-                <br><a href="labs/lab2.pdf">Lab 2: Text processing</a>
+            <td><a href="labs/lab2.pdf">Lab 2</a>
             <td>
         <tr>
             <td>02/16
             <td>Ch.4
             <td>Session 8: lab only
-                <br><a href="labs/lab3a.pdf">Lab 3 Part 1: Manipulating images with loops</a>
-                ---- <a href="labs/lab3a_responses.pdf">Lab 3 Part 1 response sheet</a>
+            <td><a href="labs/lab3a.pdf">Lab 3 Part 1</a> / <a href="labs/lab3a_responses.pdf">responses</a>
             <td><a href="homework/2">Homework 2</a>
         <tr>
             <td>02/18
             <td>
             <td><a href="sessions/9">Session 9: Manipulating images with loops</a>
-                <br><a href="labs/lab3b.pdf">Lab 3 Part 2: Manipulating images with loops</a>
-                ---- <a href="labs/lab3b_responses.pdf">Lab 3 Part 2 response sheet</a>
+            <td><a href="labs/lab3b.pdf">Lab 3 Part 2</a> / <a href="labs/lab3b_responses.pdf">responses</a>
             <td>
         <tr>
             <td>02/23
             <td>Ch.5
             <td><a href="sessions/10">Session 10: Manipulating images with loops (cont.)</a>
+            <td>
             <td> 
         <tr>
             <td>02/25
             <td>
             <td><a href="sessions/11">Session 11: Working with ranges of pixels</a>
-                <br><a href="labs/lab4.pdf">Lab 4</a> ---- <a href="labs/lab4_responses.pdf">Lab 4 response sheet</a>
+            <td><a href="labs/lab4.pdf">Lab 4</a> / <a href="labs/lab4_responses.pdf">responses</a>
             <td>
         <tr>
             <td>03/01
             <td>
-            <td>Session 12
+            <td><a href="sessions/12">Session 12: Image effects with selection</a>
+            <td><a href="labs/lab5.pdf">Lab 5</a>
             <td>Homework 3
         <tr>
             <td>03/03
             <td>Ch.6 (sections 1-2-3)
             <td>Session 13
             <td>
+            <td>
        <tr>
             <td>03/08
             <td>
             <td>Session 14
+            <td>
             <td>Homework 4
         <tr>
             <td>03/10
             <td>
             <td>Exam 1
             <td>
+            <td>
         <tr class="break">
             <td>03/15
             <td>SPRING BREAK
+            <td>
             <td>
             <td>
         <tr class="break">
@@ -139,8 +150,10 @@
             <td>SPRING BREAK
             <td>
             <td>
+            <td>
        <tr>
             <td>03/22
+            <td>
             <td>
             <td>
             <td>
@@ -149,8 +162,10 @@
             <td>
             <td>
             <td>
+            <td>
         <tr>
             <td>03/29
+            <td>
             <td>
             <td>
             <td>Homework 5
@@ -159,8 +174,10 @@
             <td>
             <td>
             <td>
+            <td>
        <tr>
             <td>04/05
+            <td>
             <td>
             <td>
             <td>
@@ -169,8 +186,10 @@
             <td>
             <td>Exam 2
             <td>
+            <td>
         <tr>
             <td>04/12
+            <td>
             <td>
             <td>
             <td>
@@ -179,8 +198,10 @@
             <td>
             <td>
             <td>
+            <td>
        <tr>
             <td>04/19
+            <td>
             <td>
             <td>
             <td>Homework 6
@@ -189,8 +210,10 @@
             <td>
             <td>
             <td>
+            <td>
         <tr>
             <td>04/26
+            <td>
             <td>
             <td>
             <td>Homework 7
@@ -199,9 +222,11 @@
             <td>
             <td>
             <td>
+            <td>
        <tr>
             <td>05/04
             <td>
             <td>Final Exam
+            <td>
             <td>
 </table>
