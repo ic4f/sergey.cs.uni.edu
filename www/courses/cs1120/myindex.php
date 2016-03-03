@@ -119,7 +119,7 @@
             <td>03/01
             <td>
             <td><a href="sessions/12">Session 12: Image effects with selection</a>
-            <td><a href="labs/lab5.pdf">Lab 5</a>
+            <td><a href="labs/lab5.pdf">Lab 5</a> / <a href="mediasources/obama.jpg">source image</a>
             <td>Homework 3
         <tr>
             <td>03/03
