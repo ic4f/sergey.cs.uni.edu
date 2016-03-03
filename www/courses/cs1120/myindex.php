@@ -125,7 +125,7 @@
             <td>03/03
             <td>Ch.6 (sections 1-2-3)
             <td>Session 13
-            <td>
+            <td><a href="labs/lab6.pdf">Lab 6</a> / <a href="mediasources/rose.jpg">source image</a>
             <td>
        <tr>
             <td>03/08
