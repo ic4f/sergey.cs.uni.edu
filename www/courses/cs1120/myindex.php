@@ -1,4 +1,4 @@
-<img src="<?php echo $basePath; ?>/images/textbook.jpg" alt="" class="textbook">
+<img src="images/textbook.jpg" alt="" class="textbook">
 <h3>About the Course</h3>
 
 <aside class="aside1">
@@ -120,7 +120,7 @@
             <td>
             <td><a href="sessions/12">Session 12: Image effects with selection</a>
             <td><a href="labs/lab5.pdf">Lab 5</a> / <a href="mediasources/obama.jpg">source image</a>
-            <td>Homework 3
+            <td><a href="homework/hw3.pdf">Homework 3</a>
         <tr>
             <td>03/03
             <td>Ch.6 (sections 1-2-3)
@@ -132,7 +132,7 @@
             <td>
             <td>Session 14
             <td>
-            <td>Homework 4
+            <td><a href="homework/hw4.pdf">Homework 4</a>
         <tr>
             <td>03/10
             <td>
