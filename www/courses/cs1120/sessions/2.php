@@ -32,7 +32,7 @@
 <h4>Why Python?</h4>
 <p>We will be using Python. Why Python, you might ask. Why not C++ (which, arguably, <a href="http://tech.co/highest-paying-programming-languages-2015-03">pays the most</a>), or maybe JavaScript (one of the most "popular" languages - i.e., everyone has heard of it)? 
 
-<p>There are many different programming languages out there. Each one has a purpose, even <a href="https://en.wikipedia.org/wiki/Esoteric_programming_language">these</a>. However, a language that is particularly useful for a certain kind of domain (e.g., C++ for game development, or JavaScript for web applications) is not necessarily a language that is easy to learn. However, all languages follow the same fundamental principles, so once you have mastered one, the rest will be just new syntax. And although this is a simplification, believe me, learning your second language is peanuts compared to learning your first. 
+<p>There are many different programming languages out there. Each one has a purpose, even <a href="https://en.wikipedia.org/wiki/Esoteric_programming_language">these</a>. However, a language that is particularly useful for a certain kind of domain (e.g., C++ for game development, or JavaScript for web applications) is not necessarily a language that is easy to learn. However, all languages follow the same fundamental principles, so once you have mastered one, the rest will be just new syntax. And although this is a simplification, believe me, learning your second language is much easier compared to learning your first. 
 
 <p>Python is an excellent choice for a first language: its syntax is intuitive, there's little syntactic overhead, and the learning curve is much friendlier compared to many other languages. Compare these:
 
@@ -54,7 +54,7 @@ print("Hello, World!")
 
 <p>At the same time, Python is extremely popular in the corporate and open source world and is used by many organizations, <a href="https://wiki.python.org/moin/OrganizationsUsingPython">some of which you might have heard of</a>. So fear not - what you'll be learning is no joke... even though the language <a href="https://docs.python.org/2/faq/general.html#why-is-it-called-python">is named after a BBC comedy series!</a>
 
-<p>We will be using or Jython, which is Python, or a variant of Python (it is Python implemented in Java). What that means for us is this: Jython provides access to rich multimedia facilities. For example, if we were using plain Python, we would have to write up some non-trivial code to process an image file, but with Jython we get to use very convenient shortcuts:
+<p>More specifically, we will be using Jython, which is Python, or a variant of Python (it is Python implemented in Java). What that means for us is this: Jython provides access to rich multimedia facilities. For example, if we were using plain Python, we would have to write up some non-trivial code to process an image file, but with Jython we get to use very convenient shortcuts:
 
 <pre class="code">
 pickAFile() 
@@ -64,7 +64,7 @@ show(picture)
 
 <p>More on this later... 
 
-<p>Using Jython as opposed to Python, or Python as opposed to C, is a trade-off: we trade speed and efficiency for convenience. That's why the code you write in this class will run MUCH slower than the same image effects executed in Photoshop. However, our goal is not to write something as fast as Photoshop; instead our goal is to learn about programming and computer science in the context of digital media, having fun in the process. And for that Python, and Jython is an excellent tool.
+<p>The code you write in this class will run MUCH slower than the same image effects executed in Photoshop. However, our goal is not to write something as fast as Photoshop; instead our goal is to learn about programming and computer science in the context of digital media, having fun in the process. And for that Python, and Jython is an excellent tool.
 
 <p>[move on to the lab from here]
 

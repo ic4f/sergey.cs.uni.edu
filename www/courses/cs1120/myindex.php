@@ -64,13 +64,13 @@
         <tr>
             <td>01/28
             <td>
-            <td>Session 4: lab only
+            <td>Session 4: lab 
             <td><a href="labs/lab1.pdf">Lab 1</a> / <a href="labs/lab1_responses.pdf">responses</a>
             <td>
         <tr>
             <td>02/02
             <td>
-            <td>Session 5: Functions
+            <td><a href="sessions/5">Session 5: Introduction to functions</a>
             <td>
             <td>
         <tr>
@@ -94,7 +94,7 @@
         <tr>
             <td>02/16
             <td>Ch.4
-            <td>Session 8: lab only
+            <td>Session 8: lab 
             <td><a href="labs/lab3a.pdf">Lab 3 Part 1</a> / <a href="labs/lab3a_responses.pdf">responses</a>
             <td><a href="homework/2">Homework 2</a>
         <tr>

@@ -23,7 +23,7 @@
     <li><a href="http://python.org">Python homepage</a>
     <li><a href="https://docs.python.org/">Python documentation</a>
     <li><a href="https://docs.python.org/3/download.html">Downloadable documentation</a>
-    <li><a href="http://learnpythonthehardway.org/book/">Lear Python the Hard Way</a> (free online book)
-    <li><a href="http://docs.python-guide.org">The Hitchhiker's Guide to Python</a> (an opinionated guide on best practices)
+    <li><a href="http://learnpythonthehardway.org/book/">Learn Python the Hard Way</a> (free online book)
+    <li><a href="http://docs.python-guide.org">The Hitchhiker's Guide to Python</a> (an opinionated guide to best practices)
 </ul>
 
