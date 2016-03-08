@@ -131,7 +131,11 @@
             <td>03/08
             <td>
             <td>Session 14
-            <td>
+            <td><a href="labs/lab7.pdf">Lab 7</a> / 
+                <a href="mediasources/flag.jpg">image1</a>
+                <a href="mediasources/boehner.jpg">image2</a>
+                <a href="mediasources/uni.jpg">image3</a>
+                <a href="mediasources/ruud.jpg">image4</a>
             <td><a href="homework/hw4.pdf">Homework 4</a>
         <tr>
             <td>03/10
