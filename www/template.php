@@ -69,7 +69,7 @@ require $physicalPath;
         <footer class="container hover-color1">
         <a href="<?php echo $homePath; ?>">Sergey Golitsynskiy</a>
             <address><a href="mailto:sergey@uni.edu">sergey@uni.edu</a></address>
-            <div class="lastModified"><?php echo "Page last modified: " . date ("F d Y H:i:s", @filemtime($physicalPath)); ?></div>
+            <div class="lastModified"><?php echo "Website last modified: " . date ("F d Y H:i:s", @filemtime($physicalPath)); ?></div>
         </footer>
 
     </body>

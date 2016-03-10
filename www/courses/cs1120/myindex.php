@@ -130,7 +130,7 @@
        <tr>
             <td>03/08
             <td>
-            <td>Session 14
+            <td><a href="sessions/14">Session 14: Generalizing a function</a>
             <td><a href="labs/lab7.pdf">Lab 7</a> / 
                 <a href="mediasources/flag.jpg">image1</a>
                 <a href="mediasources/boehner.jpg">image2</a>

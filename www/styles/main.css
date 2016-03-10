@@ -259,6 +259,9 @@ pre.code, code {
     font-size: 1.2em;
     line-height: 1.2;
     color: navy;
+    background: #f1f1f1;
+    padding: 10px;
+    border: 1px solid #ccc;
 }
 
 @media (max-width: 500px) {
@@ -297,3 +300,13 @@ table.table1 td {
 .green {
     color: green;
 }
+
+table.grid th {
+    background: #f1f1f1;
+    font-weight: bold;
+}
+
+table.grid1 td {
+    text-align: left;
+}
+
