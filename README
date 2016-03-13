@@ -1,6 +1,3 @@
-
-This is the source code + a few utility scripts for my personal website. The site uses a front controller app.php, which handles URL routing, itializes a few variables, then loads and populates template.php. The content is organized using physical directories. This is a minimalistic solution which works for me. 
-
-Code
-You are free to use any code you find on this site. 
+# About
+This is the source code + a few utility scripts for my personal website. The site is run by a basic front controller (app.php), which handles URL routing, itializes a few variables, then loads and populates a temlate file (template.php). The content is organized using physical directories. 
 
