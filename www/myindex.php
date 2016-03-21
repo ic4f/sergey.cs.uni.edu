@@ -21,7 +21,7 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 
 <h4>Fall 2016</h4>
 <ul>
-    <li>COMM/HIST 4159/5159: Digital History
+    <li><a href="courses/digital_history">COMM/HIST 4159/5159: Digital History</a>
     <li>COMM 2555: Interactive Digital Communication
 </ul>
 <h4>Other Semesters</h4>

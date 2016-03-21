@@ -10,7 +10,7 @@ $site['/courses/cs1120'] = 'CS 1120: Media Computation';
 $site['/courses/comm2555'] = 'COMM 2555: Interactive Digital Communication'; 
 $site['/courses/comm3159'] = 'COMM 3159: Code & Communication'; 
 $site['/courses/cs3110'] = 'CS 3110: Web Application Development'; 
-$site['/courses/hist4159'] = 'COMM/HIST 4159/5159: Digital History'; 
+$site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History'; 
 
 
 $site['/courses/cs1120/resources'] = 'Resources';
