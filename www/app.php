@@ -63,7 +63,7 @@ else {
             $html_section_title_l = 'CS 3110: Web Application Development';
             $html_section_title_r = '2017 (tentative)';
         }
-        elseif ($arr[2] == 'hist4159') {
+        elseif ($arr[2] == 'digital_history') {
             $html_section_title_l = 'COMM/HIST 4159/5159: Digital History';
             $html_section_title_r = 'Fall 2016';
         }
