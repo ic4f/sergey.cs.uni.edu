@@ -177,7 +177,7 @@
             <td>03/31
             <td>
             <td>
-            <td>
+            <td><a href="labs/lab9.pdf">Lab 9</a> / <a href="mediasources/richardson_quote.wav">quote wav file</a>
             <td>
        <tr>
             <td>04/05
