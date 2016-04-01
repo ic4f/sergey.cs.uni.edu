@@ -33,3 +33,4 @@ $site['/courses/cs1120/labs'] = 'Labs';
 $site['/courses/cs1120/homework'] = 'Homework';
 $site['/courses/cs1120/homework/1'] = 'Assignment 1: Intro to Computer Science and Digital Media';
 $site['/courses/cs1120/homework/2'] = 'Assignment 2: Basic String Processing';
+$site['/courses/cs1120/homework/5'] = 'Assignment 5: Help Master Yoda';

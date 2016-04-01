@@ -172,7 +172,7 @@
             <td>
             <td>
             <td>
-            <td>Homework 5
+            <td>
         <tr>
             <td>03/31
             <td>
@@ -184,7 +184,7 @@
             <td>
             <td>
             <td>
-            <td>
+            <td><a href="homework/5">Homework 5</a>
         <tr>
             <td>04/07
             <td>

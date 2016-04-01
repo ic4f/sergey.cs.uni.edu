@@ -104,6 +104,7 @@ b {
 
 .content {
     margin-bottom: 30px;
+    overflow:auto;
 }
 
 .content p, .content li, .content br {
