@@ -225,8 +225,8 @@
             <td>04/28
             <td>
             <td>Session 25: Moving data between media. Steganography
-            <td><a href="mediasources/session25/encoded_picture.jpg">encoded picture</a> | 
-                <a href="mediasources/session25/encoded_text.jpg">encoded text</a>
+            <td><a href="mediasources/session25/encoded_picture.png">encoded picture</a> | 
+                <a href="mediasources/session25/encoded_text.png">encoded text</a>
             <td>
        <tr>
             <td>05/04
