@@ -15,7 +15,7 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 
 <h4>Fall 2016</h4>
 <ul>
-    <li><a href="courses/cs1100">CS 1100: Web Development: Client-Side Coding</a>
+    <li>CS 1100: Web Development: Client-Side Coding
     <li>COMM 2555: Interactive Digital Communication
 </ul>
 <h4>Other Semesters</h4>
