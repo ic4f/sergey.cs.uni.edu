@@ -15,13 +15,13 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 
 <h4>Fall 2016</h4>
 <ul>
-    <li>CS 1100: Web Development: Client-Side Coding
+    <li>CS 1100: Web Development: Client-Side Coding (web site available in July)
     <li>COMM 2555: Interactive Digital Communication
 </ul>
 <h4>Other Semesters</h4>
 
 <ul>
-    <li>CS 1120: Media Computation (web site available in July)
+    <li><a href="courses/cs1120">CS 1120: Media Computation</a>
     <li>COMM 3159: Communication & Code
     <li>COMM 4555: Interactive Digital Studies Practicum
     <li>COMM COR 2020: Introduction to Research Methods
