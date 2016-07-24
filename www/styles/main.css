@@ -231,10 +231,18 @@ table.schedule td:nth-of-type(5) {
 }
 
 /* alternate weeks (2 rows) */
-table.schedule tr:nth-child(4n-1),  
-table.schedule tr:nth-child(4n) {
+table.days-2 tr:nth-child(4n-1),  
+table.days-2 tr:nth-child(4n) {
    background: #f1f1f1;
 }
+
+/* alternate weeks (3 rows) */
+table.days-3 tr:nth-child(6n), 
+table.days-3 tr:nth-child(6n-1), 
+table.days-3 tr:nth-child(6n-2) {
+   background: #f1f1f1;
+}
+
 
 table.schedule tr.break {
    background: #dff0d8; 

@@ -2,40 +2,63 @@ import sys
 from datetime import date, timedelta
 
 def main() :
+    """
+    Args:
+        year: year of start date
+        month: month of start date
+        day: day of start date
+        instruction_days: number of weekly meetings (2 or 3)
+        debugging-mode (optional): any additional argument will imply 
+            debugging mode
+    """
     year = int(sys.argv[1])
     month = int(sys.argv[2])
     day = int(sys.argv[3])
-    mydate = date(year, month, day)
-    days1 = timedelta(2)
-    days2 = timedelta(5)
-    is_new_week = True
-    day_count = 33
+    instruction_days = int(sys.argv[4])
 
-    html = get_header()
+    WEEKS = 16 #weeks in a semester
+    
+    mydate = date(year, month, day)
+    day_count = WEEKS * instruction_days + 1 #last day for final exam 
+
+    html = get_header(instruction_days)
+    counter = 0;
     for i in range(day_count):
         html += '\n\t\t<tr>'
         html += '\n\t\t\t<td>' + mydate.strftime('%a, %m/%d')
         for j in range(4):
             html += '\n\t\t\t<td>'
 
-        if is_new_week:
-            mydate += days1
-            is_new_week = False
-        else:
-            mydate += days2
-            is_new_week = True
+        if instruction_days == 2:
+            if counter == 0:
+                mydate += timedelta(2)
+                counter += 1
+            else:
+                mydate += timedelta(5)
+                counter = 0
+        elif instruction_days == 3:
+            if counter == 2:
+                mydate += timedelta(3)
+                counter = 0
+            else:
+                mydate += timedelta(2)
+                counter += 1
 
     html += '\n</table>'
     print html
 
 
-def get_header():
-    html = '<table class="schedule">'
+def get_header(instruction_days):
+    html = ''
+    if (len(sys.argv) == 6):
+        html += '<link rel="stylesheet" href="testing.css">\n\n'
+
+    html += '<table class="schedule days-{0}">'.format(instruction_days)
     html += '\n\t<thead>'
     html += '\n\t\t<tr>'
     html += '\n\t\t\t<th>Date'
-    html += '\n\t\t\t<th>Readings and pre-class assignments'
-    html += '\n\t\t\t<th>Sessions'
+    html += '\n\t\t\t<th>Readings'
+    html += '\n\t\t\t<th>Topics'
     html += '\n\t\t\t<th>Labs'
     html += '\n\t\t\t<th>Homework'
     html += '\n\t<tbody>'
