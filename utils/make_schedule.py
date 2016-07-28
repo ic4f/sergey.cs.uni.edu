@@ -22,9 +22,15 @@ def main() :
     day_count = WEEKS * instruction_days + 1 #last day for final exam 
 
     html = get_header(instruction_days)
-    counter = 0;
+    counter = 0
+    week = 0
     for i in range(day_count):
         html += '\n\t\t<tr>'
+
+        if counter == 0:
+            html += '\n\t\t\t<td rowspan="{0}">{1}</td>'.format(
+                    instruction_days, week)
+
         html += '\n\t\t\t<td>' + mydate.strftime('%a, %m/%d')
         for j in range(4):
             html += '\n\t\t\t<td>'
@@ -36,10 +42,12 @@ def main() :
             else:
                 mydate += timedelta(5)
                 counter = 0
+                week += 1
         elif instruction_days == 3:
             if counter == 2:
                 mydate += timedelta(3)
                 counter = 0
+                week += 1
             else:
                 mydate += timedelta(2)
                 counter += 1
@@ -53,9 +61,10 @@ def get_header(instruction_days):
     if (len(sys.argv) == 6):
         html += '<link rel="stylesheet" href="testing.css">\n\n'
 
-    html += '<table class="schedule days-{0}">'.format(instruction_days)
+    html += '<table border=1 class="schedule days-{0}">'.format(instruction_days)
     html += '\n\t<thead>'
     html += '\n\t\t<tr>'
+    html += '\n\t\t\t<th>Week'
     html += '\n\t\t\t<th>Date'
     html += '\n\t\t\t<th>Readings'
     html += '\n\t\t\t<th>Topics'

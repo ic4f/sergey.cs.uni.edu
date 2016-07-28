@@ -244,10 +244,6 @@ table.days-3 tr:nth-child(6n-2) {
 }
 
 
-table.schedule tr:hover {
-    background: #e4e4e4;
-}
-
 table.schedule tr.break {
    background: #dff0d8; 
 }
