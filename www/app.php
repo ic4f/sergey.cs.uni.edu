@@ -39,7 +39,7 @@ else {
     $html_breadcrumbs = getBreadcrumbsHTML($bc);
     
     if ($arr[1] == 'courses' && count($arr) > 2) {
-        processCourses($arr);
+        $titles = processCourses($arr, $html_section_title_l, $html_section_title_r);
     }
     elseif ($arr[1] == 'research') {
         //set research titles
@@ -54,11 +54,12 @@ if ($homePath == '') {
     $homePath = '/';
 }
 
+
 require 'template.php';
 
 
 
-function processCourses($arr) {
+function processCourses($arr, &$html_section_title_l, $html_section_title_r ) {
     $course = $arr[2];
 
     //do not display course title on course main page
@@ -88,6 +89,7 @@ function processCourses($arr) {
         $html_section_title_r = 'Fall 2016';
     }
     $html_section_title_r = getSemesterTitle($arr[3]);
+    $html
 } 
 
 

@@ -6,12 +6,23 @@ $site = array();
 $site['/'] = 'Home';
 $site['/courses'] = 'Courses';
 
+
+$site['/courses/cs1100'] = 'CS 1100: Web Development: Client-Side Coding';
 $site['/courses/cs1120'] = 'CS 1120: Media Computation';
-$site['/courses/comm3159'] = 'COMM 3159: Code & Communication'; 
 $site['/courses/cs3110'] = 'CS 3110: Web Application Development'; 
+$site['/courses/comm3159'] = 'COMM 3159: Code & Communication'; 
+$site['/courses/comm2555'] = 'COMM 2555: Interactive Digital Communication'; 
 $site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History'; 
 
 
+# --------------------- FALL 2016 ---------------------- #
+
+
+$site['/courses/comm2555/fall2016'] = 'COMM 2555: Interactive Digital Communication'; 
+
+
+
+# --------------------- SPRING 2016 ---------------------- #
 $site['/courses/cs1120/resources'] = 'Resources';
 $site['/courses/cs1120/credits'] = 'Credits';
 
@@ -37,6 +48,5 @@ $site['/courses/cs1120/homework/5'] = 'Assignment 5: Help Master Yoda';
 
 
 
-$site['/courses/comm2555'] = 'COMM 2555: Interactive Digital Communication1'; 
 
 $site['/courses/comm2555/fall2016'] = 'COMM 2555: Interactive Digital Communication2'; 
