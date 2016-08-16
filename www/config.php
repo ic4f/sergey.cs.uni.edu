@@ -7,7 +7,6 @@ $site['/'] = 'Home';
 $site['/courses'] = 'Courses';
 
 $site['/courses/cs1120'] = 'CS 1120: Media Computation';
-$site['/courses/comm2555'] = 'COMM 2555: Interactive Digital Communication'; 
 $site['/courses/comm3159'] = 'COMM 3159: Code & Communication'; 
 $site['/courses/cs3110'] = 'CS 3110: Web Application Development'; 
 $site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History'; 
@@ -34,3 +33,10 @@ $site['/courses/cs1120/homework'] = 'Homework';
 $site['/courses/cs1120/homework/1'] = 'Assignment 1: Intro to Computer Science and Digital Media';
 $site['/courses/cs1120/homework/2'] = 'Assignment 2: Basic String Processing';
 $site['/courses/cs1120/homework/5'] = 'Assignment 5: Help Master Yoda';
+
+
+
+
+$site['/courses/comm2555'] = 'COMM 2555: Interactive Digital Communication1'; 
+
+$site['/courses/comm2555/fall2016'] = 'COMM 2555: Interactive Digital Communication2'; 
