@@ -88,7 +88,7 @@ function processCourses($arr) {
         $html_section_title_r = 'Fall 2016';
     }
     $html_section_title_r = getSemesterTitle($arr[3]);
- 
+} 
 
 
 
