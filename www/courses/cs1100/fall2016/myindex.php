@@ -36,8 +36,8 @@
 			<td rowspan="3">0</td>
 			<td>Mon, 08/22
 			<td>
-			<td>
-			<td>
+			<td>Session 1: Introduction to computer science and digital media
+			<td>Lab 1: some topic
 			<td>
 		<tr>
 			<td>Wed, 08/24
