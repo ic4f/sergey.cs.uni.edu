@@ -6,7 +6,6 @@ $pathToFile = getPathToFile($sitePath);
 
 $physicalPath = substr($pathToFile, 1);
 if (!file_exists($physicalPath)) {
-    //$physicalPath = '404.php';
     header('Location: ' . $basePath . '/404.php');
 }
 
@@ -40,33 +39,7 @@ else {
     $html_breadcrumbs = getBreadcrumbsHTML($bc);
     
     if ($arr[1] == 'courses' && count($arr) > 2) {
-
-        //do not display course title on course main page
-        if (count($arr) === 3) {
-            $html_page_title = '';
-        }
-
-        if ($arr[2] == 'cs1120') {
-            $html_section_title_l = 'CS 1120: Media Computation';
-            $html_section_title_r = 'Spring 2016';
-            $html_section_title_l_href = '/courses/cs1120';
-        }
-        elseif ($arr[2] == 'comm3159') {
-            $html_section_title_l = 'COMM 3159: Communication & Code';
-            $html_section_title_r = 'Fall 2015';
-        }
-        elseif ($arr[2] == 'comm2555') {
-            $html_section_title_l = 'COMM 2555: Interactive Digital Communication';
-            $html_section_title_r = 'Spring 2016';
-        }
-        elseif ($arr[2] == 'cs3110') {
-            $html_section_title_l = 'CS 3110: Web Application Development';
-            $html_section_title_r = '2017 (tentative)';
-        }
-        elseif ($arr[2] == 'digital_history') {
-            $html_section_title_l = 'COMM/HIST 4159/5159: Digital History';
-            $html_section_title_r = 'Fall 2016';
-        }
+        processCourses($arr);
     }
     elseif ($arr[1] == 'research') {
         //set research titles
@@ -76,13 +49,58 @@ else {
     }
 }
 
-
 $homePath = $basePath;
 if ($homePath == '') {
     $homePath = '/';
 }
 
 require 'template.php';
+
+
+
+function processCourses($arr) {
+    $course = $arr[2];
+
+    //do not display course title on course main page
+    if (count($arr) === 3) {
+        $html_page_title = '';
+    }
+
+    if ($arr[2] == 'cs1120') {
+        $html_section_title_l = 'CS 1120: Media Computation';
+        $html_section_title_r = 'Spring 2016';
+        $html_section_title_l_href = '/courses/cs1120';
+    }
+    elseif ($arr[2] == 'comm3159') {
+        $html_section_title_l = 'COMM 3159: Communication & Code';
+        $html_section_title_r = 'Fall 2015';
+    }
+    elseif ($arr[2] == 'comm2555') {
+        $html_section_title_l = 'COMM 2555: Interactive Digital Communication';
+        $html_section_title_r = 'Spring 2016';
+    }
+    elseif ($arr[2] == 'cs3110') {
+        $html_section_title_l = 'CS 3110: Web Application Development';
+        $html_section_title_r = '2017 (tentative)';
+    }
+    elseif ($arr[2] == 'digital_history') {
+        $html_section_title_l = 'COMM/HIST 4159/5159: Digital History';
+        $html_section_title_r = 'Fall 2016';
+    }
+    $html_section_title_r = getSemesterTitle($arr[3]);
+ 
+
+
+
+function getSemesterTitle($url_fragment) {
+    $title = '';
+    $pattern = '/^(fall|spring|summer)(20\d\d)$/';
+    preg_match($pattern, $url_fragment, $result);
+    if (!empty($result)) {
+        $title = ucwords($result[1]) . " " . $result[2];
+    }
+    return $title;
+}
 
 
 
