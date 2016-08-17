@@ -1,20 +1,22 @@
 <?php
-$arrPath = splitURL();
-$basePath = $arrPath[0]; 
-$sitePath = $arrPath[1];
-$pathToFile = getPathToFile($sitePath);
+$basePath = '';
+$sitePath = '';
+setPaths($basePath, $sitePath);
 
-$physicalPath = substr($pathToFile, 1);
+//get physical path and check if file exists
+$physicalPath = getPhysicalPath($sitePath);
 if (!file_exists($physicalPath)) {
     header('Location: ' . $basePath . '/404.php');
 }
 
+$html_lastmodified = date("F d Y H:i:s", @filemtime($physicalPath));
+
 //to get valid keys, remove trailing slash (if URL points to a directory)
 $sitePath = rtrim($sitePath, '/');
 
-require "config.php";
-
 $arr = explode('/', $sitePath);
+
+require "config.php";
 
 $bc = getBreadcrumbsArray($arr, $basePath, $site);
 
@@ -32,21 +34,29 @@ $html_section_title_l_href = '';
 $html_section_title_r = '';
 
 if (count($arr) == 1) {
+    //this is the homepage
     $html_section_title_l = 'Sergey Golitsynskiy';
     $html_showBreadcrumbs = false;
 }
 else {
+    if ($arr[1] === 'courses') {
+        processCourses(
+            $arr, 
+            $html_section_title_l, 
+            $html_section_title_l_href, 
+            $html_section_title_r);
+    }
+    elseif ($arr[1] === 'research') {
+        //process research content
+    }
+    elseif ($arr[1] === 'personal') {
+        //process personal content
+    }
+    //don't display page title if same as section_l title    
+    if (strcmp($html_section_title_l, $html_page_title) === 0) {
+        $html_page_title = '';
+    }
     $html_breadcrumbs = getBreadcrumbsHTML($bc);
-    
-    if ($arr[1] == 'courses' && count($arr) > 2) {
-        $titles = processCourses($arr, $html_section_title_l, $html_section_title_r);
-    }
-    elseif ($arr[1] == 'research') {
-        //set research titles
-    }
-    elseif ($arr[1] == 'personal') {
-        //set personal titles
-    }
 }
 
 $homePath = $basePath;
@@ -54,44 +64,50 @@ if ($homePath == '') {
     $homePath = '/';
 }
 
-
 require 'template.php';
 
 
+/******************* functions **************************/
 
-function processCourses($arr, &$html_section_title_l, $html_section_title_r ) {
+/*
+ * add myindex.php if dir; add .php if file
+ */
+function getPhysicalPath($sitePath) {
+    if (substr($sitePath, -1) === '/') {
+        $pathToFile = $sitePath . 'myindex.php';
+    }
+    else {
+        $pathToFile = $sitePath . '.php';
+    }
+    return substr($pathToFile, 1);
+}
+
+
+function processCourses($arr, &$title_l, &$title_l_href, &$title_r ) {
     $course = $arr[2];
 
-    //do not display course title on course main page
-    if (count($arr) === 3) {
-        $html_page_title = '';
+    if (count($arr) > 3) {
+        $semester = $arr[3];
+        $title_r = getSemesterTitle($semester);
+        $title_l_href = '/courses/' . $course . '/' . $semester;
+    }
+    else {
+        $title_l_href = '/courses/' . $course;
     }
 
-    if ($arr[2] == 'cs1120') {
-        $html_section_title_l = 'CS 1120: Media Computation';
-        $html_section_title_r = 'Spring 2016';
-        $html_section_title_l_href = '/courses/cs1120';
+    if ($course == 'cs1100') {
+        $title_l = 'CS 1100: Web Development: Client-Side Coding';
     }
-    elseif ($arr[2] == 'comm3159') {
-        $html_section_title_l = 'COMM 3159: Communication & Code';
-        $html_section_title_r = 'Fall 2015';
+    elseif ($course === 'cs1120') {
+        $title_l = 'CS 1120: Media Computation';
     }
-    elseif ($arr[2] == 'comm2555') {
-        $html_section_title_l = 'COMM 2555: Interactive Digital Communication';
-        $html_section_title_r = 'Spring 2016';
-    }
-    elseif ($arr[2] == 'cs3110') {
-        $html_section_title_l = 'CS 3110: Web Application Development';
-        $html_section_title_r = '2017 (tentative)';
+    elseif ($course == 'comm2555') {
+        $title_l = 'COMM 2555: Interactive Digital Communication';
     }
     elseif ($arr[2] == 'digital_history') {
-        $html_section_title_l = 'COMM/HIST 4159/5159: Digital History';
-        $html_section_title_r = 'Fall 2016';
+        $title_l = 'COMM/HIST 4159/5159: Digital History';
     }
-    $html_section_title_r = getSemesterTitle($arr[3]);
-    $html
 } 
-
 
 
 function getSemesterTitle($url_fragment) {
@@ -105,31 +121,19 @@ function getSemesterTitle($url_fragment) {
 }
 
 
-
 /*
- * returns an array with 2 parts: 
  *   if url is host.address/staging/some/path/to/file , then:
  *     basePath = /staging
  *     sitePath = /some/path/to/file
  */
-function splitURL() {
+function setPaths(&$basePath, &$sitePath) {
     $script = $_SERVER['SCRIPT_NAME']; //front controller file
     $pos = strrpos($script, '/');
     $request = $_SERVER['REQUEST_URI'];
     $basePath = substr($request, 0, $pos);
     $sitePath = substr($request, $pos);
-    return array($basePath, $sitePath);
 }
 
-/*
- * add index.php if dir; add .php if file
- */
-function getPathToFile($sitePath) {
-    if (substr($sitePath, -1) === '/') {
-        return $sitePath . 'myindex.php';
-    }
-    return $sitePath . '.php';
-}
 
 function getBreadcrumbsArray($arr, $basePath, $site) {
     $bc = array();

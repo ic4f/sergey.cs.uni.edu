@@ -22,8 +22,7 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 <h4>Next Semester: Spring 2017</h4>
 <ul>
     <li><a href="courses/cs1120/spring2017">CS 1120: Media Computation</a>
-    <li><a href="courses/cs1120/spring2017">CS 1510: iIntroduction to Computing</a>
-    <li><a href="courses/comm2555/fall2016">COMM 2555: Interactive Digital Communication</a>
+    <li>COMM 2555: Interactive Digital Communication
 </ul>
 
 <h4>Previous Semesters</h4>
