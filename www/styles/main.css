@@ -225,6 +225,11 @@ table.schedule td:nth-of-type(1) {
     text-align: center;
 }
 
+/* 2ndt column */
+table.schedule td:nth-of-type(2) {
+    text-align: center;
+}
+
 /* 5th column: homework */
 table.schedule td:nth-of-type(5) {
     white-space: nowrap;
@@ -241,11 +246,6 @@ table.days-3 tr:nth-child(6n),
 table.days-3 tr:nth-child(6n-1), 
 table.days-3 tr:nth-child(6n-2) {
    background: #f1f1f1;
-}
-
-
-table.schedule tr:hover {
-    background: #e4e4e4;
 }
 
 table.schedule tr.break {

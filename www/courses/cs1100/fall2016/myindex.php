@@ -20,7 +20,7 @@
 
 
 <br clear="all">
-<h3>Tentative Schedule</h3>
+<h3>Schedule</h3>
 
 <table border=1 class="schedule days-3">
 	<thead>
@@ -33,972 +33,345 @@
 			<th>Homework
 	<tbody>
 		<tr>
-			<td rowspan="3">0</td>
-			<td>Mon, 08/22
-			<td>
-			<td>Session 1: Introduction to computer science and digital media
-			<td>Lab 1: some topic
-			<td>
-		<tr>
-			<td>Wed, 08/24
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 08/26
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">1</td>
-			<td>Mon, 08/29
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 08/31
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 09/02
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">2</td>
-			<td>Mon, 09/05
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 09/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 09/09
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">3</td>
-			<td>Mon, 09/12
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 09/14
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 09/16
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">4</td>
-			<td>Mon, 09/19
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 09/21
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 09/23
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">5</td>
-			<td>Mon, 09/26
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 09/28
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 09/30
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">6</td>
-			<td>Mon, 10/03
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 10/05
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 10/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">7</td>
-			<td>Mon, 10/10
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 10/12
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 10/14
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">8</td>
-			<td>Mon, 10/17
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 10/19
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 10/21
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">9</td>
-			<td>Mon, 10/24
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 10/26
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 10/28
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">10</td>
-			<td>Mon, 10/31
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 11/02
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 11/04
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">11</td>
-			<td>Mon, 11/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 11/09
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 11/11
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">12</td>
-			<td>Mon, 11/14
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 11/16
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 11/18
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">13</td>
-			<td>Mon, 11/21
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 11/23
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 11/25
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">14</td>
-			<td>Mon, 11/28
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 11/30
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 12/02
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">15</td>
-			<td>Mon, 12/05
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 12/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 12/09
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td rowspan="3">16</td>
-			<td>Mon, 12/12
-			<td>
-			<td>
-			<td>
-			<td>
-</table>
-
-<table class="schedule days-3">
-	<thead>
-		<tr>
-			<th>Week
-			<th>Date
-			<th>Readings
-			<th>Topics
-			<th>Labs
-			<th>Homework
-	<tbody>
-		<tr>
-			<td>0</td>
+			<td>1</td>
 			<td>Mon, 08/22
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
-			<td>0</td>
+			<td>1</td>
 			<td>Wed, 08/24
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
-			<td>0</td>
+			<td>1</td>
 			<td>Fri, 08/26
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
-			<td>1</td>
+			<td>2</td>
 			<td>Mon, 08/29
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
-			<td>1</td>
+			<td>2</td>
 			<td>Wed, 08/31
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
-			<td>1</td>
-			<td>Fri, 09/02
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
 			<td>2</td>
-			<td>Mon, 09/05
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>2</td>
-			<td>Wed, 09/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>2</td>
-			<td>Fri, 09/09
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>3</td>
-			<td>Mon, 09/12
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>3</td>
-			<td>Wed, 09/14
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>3</td>
-			<td>Fri, 09/16
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>4</td>
-			<td>Mon, 09/19
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>4</td>
-			<td>Wed, 09/21
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>4</td>
-			<td>Fri, 09/23
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>5</td>
-			<td>Mon, 09/26
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>5</td>
-			<td>Wed, 09/28
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>5</td>
-			<td>Fri, 09/30
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>6</td>
-			<td>Mon, 10/03
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>6</td>
-			<td>Wed, 10/05
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>6</td>
-			<td>Fri, 10/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>7</td>
-			<td>Mon, 10/10
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>7</td>
-			<td>Wed, 10/12
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>7</td>
-			<td>Fri, 10/14
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>8</td>
-			<td>Mon, 10/17
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>8</td>
-			<td>Wed, 10/19
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>8</td>
-			<td>Fri, 10/21
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>9</td>
-			<td>Mon, 10/24
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>9</td>
-			<td>Wed, 10/26
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>9</td>
-			<td>Fri, 10/28
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>10</td>
-			<td>Mon, 10/31
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>10</td>
-			<td>Wed, 11/02
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>10</td>
-			<td>Fri, 11/04
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>11</td>
-			<td>Mon, 11/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>11</td>
-			<td>Wed, 11/09
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>11</td>
-			<td>Fri, 11/11
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>12</td>
-			<td>Mon, 11/14
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>12</td>
-			<td>Wed, 11/16
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>12</td>
-			<td>Fri, 11/18
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>13</td>
-			<td>Mon, 11/21
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>13</td>
-			<td>Wed, 11/23
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>13</td>
-			<td>Fri, 11/25
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>14</td>
-			<td>Mon, 11/28
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>14</td>
-			<td>Wed, 11/30
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>14</td>
-			<td>Fri, 12/02
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>15</td>
-			<td>Mon, 12/05
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>15</td>
-			<td>Wed, 12/07
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>15</td>
-			<td>Fri, 12/09
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>16</td>
-			<td>Mon, 12/12
-			<td>
-			<td>
-			<td>
-			<td>
-</table>
-<table class="schedule days-3">
-	<thead>
-		<tr>
-			<th>Date
-			<th>Readings
-			<th>Topics
-			<th>Labs
-			<th>Homework
-	<tbody>
-		<tr>
-			<td>Mon, 08/22
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 08/24
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Fri, 08/26
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Mon, 08/29
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>Wed, 08/31
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
 			<td>Fri, 09/02
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr class="break">
+			<td>3</td>
 			<td>Mon, 09/05
 			<td>LABOR DAY
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>3</td>
 			<td>Wed, 09/07
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>3</td>
 			<td>Fri, 09/09
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>4</td>
 			<td>Mon, 09/12
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>4</td>
 			<td>Wed, 09/14
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>4</td>
 			<td>Fri, 09/16
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>5</td>
 			<td>Mon, 09/19
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>5</td>
 			<td>Wed, 09/21
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>5</td>
 			<td>Fri, 09/23
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>6</td>
 			<td>Mon, 09/26
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>6</td>
 			<td>Wed, 09/28
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>6</td>
 			<td>Fri, 09/30
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>7</td>
 			<td>Mon, 10/03
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>7</td>
 			<td>Wed, 10/05
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>7</td>
 			<td>Fri, 10/07
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>8</td>
 			<td>Mon, 10/10
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>8</td>
 			<td>Wed, 10/12
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>8</td>
 			<td>Fri, 10/14
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>9</td>
 			<td>Mon, 10/17
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>9</td>
 			<td>Wed, 10/19
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>9</td>
 			<td>Fri, 10/21
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>10</td>
 			<td>Mon, 10/24
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>10</td>
 			<td>Wed, 10/26
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>10</td>
 			<td>Fri, 10/28
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>11</td>
 			<td>Mon, 10/31
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>11</td>
 			<td>Wed, 11/02
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>11</td>
 			<td>Fri, 11/04
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>12</td>
 			<td>Mon, 11/07
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>12</td>
 			<td>Wed, 11/09
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>12</td>
 			<td>Fri, 11/11
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>13</td>
 			<td>Mon, 11/14
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>13</td>
 			<td>Wed, 11/16
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>13</td>
 			<td>Fri, 11/18
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr class="break">
+			<td>14</td>
 			<td>Mon, 11/21
-			<td>THANKSGIVING BREAK
+			<td>THANKDGIVING BREAK
 			<td>
 			<td>
 			<td>
 		<tr class="break">
+			<td>14</td>
 			<td>Wed, 11/23
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr class="break">
+			<td>14</td>
 			<td>Fri, 11/25
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>15</td>
 			<td>Mon, 11/28
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>15</td>
 			<td>Wed, 11/30
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>15</td>
 			<td>Fri, 12/02
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>16</td>
 			<td>Mon, 12/05
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>16</td>
 			<td>Wed, 12/07
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>16</td>
 			<td>Fri, 12/09
 			<td>
 			<td>
 			<td>
 			<td>
 		<tr>
+			<td>17</td>
 			<td>Mon, 12/12
-			<td>Final Exam
+			<td>
 			<td>
 			<td>
 			<td>
