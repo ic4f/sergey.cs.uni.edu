@@ -230,8 +230,8 @@ table.schedule td:nth-of-type(2) {
     text-align: center;
 }
 
-/* 5th column: homework */
-table.schedule td:nth-of-type(5) {
+/* 2nd column: date, 5th column: homework */
+table.schedule td:nth-of-type(2), table.schedule td:nth-of-type(6) {
     white-space: nowrap;
 }
 
@@ -250,6 +250,10 @@ table.days-3 tr:nth-child(6n-2) {
 
 table.schedule tr.break {
    background: #dff0d8; 
+}
+
+table.schedule td[rowspan] {
+   vertical-align: middle;
 }
 
 .textbook {
