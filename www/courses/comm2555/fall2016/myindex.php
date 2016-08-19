@@ -1,11 +1,7 @@
-<div style="overflow:auto;float:left;">
-<img src="images/textbook_williams.jpg" alt="" 
-    class="textbook" style="width:100px;">
-<img src="images/textbook_shay.jpg" alt="" class="textbook" style="width: 100px;">
-</div>
+<img src="images/textbooks.jpg" alt="" 
+    class="float-left" style="width:130px;padding:5px;">
 
 <h3>About the Course</h3>
-
 <aside class="aside1">
     <h5>Links</h5>
     <ul>
@@ -17,14 +13,13 @@
     </ul>
 </aside>
 
-<p>CS 1120: Media Computation provides an introduction to computation, algorithmic thinking, data transformation and processing, and programming in the context of media such as images, sound, and video (course description from the university catalog). 
+<div style="margin-left:160px;">
+    <p>This course is one of the four core courses in the <a href="http://ids.uni.edu">Interactive Digital Studies (IDS) program</a>. It provides a foundation in digital production skills that students will need for all their other IDS classes. 
 
-<p>This course has two primary goals. First, you will study digital media and some of the techniques that are used to digitally represent photo, sound, and text files. Second, the course aims to teach you a bit about how to write computer programs. We hope that you leave this course with a sense of what programs can do and how you can write programs to express ideas. 
-<p>Media computation is the primary theme in this course. Computing with images, sound, and text offers a rich body of problems to solve that will bring us into contact with many of the fundamental ideas of computer science: representing and transforming data; design, analysis, and experimentation; and the thrill of solving problems in any domain of human thought. 
+    <p>Specific content varies from semester to semester; we typically use Adobe Photoshop fot digital image editing and HTML & CSS for web page coding and design. Students will also learn about principles of visual design and designing for the web, as well as proper usage of digital images and other media online.
+</div>
 
 
-
-<br clear="all">
 <h3>Course Schedule</h3>
 <table border=1 class="schedule days-2">
 	<thead>
@@ -47,7 +42,7 @@
 			<td>Thu, 08/25
 			<td>
 			<td>Session 2: How the Internet works, text editors and coding, file management and FTP
-			<td>Lab 1: file management, FTP
+			<td>Lab 1: File management, FTP
 			<td>Homework 1
 		<tr>
 			<td rowspan="2">2</td>
@@ -60,7 +55,7 @@
 			<td>Thu, 09/01
 			<td>
 			<td>Session 4: HTML: common elements; structure and semantics
-			<td>Lab 2: basic HTML
+			<td>Lab 2: Basic HTML
 			<td>
 		<tr>
 			<td rowspan="2">3</td>
@@ -73,7 +68,7 @@
 			<td>Thu, 09/08
 			<td>
 			<td>Session 6: CSS: styling text
-            <td>Lab 3: basic CSS
+            <td>Lab 3: Basic CSS
             <td>
 		<tr>
 			<td rowspan="2">4</td>
@@ -86,7 +81,7 @@
 			<td>Thu, 09/15
 			<td>
 			<td>Session 8: CSS: styling lists and tables
-			<td>Lab 4: lists, tables
+			<td>Lab 4: Lists, tables
 			<td>
 		<tr>
 			<td rowspan="2">5</td>
@@ -99,7 +94,7 @@
 			<td>Thu, 09/22
 			<td>
 			<td>Session 10: CSS box model
-			<td>Lab 5: media, links
+			<td>Lab 5: Media, links
 			<td>
 		<tr>
 			<td rowspan="2">6</td>
@@ -124,8 +119,8 @@
 		<tr>
 			<td>Thu, 10/06
 			<td>
-			<td>Session 14: exam review
-			<td>Lab 7: exam practice
+			<td>Session 14: Exam overview
+			<td>Lab 7: Exam practice
 			<td>
 		<tr>
 			<td rowspan="2">8</td>
@@ -134,33 +129,33 @@
 		<tr>
 			<td>Thu, 10/13
 			<td>
-			<td>Session 15: copyright; Creative Commons
+			<td>Session 15: Copyright; Creative Commons
 			<td>
 			<td>
 		<tr>
 			<td rowspan="2">9</td>
 			<td>Tue, 10/18
 			<td>
-			<td>Session 16: design principles: proximity and alignment
+			<td>Session 16: Design principles: proximity and alignment
 			<td>
 			<td>
 		<tr>
 			<td>Thu, 10/20
 			<td>
-			<td>Session 17: introduction to Photoshop; selection tools
+			<td>Session 17: Introduction to Photoshop; selection tools
 			<td>Lab 8: Photoshop practice
 			<td>
 		<tr>
 			<td rowspan="2">10</td>
 			<td>Tue, 10/25
 			<td>
-			<td>Session 18: design principles: repetition and contrast; Illustrator
+			<td>Session 18: Design principles: repetition and contrast; Illustrator
 			<td>
 			<td>Homework 5
 		<tr>
 			<td>Thu, 10/27
 			<td>
-			<td>Session 19: .....
+			<td>Session 19: Photoshop: more selection tools, smart objects 
 			<td>Lab 9: Illustrator practice
 			<td>
 		<tr>
@@ -180,14 +175,14 @@
 			<td rowspan="2">12</td>
 			<td>Tue, 11/08
 			<td>
-			<td>Session 22: 
+			<td>Session 22: Typography
 			<td>
 			<td>Homework 6
 		<tr>
 			<td>Thu, 11/10
 			<td>
-			<td>Session 23:
-			<td>Lab 11: 
+			<td>Session 23: Typography (continued); exam overview
+			<td>Lab 11: Typography 
 			<td>
 		<tr>
 			<td rowspan="2">13</td>
@@ -196,7 +191,7 @@
 		<tr>
 			<td>Thu, 11/17
 			<td>
-			<td>Session 24:
+			<td>Session 24: Project discussion
 			<td>
 			<td>
 		<tr class="break">
@@ -209,26 +204,26 @@
 			<td rowspan="2">15</td>
 			<td>Tue, 11/29
 			<td>
-			<td>Session 25:
+			<td>Session 25: Project implementation: layout
 			<td>
 			<td>
 		<tr>
 			<td>Thu, 12/01
 			<td>
-			<td>Session 26:
-			<td>
+			<td>Session 26: Project implementation: layout (continued)
+			<td>Lab 12: Layout
 			<td>
 		<tr>
 			<td rowspan="2">16</td>
 			<td>Tue, 12/06
 			<td>
-			<td>Session 27:
+			<td>Session 27: Project implementation: editorial style 
 			<td>
 			<td>
 		<tr>
 			<td>Thu, 12/08
 			<td>
-			<td>Session 28:
+			<td>Session 28: Project implementation: editorial style (continued) 
 			<td>
 			<td>
 		<tr>

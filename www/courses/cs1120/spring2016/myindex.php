@@ -1,4 +1,4 @@
-<img src="images/textbook.jpg" alt="" class="textbook">
+<img src="images/textbook.jpg" alt="" class="textbook float-left">
 <h3>About the Course</h3>
 
 <aside class="aside1">
