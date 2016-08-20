@@ -16,6 +16,8 @@ $site['/courses/cs1100/fall2016'] = 'CS 1100: Web Development: Client-Side Codin
 
 # C0MM2555 ----------------------------------------------------------------- #
 $site['/courses/comm2555/fall2016'] = 'COMM 2555: Interactive Digital Communication'; 
+$site['/courses/comm2555/fall2016/resources'] = 'Resources';
+$site['/courses/comm2555/fall2016/credits'] = 'Credits';
 
 
 
