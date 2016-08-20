@@ -21,7 +21,7 @@
 
 
 <h3>Course Schedule</h3>
-<table border=1 class="schedule days-2">
+<table class="schedule days-2">
 	<thead>
 		<tr>
 			<th>Week

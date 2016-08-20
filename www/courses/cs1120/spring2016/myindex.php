@@ -22,7 +22,7 @@
 <br clear="all">
 <h3>Tentative Schedule</h3>
 
-<table class="schedule">
+<table class="schedule days-2">
     <thead>
         <tr>
             <th>Date
@@ -208,7 +208,7 @@
             <td>
             <td>
             <td>
-            <td>Homework 6
+            <td><a href="homework/hw6.pdf">Homework 6</a>
         <tr>
             <td>04/21
             <td>
@@ -220,7 +220,7 @@
             <td>
             <td>
             <td>
-            <td>Homework 7
+            <td>
         <tr>
             <td>04/28
             <td>
