@@ -237,6 +237,6 @@
 			<td>
 		<tr class="week">
 			<td>17</td>
-			<td>Tue, 12/13
-			<td colspan="4">Final Project Presentation
+			<td>Thu 12/15
+			<td colspan="4">Final Project Presentation (section 2: 10:00 - 11:50 a.m. / section 3: 3:00 - 4:50 p.m.)
 </table>
