@@ -46,7 +46,7 @@
 			<td rowspan="3">1</td>
 			<td>Mon, 08/22
             <td> 
-            <td>Session 1: Introduction to the course
+            <td><a href="sessions/1">Session 1: Introduction to the course</a>
 			<td>
 			<td>
 		<tr>

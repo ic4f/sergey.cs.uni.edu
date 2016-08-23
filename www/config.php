@@ -11,6 +11,7 @@ $site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History';
 
 # CS1100 ------------------------------------------------------------------- #
 $site['/courses/cs1100/fall2016'] = 'CS 1100: Web Development: Client-Side Coding';
+$site['/courses/cs1100/fall2016/sessions/1'] = 'Session 1: Introduction to the Course';
 
 
 
