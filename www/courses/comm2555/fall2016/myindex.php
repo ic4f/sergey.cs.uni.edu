@@ -35,7 +35,7 @@
 			<td rowspan="2">1</td>
 			<td>Tue, 08/23
 			<td>
-			<td>Session 1: Introduction to the course
+			<td><a href="sessions/1">Session 1: Introduction to the course</a>
 			<td>
 			<td>
 		<tr>
@@ -43,7 +43,7 @@
 			<td>
 			<td>Session 2: How the Internet works, text editors and coding, file management and FTP
 			<td>Lab 1
-			<td>Homework 1
+			<td>Homework 1: <br><em><span style="color:maroon">due 8/24</span>, available on eLearning</em>
 		<tr class="week">
 			<td rowspan="2">2</td>
 			<td>Tue, 08/30
