@@ -29,7 +29,7 @@
 
 
 
-<br clear="all">
+<br style="clear: all;">
 <h3>Schedule</h3>
 
 <table class="schedule days-3">
