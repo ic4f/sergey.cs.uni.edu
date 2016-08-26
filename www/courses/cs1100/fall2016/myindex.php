@@ -59,8 +59,9 @@
 			<td>Fri, 08/26
 			<td>
 			<td>
-			<td>Lab-1
-			<td>Homework 1
+			<td><a href="labs/lab1.pdf">Lab-1</a>
+            <td>Homework 1
+                <br><em>available on eLearning</em>
 		<tr class="week">
 			<td rowspan="3">2</td>
 			<td>Mon, 08/29
