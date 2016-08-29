@@ -66,7 +66,7 @@
 			<td rowspan="3">2</td>
 			<td>Mon, 08/29
 			<td><a href="http://learn.shayhowe.com/html-css/getting-to-know-html/">Shay, chapter 2</a> (In Practice: optional)
-			<td>Session 3: HTML: common elements, links, images, structure &amp; semantics
+			<td><a href="sessions/3">Session 3: HTML: common elements, links, images, structure &amp; semantics</a>
 			<td>
 			<td>
 		<tr>
@@ -75,7 +75,7 @@
                 <br><a href="http://learn.shayhowe.com/html-css/getting-to-know-css/">Shay, chapter 3</a> (Common CSS Property Values, The Cascade)
 			<td>Session 4: CSS common properties: color and length; selectors; cascading and inheritance
 			<td>
-			<td>Homework 2 
+			<td><a href="homework/hw2.pdf">Homework 2 </a>
 		<tr>
 			<td>Fri, 09/02
 			<td>

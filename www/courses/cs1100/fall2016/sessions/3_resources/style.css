@@ -1,0 +1,71 @@
+body {
+	background-image: url(http://cs.uni.edu/images/layout/bg2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 190px;
+}
+
+#top {
+	margin-bottom: 30px;
+}
+
+#left {	
+	float: left;
+	width: 200px;
+	padding: 15px;
+}
+
+#right {
+	float: right;
+	width: 200px;
+	padding: 15px;	
+}
+
+#center {
+	margin: 0 230px 0 230px;
+	padding: 20px 50px 0 50px;	
+	border-left: navy 1px dotted;
+	border-right: navy 1px dotted;
+}
+
+#left, #right, #center {
+	font-family: Verdana, Arial, Sans-Serif;	
+	font-size: 0.8em;
+	color: #444;
+	line-height: 140%;		
+}
+
+#left, #right {
+	font-size: 0.7em;
+}
+
+#top h2 {	
+	margin: 125px 0 0 80px;
+	font-size: 1.1em;	
+}
+
+#top h1 {	
+	margin: -5px 0 0 50px;
+	font-size: 3em;	
+}
+
+#top h2, #top h1 {
+	color: white;
+	font-variant: small-caps;
+	letter-spacing: 0.1em;	
+	font-family: "Times New Roman", Serif; 	
+}
+
+li {
+	color: navy;
+	border-bottom: navy 1px dotted;
+	padding-top: 10px;
+	font-size: 1.2em;
+}
+
+ul {
+	margin-bottom: 30px;
+}
+
+p {
+	margin-bottom: 20px;
+}
