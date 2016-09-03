@@ -96,7 +96,7 @@
                 <br><a href="http://learn.shayhowe.com/html-css/opening-the-box-model/">Shay, chapter 4</a> (up to In Practice)
 			<td>Session 5: HTML lists &amp; tables; CSS box model 
 			<td>
-			<td>Homework 3
+			<td><a href="homework/hw3.pdf">Homework 3</a>
 		<tr>
 			<td>Fri, 09/09
 			<td>
