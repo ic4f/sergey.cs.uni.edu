@@ -6,13 +6,14 @@
         <title><?php echo $html_head_title;?></title>
         <link rel="stylesheet" href="<?php echo $basePath; ?>/styles/reset.css">
         <link rel="stylesheet" href="<?php echo $basePath; ?>/styles/main.css">
+<?php echo $html_localCSS; ?>
+
 <?php include_once "_system/googleanalytics.html"; ?>
     </head>
     <body>
 
+
 <?php 
-
-
 if ($html_showHeader === true) : ?>
 
         <header class="header-global">

@@ -15,6 +15,7 @@ $html_lastmodified = date("F d Y H:i:s", @filemtime($physicalPath));
 $sitePath = rtrim($sitePath, '/');
 
 $arr = explode('/', $sitePath);
+$html_localCSS = makeLocalCSS($arr, $basePath);
 
 require "config.php";
 
@@ -180,4 +181,12 @@ function getBreadcrumbsHTML($bc) {
     }
     return $html;
 }
+
+function makeLocalCSS($arr, $basePath) {
+    if (count($arr) > 3 and $arr[1] === 'courses') {
+        return "\t\t" . '<link rel="stylesheet" href="' . $basePath . '/courses/' . $arr[2] . '/' . $arr[3] . '/semester.css">';
+    }
+    return "";
+}
+
 

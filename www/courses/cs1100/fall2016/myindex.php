@@ -52,7 +52,7 @@
 		<tr>
 			<td>Wed, 08/24
 			<td><a href="http://learn.shayhowe.com/html-css/building-your-first-web-page/">Shay, chapter 1</a> (In Practice: optional)
-			<td>Session 2: Internet &amp; WWW, client-server model, static &amp; dynamic websites, HTML &amp; CSS
+			<td><a href="sessions/2">Session 2: Internet &amp; WWW, client-server model, static &amp; dynamic websites, HTML &amp; CSS</a>
 			<td>
 			<td>
 		<tr>

@@ -34,6 +34,17 @@ img.float-r {
     margin: 0 0 20px 20px;
 }
 
+strong {
+    font-weight: bold;
+}
+
+blockquote {
+    margin-left: 30px;
+    color: #777;
+    border-left: 5px #f1f1f1 solid;
+    padding-left: 10px;
+    font-style: italic;
+}
 
 /* ----------------- header: global info/links ---------------- */
 header.header-global {
