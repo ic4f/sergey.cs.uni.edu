@@ -21,9 +21,8 @@
 </ul>
 
 <h4>The World Wide Web: origins and basic concepts</h4>
-    <li><p>Invented by Tim Berners-Lee, a british scientist who was working at CERN
-
 <ul>
+    <li>Invented by Tim Berners-Lee, a british scientist who was working at CERN
     <li>1989: first proposal circulated 
     <li>1990: <a href="http://info.cern.ch/hypertext/WWW/TheProject.html">first web page</a> goes online 
 
