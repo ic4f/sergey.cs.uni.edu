@@ -63,6 +63,7 @@
             <td><a href="http://learn.shayhowe.com/html-css/building-your-first-web-page/">Shay, chapter 1</a> (review Working with Selectors)
                 <br><a href="http://learn.shayhowe.com/html-css/getting-to-know-css/">Shay, chapter 3</a> (Common CSS Property Values, The Cascade)
 			<td>Session 5: CSS common properties: color and length; basic selectors; cascading and inheritance
+                <br><a href="http://weblab.uni.edu/sergey/week3.html">CSS exercise</a>
 			<td>
 			<td>Homework 2
 		<tr>
