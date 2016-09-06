@@ -80,7 +80,8 @@
 			<td>Fri, 09/02
 			<td>
 			<td>
-			<td>Lab-2
+            <td><a href="labs/lab2.pdf">Lab-2</a>
+                <br><a href="labs/lab2.zip">lab files</a>
 			<td>
 		<tr class="break week">
 			<td rowspan="3" style="background: #fff;">3</td>
