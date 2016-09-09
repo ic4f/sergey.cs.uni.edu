@@ -1,15 +1,13 @@
 import sys 
 from datetime import date, timedelta
 
-def main() :
+def main():
     """
     Args:
         year: year of start date
         month: month of start date
         day: day of start date
         instruction_days: number of weekly meetings (2 or 3)
-        debugging-mode (optional): any additional argument will imply 
-            debugging mode
     """
     year = int(sys.argv[1])
     month = int(sys.argv[2])
@@ -59,7 +57,8 @@ def get_header(instruction_days):
     if (len(sys.argv) == 6):
         html += '<link rel="stylesheet" href="testing.css">\n\n'
 
-    html += '<table border=1 class="schedule days-{0}">'.format(instruction_days)
+    html += '<table border=1 class="schedule days-{0}">'. \
+        format(instruction_days)
     html += '\n\t<thead>'
     html += '\n\t\t<tr>'
     html += '\n\t\t\t<th>Week'
