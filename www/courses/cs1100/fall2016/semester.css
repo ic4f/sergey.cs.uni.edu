@@ -1,1 +1,7 @@
-.
+.content ul {
+    margin-top: 0;
+}
+
+.content h5, .content h4 {
+    margin-bottom: 0.5em;
+}

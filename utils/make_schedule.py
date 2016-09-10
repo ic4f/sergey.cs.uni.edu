@@ -22,12 +22,12 @@ def main():
     html = get_header(instruction_days)
     counter = 0
     week = 1
+
     for i in range(day_count):
         html += '\n\t\t<tr>'
-
         html += '\n\t\t\t<td>{1}</td>'.format(instruction_days, week)
-
         html += '\n\t\t\t<td>' + mydate.strftime('%a, %m/%d')
+
         for j in range(4):
             html += '\n\t\t\t<td>'
 
