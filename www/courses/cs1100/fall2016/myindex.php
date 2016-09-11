@@ -96,14 +96,16 @@
                 <br><a href="http://learn.shayhowe.com/html-css/organizing-data-with-tables/">Shay, chapter 11</a> (Table Borders; Aligning Text) 
                 <br><a href="http://learn.shayhowe.com/html-css/opening-the-box-model/">Shay, chapter 4</a> (up to In Practice)
 			<td>Session 5: HTML lists &amp; tables; CSS box model 
+            <td><a href="labs/lab3part1.pdf">Lab-3 part 1</a>
+                <br><a href="labs/lab3part1.zip">lab files</a>
 			<td>
-			<td><a href="homework/hw3.pdf">Homework 3</a>
 		<tr>
 			<td>Fri, 09/09
 			<td>
 			<td>
-			<td>Lab-3
-			<td>
+            <td><a href="labs/lab3part2.pdf">Lab-3 part 2</a>
+                <br><a href="labs/lab3part2.zip">lab files</a>
+			<td><a href="homework/hw3.pdf">Homework 3</a>
 		<tr class="week">
 			<td rowspan="3">4</td>
 			<td>Mon, 09/12
@@ -120,13 +122,13 @@
 			<td>TBD
 			<td>Session 7: Responsive design: displaying web pages on any device
 			<td>
-			<td>Homework 4
+			<td>
 		<tr>
 			<td>Fri, 09/16
 			<td>
 			<td>
 			<td>Lab-4
-			<td>
+			<td><a href="homework/hw4.pdf">Homework 4</a>
 		<tr class="week">
 			<td rowspan="3">5</td>
 			<td>Mon, 09/19
