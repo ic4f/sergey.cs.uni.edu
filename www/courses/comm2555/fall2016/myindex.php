@@ -42,7 +42,7 @@
 			<td>Thu, 08/25
 			<td>
 			<td>Session 2: How the Internet works, text editors and coding, file management and FTP
-			<td>Lab 1
+			<td><a href="labs/lab1.pdf">Lab 1</a>
 			<td>Homework 1: <br><em><span style="color:maroon">due 8/24</span>, available on eLearning</em>
 		<tr class="week">
 			<td rowspan="2">2</td>
@@ -55,7 +55,7 @@
 			<td>Thu, 09/01
             <td><a href="http://learn.shayhowe.com/html-css/getting-to-know-html/">Shay, chapter 2</a> (read up to Hyperlinks; In Practice: optional)
 			<td>Session 4: HTML: common elements; structure and semantics
-			<td>Lab 2
+			<td><a href="labs/lab2.pdf">Lab 2</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">3</td>
@@ -65,12 +65,13 @@
 			<td>Session 5: CSS common properties: color and length; basic selectors; cascading and inheritance
                 <br><a href="http://weblab.uni.edu/sergey/week3.html">CSS exercise</a>
 			<td>
-			<td>Homework 2
+			<td><a href="homework/hw2.pdf">Homework 2</a>
 		<tr>
 			<td>Thu, 09/08
 			<td><a href="http://learn.shayhowe.com/html-css/working-with-typography/">Shay, chapter 6</a> (In Practice: optional)
 			<td>Session 6: CSS: styling text
-            <td>Lab 3
+            <td><a href="labs/lab3.pdf">Lab 3</a>
+                <br><a href="labs/lab3.zip">lab files</a>
             <td>
 		<tr class="week">
 			<td rowspan="2">4</td>
