@@ -8,6 +8,7 @@ def main():
         month: month of start date
         day: day of start date
         instruction_days: number of weekly meetings (2 or 3)
+        - debug mode: any additional parameter (optional)
     """
     year = int(sys.argv[1])
     month = int(sys.argv[2])
@@ -25,7 +26,7 @@ def main():
 
     for i in range(day_count):
         html += '\n\t\t<tr>'
-        html += '\n\t\t\t<td>{1}</td>'.format(instruction_days, week)
+        html += '\n\t\t\t<td>{1}'.format(instruction_days, week)
         html += '\n\t\t\t<td>' + mydate.strftime('%a, %m/%d')
 
         for j in range(4):

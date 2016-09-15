@@ -16,3 +16,11 @@
 <h4>Code</h4>
 
 <p><a href="code/template.html">Blank HTML template</a> (right-click, then save link as)
+<p><a href="http://meyerweb.com/eric/tools/css/reset/reset.css">reset.css</a> (right-click, then save link as)
+
+<h4>Validators</h4>
+
+<p><a href="https://validator.w3.org/">HTML validation service</a> by W3C
+<p><a href="https://jigsaw.w3.org/css-validator/">CSS validation service</a> by W3C
+
+
