@@ -127,7 +127,8 @@
 			<td>Fri, 09/16
 			<td>
 			<td>
-			<td>Lab-4
+			<td><a href="labs/lab4.pdf">Lab-4</a>
+                <br><a href="labs/lab4.zip">lab files</a>
 			<td><a href="homework/hw4.pdf">Homework 4</a>
 		<tr class="week">
 			<td rowspan="3">5</td>
@@ -141,13 +142,15 @@
 			<td>TBD
 			<td>Session 9: Simplifying responsive design with Bootstrap
 			<td>
-			<td>Homework 5
+			<td>
 		<tr>
 			<td>Fri, 09/23
 			<td>
 			<td>
 			<td>Lab-5
-			<td>
+			<td><a href="homework/hw5.pdf">Homework 5</a>
+                <br><a href="homework/hw5.zip">homework files</a>
+                <br><a href="homework/hw5_screenshot.png">target screenshot</a>
 		<tr class="week">
 			<td rowspan="3">6</td>
 			<td>Mon, 09/26
