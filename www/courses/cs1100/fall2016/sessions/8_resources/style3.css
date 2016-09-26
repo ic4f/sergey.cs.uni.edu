@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+
+#text {
+	padding: 20px;
+	font-size: 0.9em;
+	line-height: 1.5em;	
+}
+
+#text h1, p {
+	margin-bottom: 1em;
+}
+
+#text h1 {
+	font-size: 1.7em;
+}
+
+div.header {
+    text-align: center;
+    padding-bottom: 2.7em;
+    background: #381f10;
+}
+
+div.header h1 {
+    color: #fff;
+    font-size: 2.85em;
+    font-family: 'Fredericka the Great', cursive;		
+	margin-top: .15em;
+}
+
+div.menu {
+ padding-top: .6em;
+}
+
+div.menu a {
+    color: #ccc;
+    text-decoration: none;
+    padding: 1.2em;
+}
+
+div.menu a:hover {
+    color: #fff;
+}
+
+img {
+	width: 100%;
+}
+
+div.main {
+	background: #d2d2be; /* this can be commented out */
+	margin-top: -2.2em;
+	padding-top: 1em; 
+}
+
+div.footer {
+    padding: 1.5em 0 3em 0;
+    text-align: center;
+    color: #777;
+    font-size: .9em;
+	background: #fff;
+}
+
+button {
+    margin-top: .2em;
+}
+
+figure {
+	margin-bottom: 2em;
+}
+
+figcaption {
+	font-size: .9em;
+}

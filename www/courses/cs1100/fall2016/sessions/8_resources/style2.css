@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+
+#text {
+	padding: 20px;
+	font-size: 0.9em;
+	line-height: 1.5em;	
+	text-align: left;
+}
+
+#text h1, p {
+	margin-bottom: 1em;
+}
+
+#text h1 {
+	font-size: 1.7em;
+}
+
+#gallery {
+	overflow: auto;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 50px;
+    background: #381f10;
+}
+
+header h1 {
+    color: #fff;
+    font-size: 2.5em;
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+nav {
+    padding: 10px;
+}
+
+nav a {
+    color: #ccc;
+    font-size: .9em;
+    text-decoration: none;
+    padding: 15px;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
+footer {
+    padding: 20px 0 40px 0;
+    text-align: center;
+    color: #777;
+    font-size: .8em;
+}
+
+img {
+    border: 1px #555 solid;
+}
+
+figcaption {
+    font-size: .8em;
+    color: #444;
+}
+
+button {
+    margin-top: 3px;
+    color: #666;
+}
+
+#main {
+    width: 90%;
+	text-align: center;
+    margin: auto;
+    padding: 10px;
+    overflow: auto;
+    margin-top: -30px;
+    background: #d2d2be;
+}
+
+#featured {
+    padding: 10px;
+}
+
+#featured img {
+   width: 100%;
+}
+
+#gallery figure {
+    width: 22%;
+    float: left;
+    margin: 10px;
+}
+
+#gallery img {
+   width: 100%;
+}
+
+

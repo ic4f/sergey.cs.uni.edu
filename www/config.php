@@ -14,7 +14,12 @@ $site['/courses/cs1100/fall2016'] = 'CS 1100: Web Development: Client-Side Codin
 $site['/courses/cs1100/fall2016/credits'] = 'Credits';
 $site['/courses/cs1100/fall2016/sessions/1'] = 'Session 1: Introduction to the Course';
 $site['/courses/cs1100/fall2016/sessions/2'] = 'Session 2: Internet &amp; WWW: Essential background';
-$site['/courses/cs1100/fall2016/sessions/3'] = 'Session 3: Introduction to HTML';
+$site['/courses/cs1100/fall2016/sessions/3'] = 'Session 3: Introduction to HTML &amp; CSS (part 1)';
+$site['/courses/cs1100/fall2016/sessions/4'] = 'Session 4: Introduction to HTML &amp; CSS (part 2)';
+$site['/courses/cs1100/fall2016/sessions/6'] = 'Session 6: Review of lists and tables; CSS box model';
+$site['/courses/cs1100/fall2016/sessions/7'] = 'Session 7: Introduction to CSS layout';
+$site['/courses/cs1100/fall2016/sessions/8'] = 'Session 8: Approaches to layout';
+$site['/courses/cs1100/fall2016/sessions/9'] = 'Session 9: Responsive design: Displaying web pages on any device';
 
 
 
