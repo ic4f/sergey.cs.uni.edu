@@ -68,7 +68,7 @@
 			<td>Wed, 08/31
             <td><a href="http://learn.shayhowe.com/html-css/building-your-first-web-page/">Shay, chapter 1</a> (review Working with Selectors)
                 <br><a href="http://learn.shayhowe.com/html-css/getting-to-know-css/">Shay, chapter 3</a> (Common CSS Property Values, The Cascade)
-			<td><a href="sessions/3">Session 4: Introduction to HTML &amp; CSS (part 2)</a>
+			<td><a href="sessions/4">Session 4: Introduction to HTML &amp; CSS (part 2)</a>
 			<td><a class="hw" href="homework/hw2.pdf">Homework 2 </a>
 		<tr>
 			<td>Fri, 09/02
