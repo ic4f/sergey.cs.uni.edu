@@ -149,51 +149,51 @@
 		<tr>
 			<td>Fri, 09/30
 			<td>Chinnathambi, ch. 1, 2, 9 
-			<td>Session 10: Introduction to programming &amp; JavaScript
+			<td><a href="sessions/10_resources/slides10.pdf">Session 10: Introduction to programming &amp; JavaScript</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">7</td>
 			<td>Mon, 10/03
 			<td>Chinnathambi, ch. 11, 21, 22
-			<td>Session 11: How JavaScript "sees" your web page: the Document Object Model (DOM)
+			<td><a href="sessions/11">Session 11: The JavaScript language</a> 
 			<td>
 		<tr>
 			<td>Wed, 10/05
 			<td>Chinnathambi, ch. 3
-			<td>Session 12:  Simplifying your code with functions
-			<td>Homework 6
+			<td>Session 12:  How JavaScript "sees" your web page: the Document Object Model (DOM)
+			<td>
 		<tr>
 			<td>Fri, 10/07
 			<td>
-			<td class="lab">Lab-7
+			<td class="lab">Lab-7: JavaScript assignment statements; accessing and modifying basic DOM properties
 			<td>
 		<tr class="week">
 			<td rowspan="3">8</td>
 			<td>Mon, 10/10
 			<td>Chinnathambi, ch. 4
-			<td>Session 13: Code that makes decisions: conditional statements; modifying &amp; styling DOM elements
+			<td>Session 13: Simplifying your code with functions
 			<td>
 		<tr>
 			<td>Wed, 10/12
 			<td>Chinnathambi, ch. 23, 24, 27
-			<td>Session 14: (continued)
-			<td>Homework 7
+			<td>Session 14: Using functions (continued)
+			<td>Homework 6
 		<tr>
 			<td>Fri, 10/14
 			<td>
-			<td class="lab">Lab-8
+			<td class="lab">Lab-8: Using functions
 			<td>
 		<tr class="week">
 			<td rowspan="3">9</td>
 			<td>Mon, 10/17
 			<td>Chinnathambi, ch. 5, 25
-			<td>Session 15: Code that knows how to repeat things: loops; traversing the DOM 
+			<td>Session 15: Code that makes decisions: conditional statements; modifying &amp; styling DOM elements
 			<td>
 		<tr>
 			<td>Wed, 10/19
 			<td>
-			<td>Session 16: (continued)
-			<td>Homework 8
+			<td>Session 16: Code that knows how to repeat things: loops; traversing the DOM 
+			<td>Homework 7
 		<tr>
 			<td>Fri, 10/21
 			<td>
@@ -209,7 +209,7 @@
 			<td>Wed, 10/26
 			<td>
 			<td>Session 18: (continued)
-			<td>Homework 9
+			<td>Homework 8
 		<tr>
 			<td>Fri, 10/28
 			<td>
@@ -225,7 +225,7 @@
 			<td>Wed, 11/02
 			<td>
 			<td>Session 20: Putting it all together: modifying the DOM tree in response to browser events
-			<td>Homework 10
+			<td>Homework 9
 		<tr>
 			<td>Fri, 11/04
 			<td>
@@ -255,7 +255,7 @@
 			<td>Wed, 11/16
 			<td>TBD
 			<td>Session 23: Beautiful user interfaces with jQueryUI
-			<td>Homework 11
+			<td>Homework 10
 		<tr>
 			<td>Fri, 11/18
 			<td>

@@ -21,6 +21,8 @@ $site['/courses/cs1100/fall2016/sessions/7'] = 'Session 7: Introduction to CSS l
 $site['/courses/cs1100/fall2016/sessions/8'] = 'Session 8: Approaches to layout';
 $site['/courses/cs1100/fall2016/sessions/9'] = 'Session 9: Responsive design: Displaying web pages on any device';
 
+$site['/courses/cs1100/fall2016/sessions/11'] = 'Session 11: The JavaScript Language';
+
 
 
 # C0MM2555 ----------------------------------------------------------------- #
