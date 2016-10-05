@@ -155,12 +155,12 @@
 			<td rowspan="3">7</td>
 			<td>Mon, 10/03
 			<td>Chinnathambi, ch. 11, 21, 22
-			<td><a href="sessions/11">Session 11: The JavaScript language</a> 
+			<td><a href="sessions/11_resources/slides11.pdf">Session 11: The JavaScript language</a> 
 			<td>
 		<tr>
 			<td>Wed, 10/05
 			<td>Chinnathambi, ch. 3
-			<td>Session 12:  How JavaScript "sees" your web page: the Document Object Model (DOM)
+			<td><a href="sessions/12_resources/slides12.pdf">Session 12:  How JavaScript "sees" your web page: the Document Object Model (DOM)</a>
 			<td>
 		<tr>
 			<td>Fri, 10/07
