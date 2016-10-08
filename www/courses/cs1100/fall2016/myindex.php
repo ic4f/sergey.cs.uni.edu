@@ -159,46 +159,48 @@
 			<td>
 		<tr>
 			<td>Wed, 10/05
-			<td>Chinnathambi, ch. 3
+			<td>
 			<td><a href="sessions/12_resources/slides12.pdf">Session 12:  How JavaScript "sees" your web page: the Document Object Model (DOM)</a>
 			<td>
 		<tr>
 			<td>Fri, 10/07
 			<td>
-			<td class="lab">Lab-7: JavaScript assignment statements; accessing and modifying basic DOM properties
+            <td class="lab"><a href="labs/lab6.pdf">Lab-6: Exploring JavaScript: variables, statements, operators, introducing the DOM</a>
+                <br><a href="labs/lab6.zip">download lab files</a>
+
 			<td>
 		<tr class="week">
 			<td rowspan="3">8</td>
 			<td>Mon, 10/10
-			<td>Chinnathambi, ch. 4
+			<td>Chinnathambi, ch. 3
 			<td>Session 13: Simplifying your code with functions
 			<td>
 		<tr>
 			<td>Wed, 10/12
 			<td>Chinnathambi, ch. 23, 24, 27
 			<td>Session 14: Using functions (continued)
-			<td>Homework 6
+			<td>
 		<tr>
 			<td>Fri, 10/14
 			<td>
-			<td class="lab">Lab-8: Using functions
-			<td>
+			<td class="lab">Lab-7: Using functions
+			<td>Homework 6
 		<tr class="week">
 			<td rowspan="3">9</td>
 			<td>Mon, 10/17
-			<td>Chinnathambi, ch. 5, 25
+			<td>Chinnathambi, ch. 4, 25
 			<td>Session 15: Code that makes decisions: conditional statements; modifying &amp; styling DOM elements
 			<td>
 		<tr>
 			<td>Wed, 10/19
-			<td>
+			<td>Chinnathambi, ch. 5
 			<td>Session 16: Code that knows how to repeat things: loops; traversing the DOM 
-			<td>Homework 7
+			<td>
 		<tr>
 			<td>Fri, 10/21
 			<td>
-			<td class="lab">Lab-9
-			<td>
+			<td class="lab">Lab-8
+			<td>Homework 7
 		<tr class="week">
 			<td rowspan="3">10</td>
 			<td>Mon, 10/24
@@ -209,12 +211,12 @@
 			<td>Wed, 10/26
 			<td>
 			<td>Session 18: (continued)
-			<td>Homework 8
+			<td>
 		<tr>
 			<td>Fri, 10/28
 			<td>
-			<td class="lab">Lab-10
-			<td>
+			<td class="lab">Lab-9
+			<td>Homework 8
 		<tr class="week">
 			<td rowspan="3">11</td>
 			<td>Mon, 10/31
@@ -225,12 +227,12 @@
 			<td>Wed, 11/02
 			<td>
 			<td>Session 20: Putting it all together: modifying the DOM tree in response to browser events
-			<td>Homework 9
+			<td>
 		<tr>
 			<td>Fri, 11/04
 			<td>
-			<td class="lab">Lab-11
-			<td>
+			<td class="lab">Lab-10
+			<td>Homework 9
 		<tr class="week">
 			<td rowspan="3">12</td>
 			<td>Mon, 11/07
@@ -243,7 +245,7 @@
 		<tr>
 			<td>Fri, 11/11
 			<td>
-			<td class="lab">Lab-12
+			<td class="lab">Lab-11
 			<td>
 		<tr class="week">
 			<td rowspan="3">13</td>
@@ -255,12 +257,12 @@
 			<td>Wed, 11/16
 			<td>TBD
 			<td>Session 23: Beautiful user interfaces with jQueryUI
-			<td>Homework 10
+			<td>
 		<tr>
 			<td>Fri, 11/18
 			<td>
-			<td class="lab">Lab-13
-			<td>
+			<td class="lab">Lab-12
+			<td>Homework 10
 		<tr class="break week">
 			<td rowspan="3">14</td>
 			<td>Mon, 11/21
@@ -283,7 +285,7 @@
 		<tr>
 			<td>Fri, 12/02
 			<td>
-			<td class="lab">Lab-14
+			<td class="lab">Lab-13
 			<td>
 		<tr class="week">
 			<td rowspan="3">16</td>
