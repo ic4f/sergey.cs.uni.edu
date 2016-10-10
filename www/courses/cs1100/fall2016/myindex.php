@@ -173,7 +173,8 @@
 			<td rowspan="3">8</td>
 			<td>Mon, 10/10
 			<td>Chinnathambi, ch. 3
-			<td>Session 13: Simplifying your code with functions
+            <td>Session 13: Simplifying your code with functions
+                <br><a href="sessions/13_resources/ives.html">download code</a>
 			<td>
 		<tr>
 			<td>Wed, 10/12
