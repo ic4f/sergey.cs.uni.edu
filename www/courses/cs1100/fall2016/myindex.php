@@ -135,8 +135,8 @@
 			<td class="lab"><a href="labs/lab5.pdf">Lab-5: Implementing responsive design with Bootstrap</a>
                 <br><a href="labs/lab5.zip">download lab files</a>
 			<td><a class="hw" href="homework/hw5.pdf">Homework 5</a>
-                <br><a href="homework/hw5.zip">homework files</a>
-                <br><a href="homework/hw5_screenshot.png">target screenshot</a>
+                <br><a class="hw" href="homework/hw5.zip">homework files</a>
+                <br><a class="hw" href="homework/hw5_screenshot.png">target screenshot</a>
 		<tr class="week">
 			<td rowspan="3">6</td>
 			<td>Mon, 09/26
@@ -185,7 +185,8 @@
 			<td>Fri, 10/14
 			<td>
 			<td class="lab">Lab-7: Using functions
-			<td>Homework 6
+			<td><a class="hw" href="homework/hw6.pdf">Homework 6</a>
+                <br><a class="hw" href="homework/hw6.zip">homework file</a>
 		<tr class="week">
 			<td rowspan="3">9</td>
 			<td>Mon, 10/17
