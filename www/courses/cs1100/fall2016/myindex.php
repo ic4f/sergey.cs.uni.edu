@@ -179,7 +179,7 @@
 		<tr>
 			<td>Wed, 10/12
 			<td>Chinnathambi, ch. 23, 24, 27
-			<td>Session 14: Using functions (continued)
+			<td><a href="sessions/14_resources/slides14.pdf">Session 14: More on using functions and the DOM</a>
 			<td>
 		<tr>
 			<td>Fri, 10/14
