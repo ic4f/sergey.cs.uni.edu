@@ -192,6 +192,7 @@
 			<td>Mon, 10/17
 			<td>Chinnathambi, ch. 4, 25
 			<td>Session 15: Code that makes decisions: conditional statements; modifying &amp; styling DOM elements
+                <br><a href="sessions/15_resources/practice.html">download code</a>
 			<td>
 		<tr>
 			<td>Wed, 10/19
