@@ -190,46 +190,46 @@
 		<tr class="week">
 			<td rowspan="3">9</td>
 			<td>Mon, 10/17
-			<td>Chinnathambi, ch. 4, 25
+			<td>Chinnathambi, ch. 4
 			<td>Session 15: Code that makes decisions: conditional statements; modifying &amp; styling DOM elements
                 <br><a href="sessions/15_resources/practice.html">download code</a>
 			<td>
 		<tr>
 			<td>Wed, 10/19
-			<td>Chinnathambi, ch. 5
-			<td>Session 16: Code that knows how to repeat things: loops; traversing the DOM 
+			<td>
+			<td>Session 16: Conditional statements and functions (continued)
 			<td>
 		<tr>
 			<td>Fri, 10/21
-			<td>
-			<td class="lab">Lab-8
+			<td>review Chinnathambi, ch. 3, 4
+			<td class="lab">Lab-8: Conditional statements, functions, DOM styling
 			<td>Homework 7
 		<tr class="week">
 			<td rowspan="3">10</td>
 			<td>Mon, 10/24
-			<td>Chinnathambi, ch. 28
-			<td>Session 17: Events that happen in the browser: code that listens and reacts 
+			<td>Chinnathambi, ch. 5, 25
+			<td>Session 17: Code that knows how to repeat things: loops; traversing the DOM 
 			<td>
 		<tr>
 			<td>Wed, 10/26
 			<td>
-			<td>Session 18: (continued)
+			<td>Session 18: Loops and traversing the DOM (continued)
 			<td>
 		<tr>
 			<td>Fri, 10/28
-			<td>
+			<td>review Chinnathambi, ch. 4, 5, 25
 			<td class="lab">Lab-9
 			<td>Homework 8
 		<tr class="week">
 			<td rowspan="3">11</td>
 			<td>Mon, 10/31
-			<td>Chinnathambi, ch. 26
-			<td>Session 19: Writing code that will rewrite your code: creating, adding &amp; removing DOM elements 
+			<td>Chinnathambi, ch. 28
+			<td>Session 19: Events that happen in the browser: code that listens and reacts 
 			<td>
 		<tr>
 			<td>Wed, 11/02
-			<td>
-			<td>Session 20: Putting it all together: modifying the DOM tree in response to browser events
+			<td>Chinnathambi, ch. 26
+			<td>Session 20: Putting it all together: modifying the DOM tree in response to browser events (adding &amp; removing DOM elements)
 			<td>
 		<tr>
 			<td>Fri, 11/04
