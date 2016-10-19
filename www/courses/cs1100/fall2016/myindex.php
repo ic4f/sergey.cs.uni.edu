@@ -197,7 +197,7 @@
 		<tr>
 			<td>Wed, 10/19
 			<td>
-			<td>Session 16: Conditional statements and functions (continued)
+			<td><a href="sessions/16_resources/slides16.pdf">Session 16: Conditional statements and functions (continued)</a>
                 <br><a href="sessions/16_resources/exercise.html">download code</a>
 			<td>
 		<tr>
