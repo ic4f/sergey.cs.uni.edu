@@ -184,7 +184,8 @@
 		<tr>
 			<td>Fri, 10/14
 			<td>
-			<td class="lab">Lab-7: Using functions
+			<td class="lab"><a href="labs/lab7.pdf">Lab-7: Explore the DOM API</a>
+                <br><a href="labs/lab7.zip">download lab file</a>
 			<td><a class="hw" href="homework/hw6.pdf">Homework 6</a>
                 <br><a class="hw" href="homework/hw6.zip">homework file</a>
 		<tr class="week">
