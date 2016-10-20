@@ -87,7 +87,7 @@
                 <br><a href="http://learn.shayhowe.com/html-css/organizing-data-with-tables/">Shay, chapter 11</a> (Table Borders; Aligning Text) 
 
 			<td>Session 8: CSS: styling lists and tables
-			<td>Lab 4
+            <td><a href="labs/lab4.pdf">Lab 4</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">5</td>
@@ -97,12 +97,12 @@
 
 			<td>Session 9: HTML: media and links
 			<td>
-			<td>Homework 3
+			<td><a href="homework/hw3.pdf">Homework 3</a>
 		<tr>
 			<td>Thu, 09/22
 			<td><a href="http://learn.shayhowe.com/html-css/opening-the-box-model/">Shay, chapter 4</a> (up to In Practice)
 			<td>Session 10: CSS box model
-			<td>Lab 5
+            <td><a href="labs/lab5.pdf">Lab 5</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">6</td>
@@ -118,7 +118,7 @@
             <td><a href="http://learn.shayhowe.com/html-css/positioning-content/">Shay, chapter 5</a> (Positioning with Floats)
                 <br>Optional: <a href="http://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/#containing-floats">Containing floats</a> 
 			<td>Session 12: CSS floats and reusable layouts
-			<td>Lab 6
+            <td><a href="labs/lab6.pdf">Lab 6</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">7</td>
@@ -126,12 +126,12 @@
 			<td>TBD
 			<td>Session 13: CSS gradients and transitions
 			<td>
-			<td>Homework 4
+			<td><a href="homework/hw4.pdf">Homework 4</a>
 		<tr>
 			<td>Thu, 10/06
 			<td>
 			<td>Session 14: Exam overview
-			<td>Lab 7
+            <td><a href="labs/lab7.pdf">Lab 7</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">8</td>
@@ -140,61 +140,63 @@
 		<tr>
 			<td>Thu, 10/13
 			<td><a href="http://www.nytimes.com/2006/06/26/arts/26crea.html">In Digital Age, Advancing a Flexible Copyright System</a>
-			<td>Session 15: Copyright; Creative Commons
+			<td>Session 15: Exam review<br>Copyright, Public Domain, &amp; the Creative Commons
 			<td>
 			<td>
 		<tr class="week">
 			<td rowspan="2">9</td>
 			<td>Tue, 10/18
-			<td>Williams, pp. 11-54
-			<td>Session 16: Design principles: proximity and alignment
+			<td>
+			<td>Session 16: Introduction to Photoshop
 			<td>
 			<td>
 		<tr>
 			<td>Thu, 10/20
 			<td>Lynda tutorials (TBD)
-			<td>Session 17: Introduction to Photoshop; selection tools
+			<td>Session 17: Image optimization; building an image gallery
 			<td>Lab 8
 			<td>
 		<tr class="week">
 			<td rowspan="2">10</td>
 			<td>Tue, 10/25
-			<td>Williams, pp. 55-94
-			<td>Session 18: Design principles: repetition and contrast; Illustrator
+			<td>Williams, pp. 11-54
+			<td>Session 18: Design principles: proximity and alignment
+                <br>Introduction to Illustrator
 			<td>
-			<td>Homework 5
+			<td>
 		<tr>
 			<td>Thu, 10/27
-			<td>Lynda tutorials (TBD)
-			<td>Session 19: Photoshop: more selection tools, smart objects 
+            <td><a href="tutorials">Lynda tutorials</a>
+			<td>Photoshop selections / building a collage
 			<td>Lab 9
-			<td>
+			<td>Homework 5
 		<tr class="week">
 			<td rowspan="2">11</td>
 			<td>Tue, 11/01
-			<td>Williams, pp. 95-112
-			<td>Session 20: Designing with color
+			<td>Williams, pp. 55-94
+			<td>Session 19: Design principles: repetition and contrast
 			<td>
 			<td>
 		<tr>
 			<td>Thu, 11/03
-			<td>Lynda tutorials (TBD)
-			<td>Session 21: Photoshop adjustment layers
+            <td><a href="tutorials">Lynda tutorials</a>
+			<td>Session 20: Photoshop compositing, more selection techniques, and smart objects
 			<td>Lab 10
 			<td>
 		<tr class="week">
 			<td rowspan="2">12</td>
 			<td>Tue, 11/08
-			<td>Williams, pp. 149-218
-			<td>Session 22: Typography
+			<td>Williams, pp. 95-112
+			<td>Session 21: Designing with color
 			<td>
-			<td>Homework 6
+			<td>
 		<tr>
 			<td>Thu, 11/10
-			<td>TBD
-			<td>Session 23: Typography (continued); exam overview
+            <td><a href="tutorials">Lynda tutorials</a>
+			<td>Session 22: Photoshop adjustment layers; more tools as time permits
+                <br>Exam overview
 			<td>Lab 11
-			<td>
+			<td>Homework 6
 		<tr class="week">
 			<td rowspan="2">13</td>
 			<td>Tue, 11/15
@@ -202,7 +204,7 @@
 		<tr>
 			<td>Thu, 11/17
 			<td>
-			<td>Session 24: Project discussion
+			<td>Session 24: Exam review / project discussion
 			<td>
 			<td>
 		<tr class="break week">
@@ -214,14 +216,14 @@
 		<tr class="week">
 			<td rowspan="2">15</td>
 			<td>Tue, 11/29
-			<td>TBD
-			<td>Session 25: Project implementation: layout
+			<td>Williams, pp. 149-218
+			<td>Session 25: Typography
 			<td>
 			<td>
 		<tr>
 			<td>Thu, 12/01
-			<td>
-			<td>Session 26: Project implementation: layout (continued)
+			<td>TBD
+			<td>Session 26: Project implementation: layout
 			<td>Lab 12
 			<td>
 		<tr class="week">
@@ -234,7 +236,7 @@
 		<tr>
 			<td>Thu, 12/08
 			<td>
-			<td>Session 28: Project implementation: editorial style (continued) 
+			<td>Session 28: Project implementation: wrap-up
 			<td>
 			<td>
 		<tr class="week">

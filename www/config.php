@@ -29,6 +29,7 @@ $site['/courses/cs1100/fall2016/sessions/11'] = 'Session 11: The JavaScript Lang
 $site['/courses/comm2555/fall2016'] = 'COMM 2555: Interactive Digital Communication'; 
 $site['/courses/comm2555/fall2016/resources'] = 'Resources';
 $site['/courses/comm2555/fall2016/credits'] = 'Credits';
+$site['/courses/comm2555/fall2016/tutorials'] = 'Tutorials';
 
 
 
