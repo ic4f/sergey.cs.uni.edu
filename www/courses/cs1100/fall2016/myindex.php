@@ -205,7 +205,8 @@
 			<td>Fri, 10/21
 			<td>review Chinnathambi, ch. 3, 4
 			<td class="lab">Lab-8: Conditional statements, functions, DOM styling
-			<td>Homework 7
+			<td><a class="hw" href="homework/hw7.pdf">Homework 7</a>
+                <br><a class="hw" href="homework/hw7.zip">homework file</a>
 		<tr class="week">
 			<td rowspan="3">10</td>
 			<td>Mon, 10/24
