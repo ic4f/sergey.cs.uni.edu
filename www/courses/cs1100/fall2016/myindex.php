@@ -204,7 +204,8 @@
 		<tr>
 			<td>Fri, 10/21
 			<td>review Chinnathambi, ch. 3, 4
-			<td class="lab">Lab-8: Conditional statements, functions, DOM styling
+			<td class="lab"><a href="labs/lab8.pdf">Lab-8: Conditional statements, functions, DOM styling</a>
+                <br><a href="labs/lab8.zip">download lab file</a>
 			<td><a class="hw" href="homework/hw7.pdf">Homework 7</a>
                 <br><a class="hw" href="homework/hw7.zip">homework file</a>
 		<tr class="week">
