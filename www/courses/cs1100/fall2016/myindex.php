@@ -211,13 +211,14 @@
 		<tr class="week">
 			<td rowspan="3">10</td>
 			<td>Mon, 10/24
-			<td>Chinnathambi, ch. 5, 25
-			<td>Session 17: Code that knows how to repeat things: loops; traversing the DOM 
+			<td>
+			<td>Session 17: Making use of functions; refactoring code 
+                <br><a href="sessions/16_resources/exercise.html">html file</a> | <a href="sessions/17_resources/exercise.js">js file</a> (final version)
 			<td>
 		<tr>
 			<td>Wed, 10/26
-			<td>
-			<td>Session 18: Loops and traversing the DOM (continued)
+			<td>Chinnathambi, ch. 5, 25
+			<td>Session 18: Code that knows how to repeat things: loops; traversing the DOM
 			<td>
 		<tr>
 			<td>Fri, 10/28
