@@ -218,7 +218,7 @@
 		<tr>
 			<td>Wed, 10/26
 			<td>Chinnathambi, ch. 5, 25
-			<td>Session 18: Code that knows how to repeat things: loops; traversing the DOM
+			<td><a href="sessions/18_resources/slides18.pdf">Session 18: Code that knows how to repeat things: loops; traversing the DOM</a>
 			<td>
 		<tr>
 			<td>Fri, 10/28
