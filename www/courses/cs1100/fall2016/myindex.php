@@ -223,7 +223,8 @@
 		<tr>
 			<td>Fri, 10/28
 			<td>review Chinnathambi, ch. 4, 5, 25
-			<td class="lab">Lab-9
+			<td class="lab"><a href="labs/lab9.pdf">Lab-9</a>
+                <br><a href="labs/lab9.zip">download lab file</a>
 			<td>Homework 8
 		<tr class="week">
 			<td rowspan="3">11</td>
