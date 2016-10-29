@@ -225,7 +225,7 @@
 			<td>review Chinnathambi, ch. 4, 5, 25
 			<td class="lab"><a href="labs/lab9.pdf">Lab-9</a>
                 <br><a href="labs/lab9.zip">download lab file</a>
-			<td>Homework 8
+			<td>
 		<tr class="week">
 			<td rowspan="3">11</td>
 			<td>Mon, 10/31
@@ -241,7 +241,7 @@
 			<td>Fri, 11/04
 			<td>
 			<td class="lab">Lab-10
-			<td>Homework 9
+			<td><a class="hw" href="homework/hw8.pdf">Homework 8</a>
 		<tr class="week">
 			<td rowspan="3">12</td>
 			<td>Mon, 11/07
