@@ -39,6 +39,7 @@ if (count($arr) == 1) {
     $html_section_title_l = 'Sergey Golitsynskiy';
     $html_showBreadcrumbs = false;
 }
+//TODO add redirect handling as separate function or config file
 else {
     if ($arr[1] === 'courses') {
         processCourses(
@@ -52,6 +53,14 @@ else {
     }
     elseif ($arr[1] === 'personal') {
         //process personal content
+    }
+    elseif ($arr[1] === 'mediacomputation') {
+        header('Location: courses/cs1120/spring2016/');
+        exit;
+    }
+    elseif ($arr[1] === 'clientside') {
+        header('Location: courses/cs1100/fall2016/');
+        exit;
     }
     //don't display page title if same as section_l title    
     if (strcmp($html_section_title_l, $html_page_title) === 0) {
