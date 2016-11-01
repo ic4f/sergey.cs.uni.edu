@@ -64,7 +64,7 @@
         <tr>
             <td>01/28
             <td>
-            <td>Session 4: lab 
+            <td>Session 4: Lab (Getting started with JES)
             <td><a href="labs/lab1.pdf">Lab 1</a> / <a href="labs/lab1_responses.pdf">responses</a>
             <td>
         <tr>
@@ -94,13 +94,13 @@
         <tr>
             <td>02/16
             <td>Ch.4
-            <td>Session 8: lab 
+            <td><a href="sessions/9">Session 8: Manipulating images with loops</a>
             <td><a href="labs/lab3a.pdf">Lab 3 Part 1</a> / <a href="labs/lab3a_responses.pdf">responses</a>
             <td><a href="homework/2">Homework 2</a>
         <tr>
             <td>02/18
             <td>
-            <td><a href="sessions/9">Session 9: Manipulating images with loops</a>
+            <td><a href="sessions/9">Session 9: Manipulating images with loops (cont.)</a>
             <td><a href="labs/lab3b.pdf">Lab 3 Part 2</a> / <a href="labs/lab3b_responses.pdf">responses</a>
             <td>
         <tr>
@@ -124,7 +124,7 @@
         <tr>
             <td>03/03
             <td>Ch.6 (sections 1-2-3)
-            <td>Session 13
+            <td>Session 13: Selection statements; comparison and logical operators
             <td><a href="labs/lab6.pdf">Lab 6</a> / <a href="mediasources/rose.jpg">source image</a>
             <td>
        <tr>
@@ -158,31 +158,31 @@
        <tr>
             <td>03/22
             <td>
-            <td>
+            <td>Session 15: Introduction to digitizing sound
             <td>
             <td>
         <tr>
             <td>03/24
             <td>
-            <td>
-            <td>
+            <td>Session 16: Digitizing sound (cont.) 
+            <td>Lab 8
             <td>
         <tr>
             <td>03/29
             <td>
-            <td>
+            <td>Session 17: Splicing sound
             <td>
             <td>
         <tr>
             <td>03/31
             <td>
-            <td>
+            <td>Session 18: Lab
             <td><a href="labs/lab9.pdf">Lab 9</a> / <a href="mediasources/richardson_quote.wav">quote wav file</a>
             <td>
        <tr>
             <td>04/05
             <td>
-            <td>
+            <td>Session 19: Review / exam prep
             <td>
             <td><a href="homework/5">Homework 5</a>
         <tr>
@@ -194,31 +194,31 @@
         <tr>
             <td>04/12
             <td>
-            <td>
+            <td>Session 20: Exam review
             <td>
             <td>
         <tr>
             <td>04/14
             <td>
-            <td>
-            <td>
+            <td>Session 21
+            <td>Lab 10
             <td>
        <tr>
             <td>04/19
             <td>
-            <td>
+            <td>Session 22: Blending sounds
             <td>
             <td><a href="homework/hw6.pdf">Homework 6</a>
         <tr>
             <td>04/21
             <td>
-            <td>
+            <td>Session 23: Blending sound (cont.)
             <td>
             <td>
         <tr>
             <td>04/26
             <td>
-            <td>
+            <td>Session 24: More sound effects
             <td>
             <td>
         <tr>
