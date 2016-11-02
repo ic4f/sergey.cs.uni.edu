@@ -223,7 +223,7 @@
 		<tr>
 			<td>Fri, 10/28
 			<td>review Chinnathambi, ch. 4, 5, 25
-			<td class="lab"><a href="labs/lab9.pdf">Lab-9</a>
+			<td class="lab"><a href="labs/lab9.pdf">Lab-9: Loops and arrays</a>
                 <br><a href="labs/lab9.zip">download lab file</a>
 			<td>
 		<tr class="week">
@@ -240,38 +240,38 @@
 		<tr>
 			<td>Fri, 11/04
 			<td>
-			<td class="lab">Lab-10
+			<td class="lab">Lab-10: Events
 			<td><a class="hw" href="homework/hw8.pdf">Homework 8</a>
 		<tr class="week">
 			<td rowspan="3">12</td>
 			<td>Mon, 11/07
-			<td colspan="3">Exam-2
+			<td>
+			<td>Programming &amp; JavaScript review
+			<td>
 		<tr>
 			<td>Wed, 11/09
-			<td>Chinnathambi, ch. 7, 8
-			<td>Session 21: Simplifying it all: introducing jQuery
-			<td>
+			<td colspan="3">Exam-2
 		<tr>
 			<td>Fri, 11/11
-			<td>
-			<td class="lab">Lab-11
+			<td>Chinnathambi, ch. 7, 8
+			<td>Session 21: Simplifying it all: introducing jQuery
 			<td>
 		<tr class="week">
 			<td rowspan="3">13</td>
 			<td>Mon, 11/14
 			<td>TBD
 			<td>Session 22: Visual effects with jQuery
-			<td>
+			<td>Homework 9
 		<tr>
 			<td>Wed, 11/16
 			<td>TBD
-			<td>Session 23: Beautiful user interfaces with jQueryUI
+			<td>Session 23: Visual effects with jQuery (continued)
 			<td>
 		<tr>
 			<td>Fri, 11/18
 			<td>
-			<td class="lab">Lab-12
-			<td>Homework 10
+			<td class="lab">Lab-11
+			<td>
 		<tr class="break week">
 			<td rowspan="3">14</td>
 			<td>Mon, 11/21
@@ -284,18 +284,19 @@
 			<td rowspan="3">15</td>
 			<td>Mon, 11/28
 			<td>TBD
-			<td>Session 24: Updating parts of the web page without reloading it: a gentle introduction to AJAX &amp; JSON
+			<td>Session 24: User interfaces with jQueryUI
 			<td>
 		<tr>
 			<td>Wed, 11/30
 			<td>TBD
 			<td>Session 25: Working with JavaScript APIs
+			<!-- 24: Updating parts of the web page without reloading it: a gentle introduction to AJAX &amp; JSON-->
 			<td> 
 		<tr>
 			<td>Fri, 12/02
 			<td>
-			<td class="lab">Lab-13
-			<td>
+			<td class="lab">Lab-12
+			<td>Homework 10
 		<tr class="week">
 			<td rowspan="3">16</td>
 			<td>Mon, 12/05
