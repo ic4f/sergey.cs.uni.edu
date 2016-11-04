@@ -241,7 +241,8 @@
 		<tr>
 			<td>Fri, 11/04
 			<td>
-			<td class="lab">Lab-10: Events
+			<td class="lab"><a href="labs/lab10.pdf">Lab-10: Events</a>
+                <br><a href="labs/lab10.zip">download lab file</a>
 			<td><a class="hw" href="homework/hw8.pdf">Homework 8</a>
 		<tr class="week">
 			<td rowspan="3">12</td>
@@ -262,7 +263,7 @@
 			<td>Mon, 11/14
 			<td>TBD
 			<td>Session 22: Visual effects with jQuery
-			<td>Homework 9
+			<td>
 		<tr>
 			<td>Wed, 11/16
 			<td>TBD
@@ -271,7 +272,7 @@
 		<tr>
 			<td>Fri, 11/18
 			<td>
-			<td class="lab">Lab-11
+			<td class="lab">Lab-11: jQuery
 			<td>
 		<tr class="break week">
 			<td rowspan="3">14</td>
@@ -296,8 +297,8 @@
 		<tr>
 			<td>Fri, 12/02
 			<td>
-			<td class="lab">Lab-12
-			<td>Homework 10
+			<td class="lab">Lab-12: jQueryUI
+			<td>Homework 9
 		<tr class="week">
 			<td rowspan="3">16</td>
 			<td>Mon, 12/05
@@ -313,7 +314,7 @@
 			<td>Fri, 12/09
 			<td>
 			<td>Session 28: Course review, Q&amp;A
-			<td>
+			<td>Extra credit assignment
 		<tr class="week">
 			<td>17</td>
 			<td>Mon, 12/12
