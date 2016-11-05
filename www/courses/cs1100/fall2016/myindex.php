@@ -250,7 +250,7 @@
 			<td>
 		<tr>
 			<td>Wed, 11/09
-			<td colspan="3">Exam-2
+            <td colspan="3">Exam-2  |  <a href="exam2guide.pdf">study guide</a>
 		<tr>
 			<td>Fri, 11/11
 			<td>Chinnathambi, ch. 7, 8
