@@ -230,17 +230,19 @@
 			<td rowspan="3">11</td>
 			<td>Mon, 10/31
 			<td>Chinnathambi, ch. 28
-			<td>Session 19: Events that happen in the browser: code that listens and reacts 
+			<td><a href="sessions/19_resources/slides19.pdf">Session 19: Events that happen in the browser: code that listens and reacts</a>
 			<td>
 		<tr>
 			<td>Wed, 11/02
 			<td>Chinnathambi, ch. 26
-			<td>Session 20: Putting it all together: modifying the DOM tree in response to browser events (adding &amp; removing DOM elements)
-			<td>
+            <td><a href="sessions/20_resources/slides20.pdf">Session 20: Events &amp; the DOM</a>
+                <br><a href="sessions/20_resources/session20.zip">code used in class</a>
+            <td>
 		<tr>
 			<td>Fri, 11/04
 			<td>
-			<td class="lab">Lab-10: Events
+			<td class="lab"><a href="labs/lab10.pdf">Lab-10: Events</a>
+                <br><a href="labs/lab10.zip">download lab file</a>
 			<td><a class="hw" href="homework/hw8.pdf">Homework 8</a>
 		<tr class="week">
 			<td rowspan="3">12</td>
@@ -261,7 +263,7 @@
 			<td>Mon, 11/14
 			<td>TBD
 			<td>Session 22: Visual effects with jQuery
-			<td>Homework 9
+			<td>
 		<tr>
 			<td>Wed, 11/16
 			<td>TBD
@@ -270,7 +272,7 @@
 		<tr>
 			<td>Fri, 11/18
 			<td>
-			<td class="lab">Lab-11
+			<td class="lab">Lab-11: jQuery
 			<td>
 		<tr class="break week">
 			<td rowspan="3">14</td>
@@ -295,8 +297,8 @@
 		<tr>
 			<td>Fri, 12/02
 			<td>
-			<td class="lab">Lab-12
-			<td>Homework 10
+			<td class="lab">Lab-12: jQueryUI
+			<td>Homework 9
 		<tr class="week">
 			<td rowspan="3">16</td>
 			<td>Mon, 12/05
@@ -312,7 +314,7 @@
 			<td>Fri, 12/09
 			<td>
 			<td>Session 28: Course review, Q&amp;A
-			<td>
+			<td>Extra credit assignment
 		<tr class="week">
 			<td>17</td>
 			<td>Mon, 12/12
