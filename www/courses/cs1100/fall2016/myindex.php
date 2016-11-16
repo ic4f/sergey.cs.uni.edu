@@ -261,17 +261,18 @@
 		<tr class="week">
 			<td rowspan="3">13</td>
 			<td>Mon, 11/14
-			<td>TBD
-			<td>Session 22: Visual effects with jQuery
+			<td>
+            <td><a href="sessions/22_resources/slides22.pdf">Session 22: jQuery: an overview</a>
 			<td>
 		<tr>
 			<td>Wed, 11/16
-			<td>TBD
-			<td>Session 23: Visual effects with jQuery (continued)
+			<td>
+			<td>Session 23: jQuery (continued)
 			<td>
 		<tr>
 			<td>Fri, 11/18
-			<td>
+			<td><a href="https://www.lynda.com/jQuery-tutorials/jQuery-Essential-Training/494389-2.html">jQuery essential training</a>
+				<br>(login at <a href="http://lynda.uni.edu">lynda.uni.edu</a>)
 			<td class="lab">Lab-11: jQuery
 			<td>
 		<tr class="break week">
