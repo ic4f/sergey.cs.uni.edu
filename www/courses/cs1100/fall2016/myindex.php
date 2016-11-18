@@ -273,7 +273,8 @@
 			<td>Fri, 11/18
 			<td><a href="https://www.lynda.com/jQuery-tutorials/jQuery-Essential-Training/494389-2.html">jQuery essential training</a>
 				<br>(login at <a href="http://lynda.uni.edu">lynda.uni.edu</a>)
-			<td class="lab">Lab-11: jQuery
+			<td class="lab"><a href="labs/lab11.pdf">Lab-11: The Travellling Hobbit v 2.0</a>
+                <br><a href="labs/lab11.zip">download lab file</a>
 			<td>
 		<tr class="break week">
 			<td rowspan="3">14</td>
