@@ -300,7 +300,7 @@
 			<td>Fri, 12/02
 			<td>
 			<td class="lab">Lab-12: jQueryUI
-			<td>Homework 9
+			<td><a href="homework/hw9.pdf">Homework 9</a>
 		<tr class="week">
 			<td rowspan="3">16</td>
 			<td>Mon, 12/05
@@ -320,6 +320,6 @@
 		<tr class="week">
 			<td>17</td>
 			<td>Mon, 12/12
-			<td colspan="3">Final Project Presentation (1:00 - 2:50 p.m.)
+			<td colspan="3"><a href="project.pdf">Final Project Presentation (1:00 - 2:50 p.m.)</a>
 </table>
 
