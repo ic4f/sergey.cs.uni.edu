@@ -288,18 +288,18 @@
 			<td rowspan="3">15</td>
 			<td>Mon, 11/28
 			<td>TBD
-			<td>Session 24: User interfaces with jQueryUI <a href="sessions/24_resources/code.zip">code used in class</a>
+			<td>Session 24: User interfaces with jQuery UI <a href="sessions/24_resources/code.zip">code used in class</a>
 			<td>
 		<tr>
 			<td>Wed, 11/30
 			<td>TBD
-			<td>Session 25: Working with JavaScript APIs
-			<!-- 24: Updating parts of the web page without reloading it: a gentle introduction to AJAX &amp; JSON-->
+			<td>Session 25: jQuery UI (continued) <a href="sessions/25_resources/template.html">jQuery UI HTML template</a>
 			<td> 
 		<tr>
 			<td>Fri, 12/02
-			<td>
-			<td class="lab">Lab-12: jQueryUI <a href="sessions/25_resources/template.html">jqueryUI html template</a>
+			<td><a href="https://www.lynda.com/jQuery-tutorials/Up-Running-jQuery-UI/186963-2.html">Up and running with jQuery UI</a>
+				<br>(login at <a href="http://lynda.uni.edu">lynda.uni.edu</a>)
+			<td class="lab">Lab-12: Exploring jQuery UI 
 			<td><a href="homework/hw9.pdf">Homework 9</a>
 		<tr class="week">
 			<td rowspan="3">16</td>
