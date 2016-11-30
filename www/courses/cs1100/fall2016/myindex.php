@@ -288,7 +288,7 @@
 			<td rowspan="3">15</td>
 			<td>Mon, 11/28
 			<td>TBD
-			<td>Session 24: User interfaces with jQueryUI
+			<td>Session 24: User interfaces with jQueryUI <a href="sessions/24_resources/code.zip">code used in class</a>
 			<td>
 		<tr>
 			<td>Wed, 11/30
