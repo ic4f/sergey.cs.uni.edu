@@ -299,7 +299,7 @@
 		<tr>
 			<td>Fri, 12/02
 			<td>
-			<td class="lab">Lab-12: jQueryUI
+			<td class="lab">Lab-12: jQueryUI <a href="sessions/25_resources/template.html">jqueryUI html template</a>
 			<td><a href="homework/hw9.pdf">Homework 9</a>
 		<tr class="week">
 			<td rowspan="3">16</td>
