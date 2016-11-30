@@ -55,7 +55,7 @@ else {
         //process personal content
     }
     elseif ($arr[1] === 'mediacomputation') {
-        header('Location: courses/cs1120/spring2016/');
+        header('Location: courses/cs1120/spring2017/');
         exit;
     }
     elseif ($arr[1] === 'clientside') {

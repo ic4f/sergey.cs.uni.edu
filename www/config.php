@@ -61,4 +61,5 @@ $site['/courses/cs1120/spring2016/homework/5'] = 'Assignment 5: Help Master Yoda
 
 # CS1120 ------------------------------------------------------------------- #
 $site['/courses/cs1120/spring2017'] = 'CS 1120: Media Computation';
-
+$site['/courses/cs1120/spring2017/resources'] = 'Resources';
+$site['/courses/cs1120/spring2017/credits'] = 'Credits';
