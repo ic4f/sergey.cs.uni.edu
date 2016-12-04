@@ -299,7 +299,8 @@
 			<td>Fri, 12/02
 			<td><a href="https://www.lynda.com/jQuery-tutorials/Up-Running-jQuery-UI/186963-2.html">Up and running with jQuery UI</a>
 				<br>(login at <a href="http://lynda.uni.edu">lynda.uni.edu</a>)
-			<td class="lab">Lab-12: Exploring jQuery UI 
+			<td class="lab"><a href="labs/lab12.pdf">Lab-12: Exploring jQuery UI</a>
+				<br><a href="labs/lab12.zip">download lab files</a>
 			<td><a href="homework/hw9.pdf">Homework 9</a>
 		<tr class="week">
 			<td rowspan="3">16</td>

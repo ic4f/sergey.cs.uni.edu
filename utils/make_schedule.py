@@ -25,11 +25,16 @@ def main():
     week = 1
 
     for i in range(day_count):
-        html += '\n\t\t<tr>'
-        html += '\n\t\t\t<td>{1}'.format(instruction_days, week)
+
+        if (i % 3 == 0):
+            html += '\n\t\t<tr class="week">'
+            html += '\n\t\t\t<td rowspan="3">{1}'.format(instruction_days, week)
+        else:
+            html += '\n\t\t<tr>'
+
         html += '\n\t\t\t<td>' + mydate.strftime('%a, %m/%d')
 
-        for j in range(4):
+        for j in range(3):
             html += '\n\t\t\t<td>'
 
         if instruction_days == 2:
@@ -65,8 +70,7 @@ def get_header(instruction_days):
     html += '\n\t\t\t<th>Week'
     html += '\n\t\t\t<th>Date'
     html += '\n\t\t\t<th>Readings'
-    html += '\n\t\t\t<th>Topics'
-    html += '\n\t\t\t<th>Labs'
+    html += '\n\t\t\t<th>Sessions &amp; Labs'
     html += '\n\t\t\t<th>Homework'
     html += '\n\t<tbody>'
     return html

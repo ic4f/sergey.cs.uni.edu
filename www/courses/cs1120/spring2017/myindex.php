@@ -4,7 +4,7 @@
 <aside class="aside1">
     <h5>Links</h5>
     <ul>
-        <li><a href="syllabus-cs1120-spring2016.pdf">Syllabus</a>
+        <li>Syllabus
         <li><a href="resources">Resources</a>
         <li><a href="https://bb9.uni.edu/">eLearning</a>
         <li><a href="https://cs.uni.edu/">cs.uni.edu</a>
@@ -12,19 +12,15 @@
     </ul>
 </aside>
 
-<p>
+<p>CS 1120: Media Computation is an introduction to computation, algorithmic thinking, data transformation and processing, and programming in the context of digital media such as images, sound, and text.
 
-CS 1120: Media Computation is an introduction to computation, algorithmic thinking, data transformation and processing, and programming in the context of media such as images, sound, video, and text. 
+<p>This course has two primary goals. First, you will study digital media and some of the techniques that are used to digitally represent and modify photo, sound, and text files. Second, the course aims to teach you about how to write computer programs. I hope that you leave this course with a sense of what programs can do and how you can write them to express ideas.
 
-<p>This course has two primary goals. First, you will study digital media and some of the techniques that are used to digitally represent and modify photo, sound, video, and text files. Second, the course aims to teach you about how to write computer programs. I hope that you leave this course with a sense of what programs can do and how you can write programs to express ideas. 
-<p>Media computation is the primary theme in this course. Computing with images, sound, video, and text offers a rich body of problems to solve that will bring us into contact with many of the fundamental ideas of computer science: representing and transforming data; design, analysis, and experimentation; and the thrill of solving problems in any domain of human thought. 
-
-
+<p>Media computation is the primary theme in this course. Computing with images, sound, and text offers a rich body of problems to solve that will bring us into contact with many of the fundamental ideas of computer science: representing and transforming data; design, analysis, and experimentation; and the thrill of solving problems in any domain of human thought. 
 
 <br clear="all">
 
-
-<h3>Tentative Schedule</h3>
+<h3>Schedule</h3>
 
 <table border=1 class="schedule days-3">
 	<thead>
@@ -32,352 +28,260 @@ CS 1120: Media Computation is an introduction to computation, algorithmic thinki
 			<th>Week
 			<th>Date
 			<th>Readings
-			<th>Topics
-			<th>Labs
-			<th>Homework
+			<th>Sessions &amp; Labs
+			<th>Assignments
 	<tbody>
-		<tr>
-			<td>1
+		<tr class="week">
+			<td rowspan="3">1
 			<td>Mon, 01/09
-			<td>
-			<td>
-			<td>
+			<td>Ch. 1
+			<td>Introduction to computer science and digital media
 			<td>
 		<tr>
-			<td>1
 			<td>Wed, 01/11
-			<td>
-			<td>
-			<td>
+			<td>Ch. 2
+			<td>Introduction to programming
 			<td>
 		<tr>
-			<td>1
 			<td>Fri, 01/13
 			<td>
+			<td>Lab 1: Exploring JES
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>2
+		<tr class="week break">
+			<td rowspan="3" style="background:#f1f1f1;">2
 			<td>Mon, 01/16
 			<td>
-			<td>
-			<td>
-			<td>
+			<td colspan="2">Martin Luther King, Jr. Day
 		<tr>
-			<td>2
 			<td>Wed, 01/18
-			<td>
-			<td>
-			<td>
+			<td>Ch. 4
+			<td>How images are encoded; image manipulation; basic loops
 			<td>
 		<tr>
-			<td>2
 			<td>Fri, 01/20
 			<td>
+			<td>Lab 2: Manipulating pixels
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>3
+		<tr class="week">
+			<td rowspan="3">3
 			<td>Mon, 01/23
-			<td>
-			<td>
-			<td>
+			<td>Ch. 4
+			<td>Decreading/increasing amount of color; basic filters (sunset, negative, grayscale...)
 			<td>
 		<tr>
-			<td>3
 			<td>Wed, 01/25
-			<td>
-			<td>
-			<td>
+			<td>Ch. 4
+			<td>Accessing pixels by index; copy and paste
 			<td>
 		<tr>
-			<td>3
 			<td>Fri, 01/27
 			<td>
+			<td>Lab 3
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>4
+		<tr class="week">
+			<td rowspan="3">4
 			<td>Mon, 01/30
-			<td>
-			<td>
-			<td>
-			<td>
+			<td>Ch. 5
+			<td>Controlled color changes; red eye removal; sepia tones
+			<td>Assignment 1
 		<tr>
-			<td>4
 			<td>Wed, 02/01
-			<td>
-			<td>
-			<td>
+			<td>Ch. 5
+			<td>More effects: Posterizing; edge detection
 			<td>
 		<tr>
-			<td>4
 			<td>Fri, 02/03
 			<td>
+			<td>Lab 4
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>5
+		<tr class="week">
+			<td rowspan="3">5
 			<td>Mon, 02/06
-			<td>
-			<td>
-			<td>
+			<td>Ch. 5
+			<td>Background removal; chromakey
 			<td>
 		<tr>
-			<td>5
 			<td>Wed, 02/08
-			<td>
-			<td>
-			<td>
+			<td>Ch. 6
+			<td>Processing pixels faster
 			<td>
 		<tr>
-			<td>5
 			<td>Fri, 02/10
 			<td>
+			<td>Lab 5
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>6
+		<tr class="week">
+			<td rowspan="3">6
 			<td>Mon, 02/13
-			<td>
-			<td>
-			<td>
-			<td>
+			<td>Ch. 6
+			<td>Mirroring an image
+			<td>Assignment 2
 		<tr>
-			<td>6
 			<td>Wed, 02/15
-			<td>
-			<td>
-			<td>
+			<td>Ch. 6
+			<td>Copying; cropping
 			<td>
 		<tr>
-			<td>6
 			<td>Fri, 02/17
 			<td>
+			<td>Lab 6: Making a collage
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>7
+		<tr class="week">
+			<td rowspan="3">7
 			<td>Mon, 02/20
-			<td>
-			<td>
-			<td>
+			<td>Ch. 6
+			<td>Rotating; scaling
 			<td>
 		<tr>
-			<td>7
 			<td>Wed, 02/22
-			<td>
-			<td>
-			<td>
+			<td>Ch. 6
+			<td>Blurring; blending
 			<td>
 		<tr>
-			<td>7
 			<td>Fri, 02/24
 			<td>
+			<td>Exam review
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>8
+		<tr class="week">
+			<td rowspan="3">8
 			<td>Mon, 02/27
 			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>8
+			<td>Exam 1
+			<td>Assignment 3
+		<tr> 
 			<td>Wed, 03/01
-			<td>
-			<td>
-			<td>
+			<td>Ch. 7
+			<td>How sounds are encoded; sound manipulation
 			<td>
 		<tr>
-			<td>8
 			<td>Fri, 03/03
 			<td>
+			<td>Lab 7: changing the volume; normalization; clipping
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>9
+		<tr class="week">
+			<td rowspan="3">9
 			<td>Mon, 03/06
-			<td>
-			<td>
-			<td>
+			<td>Ch. 8
+			<td>Manipulation of sections of sound; splicing
 			<td>
 		<tr>
-			<td>9
 			<td>Wed, 03/08
-			<td>
-			<td>
-			<td>
+			<td>Ch. 8
+			<td>Splicing (cont.); reversing sound
 			<td>
 		<tr>
-			<td>9
 			<td>Fri, 03/10
 			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>10
-			<td>Mon, 03/13
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>10
-			<td>Wed, 03/15
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>10
-			<td>Fri, 03/17
-			<td>
-			<td>
-			<td>
-			<td>
-		<tr>
-			<td>11
+			<td>Lab 8
+			<td>Assignment 4
+
+		<tr class="break week">
+			<td colspan="3" style="border-right-width:0">
+			<td colspan="2" style="text-align:left">SPRING BREAK
+		<tr style="display:hidden">
+		<tr style="display:hidden">
+
+		<tr class="week">
+			<td rowspan="3">10
 			<td>Mon, 03/20
-			<td>
-			<td>
-			<td>
+			<td>Ch. 8
+			<td>Clip and copy revisited
 			<td>
 		<tr>
-			<td>11
 			<td>Wed, 03/22
-			<td>
-			<td>
-			<td>
+			<td>Ch. 9
+			<td>Blending sounds
 			<td>
 		<tr>
-			<td>11
 			<td>Fri, 03/24
 			<td>
+			<td>Lab 9
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>12
+		<tr class="week">
+			<td rowspan="3">11
 			<td>Mon, 03/27
-			<td>
-			<td>
-			<td>
-			<td>
+			<td>Ch. 9
+			<td>Creating an echo
+			<td>Assignment 5
 		<tr>
-			<td>12
 			<td>Wed, 03/29
-			<td>
-			<td>
-			<td>
+			<td>Ch. 9
+			<td>Synthesis; creating sounds that don't exist
 			<td>
 		<tr>
-			<td>12
 			<td>Fri, 03/31
 			<td>
+			<td>Exam review
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>13
+		<tr class="week">
+			<td rowspan="3">12
 			<td>Mon, 04/03
 			<td>
-			<td>
-			<td>
+			<td>Exam 2
 			<td>
 		<tr>
-			<td>13
 			<td>Wed, 04/05
-			<td>
-			<td>
-			<td>
+			<td>Ch. 3
+			<td>Introduction to text manipulation
 			<td>
 		<tr>
-			<td>13
 			<td>Fri, 04/07
 			<td>
+			<td>Lab 10: Basic string manipulation
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>14
+		<tr class="week">
+			<td rowspan="3">13
 			<td>Mon, 04/10
-			<td>
-			<td>
-			<td>
+			<td>Ch. 3
+			<td>Working with indices; encoding/decoding text 
 			<td>
 		<tr>
-			<td>14
 			<td>Wed, 04/12
-			<td>
-			<td>
-			<td>
+			<td>Ch. 10
+			<td>Designing bigger programs 
 			<td>
 		<tr>
-			<td>14
 			<td>Fri, 04/14
 			<td>
+			<td>Lab 11: Building a text game
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>15
+		<tr class="week">
+			<td rowspan="3">14
 			<td>Mon, 04/17
-			<td>
-			<td>
-			<td>
-			<td>
+			<td>Ch. 11
+			<td>String methods, dot notation, lists
+			<td>Assignment 6
 		<tr>
-			<td>15
 			<td>Wed, 04/19
-			<td>
-			<td>
-			<td>
+			<td>Ch. 11
+			<td>Reading and writing text files; the Python standard library
 			<td>
 		<tr>
-			<td>15
 			<td>Fri, 04/21
 			<td>
+			<td>Lab 12: Reading and writing files
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>16
+		<tr class="week">
+			<td rowspan="3">15
 			<td>Mon, 04/24
-			<td>
-			<td>
-			<td>
+			<td>Ch. 12
+			<td>Moving information between media
 			<td>
 		<tr>
-			<td>16
 			<td>Wed, 04/26
-			<td>
-			<td>
-			<td>
+			<td>Ch. 12
+			<td>Steganography: hiding secrets in plain sight
 			<td>
 		<tr>
-			<td>16
 			<td>Fri, 04/28
 			<td>
+			<td>Course review
+			<td>Assignment 7
+		<tr class="week">
+			<td rowspan="3">16
+			<td>TBD
 			<td>
-			<td>
-			<td>
-		<tr>
-			<td>17
-			<td>Mon, 05/01
-			<td>
-			<td>
-			<td>
+			<td>Final Exam
 			<td>
 </table>
 

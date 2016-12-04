@@ -1,0 +1,29 @@
+.content ul {
+    margin-top: 0;
+}
+
+.content h5, .content h4 {
+    margin-bottom: 0.5em;
+}
+
+table.schedule {
+    border-left: 1px #ccc solid;
+    border-right: 1px #ccc solid;
+}
+
+td.lab a {
+    color: green;
+}
+
+td.lab a:hover,
+a.hw:hover {
+    color: maroon;
+}
+
+a.hw {
+    color: teal;
+}
+
+table.schedule tr.week td:nth-child(1) {
+    border-right: 1px #ccc solid;
+}
