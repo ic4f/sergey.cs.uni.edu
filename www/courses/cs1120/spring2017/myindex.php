@@ -18,11 +18,11 @@
 
 <p>Media computation is the primary theme in this course. Computing with images, sound, and text offers a rich body of problems to solve that will bring us into contact with many of the fundamental ideas of computer science: representing and transforming data; design, analysis, and experimentation; and the thrill of solving problems in any domain of human thought. 
 
-<br clear="all">
+<br style="clear:all">
 
 <h3>Schedule</h3>
 
-<table border=1 class="schedule days-3">
+<table class="schedule days-3">
 	<thead>
 		<tr>
 			<th>Week
@@ -175,11 +175,13 @@
 			<td>Lab 8
 			<td>Assignment 4
 
+		<tr class="break">
+			<td colspan="5">
 		<tr class="break week">
-			<td colspan="3" style="border-right-width:0">
+			<td colspan="3" style="border-right-width:0; border-top-width:0">
 			<td colspan="2" style="text-align:left">SPRING BREAK
-		<tr style="display:hidden">
-		<tr style="display:hidden">
+		<tr class="break">
+			<td colspan="5">
 
 		<tr class="week">
 			<td rowspan="3">10
@@ -278,7 +280,7 @@
 			<td>Course review
 			<td>Assignment 7
 		<tr class="week">
-			<td rowspan="3">16
+			<td>16
 			<td>TBD
 			<td>
 			<td>Final Exam
