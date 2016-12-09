@@ -287,12 +287,12 @@
 		<tr class="week">
 			<td rowspan="3">15</td>
 			<td>Mon, 11/28
-			<td>TBD
+			<td>
 			<td>Session 24: User interfaces with jQuery UI <a href="sessions/24_resources/code.zip">code used in class</a>
 			<td>
 		<tr>
 			<td>Wed, 11/30
-			<td>TBD
+			<td>
 			<td>Session 25: jQuery UI (continued) <a href="sessions/25_resources/template.html">jQuery UI HTML template</a>
 			<td> 
 		<tr>
@@ -305,7 +305,7 @@
 		<tr class="week">
 			<td rowspan="3">16</td>
 			<td>Mon, 12/05
-			<td>TBD
+			<td>
 			<td>Session 26: Integrating cloud-based content into web pages
 			<td>
 		<tr>
@@ -316,8 +316,9 @@
 		<tr>
 			<td>Fri, 12/09
 			<td>
-			<td>Session 28: Course review, Q&amp;A
-			<td>Extra credit assignment
+			<td class="lab"><a href="labs/lab13.pdf">Lab-13: AJAX and the Flickr API</a>
+				<br><a href="labs/lab13.zip">download lab files</a>
+			<td>Extra credit assignment<br><i>Available on eLearning</i>
 		<tr class="week">
 			<td>17</td>
 			<td>Mon, 12/12
