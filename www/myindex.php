@@ -13,27 +13,37 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 <a id="courses"></a>
 <h3>My courses</h3>
 
-<h4>Current Semester: Fall 2016</h4>
-<ul>
-    <li><a href="courses/cs1100/fall2016">CS 1100: Web Development: Client-Side Coding</a>
-    <li><a href="courses/comm2555/fall2016">COMM 2555: Interactive Digital Communication</a>
-</ul>
-
-<h4>Next Semester: Spring 2017</h4>
+<h4>Current Semester: Spring 2017</h4>
 <ul>
     <li><a href="courses/cs1120/spring2017">CS 1120: Media Computation</a>
-    <li>COMM 2555: Interactive Digital Communication
+    <li><a href="courses/comm2555/spring2017">COMM 2555: Interactive Digital Communication</a>
 </ul>
 
 <h4>Previous Semesters</h4>
 
+<style>
+	.comment{ color: #999; font-style: italic; }
+</style>
+
 <ul>
-    <li><a href="courses/cs1120">CS 1120: Media Computation</a>
-    <li>COMM 3159: Communication & Code
-    <li>COMM 4555: Interactive Digital Studies Practicum
-    <li>COMM COR 2020: Introduction to Research Methods
-    <li>COMM 4198: Independent Study (web development with PHP/MySQL)
-    <li>CS 3110: Web Application Development
+    <li><a href="courses/cs1100/fall2016">CS 1100: Web Development: Client-Side Coding</a> <span class="comment"> / Fall 2016</span>
+    <li><a href="courses/comm2555/fall2016">COMM 2555: Interactive Digital Communication</a> <span class="comment"> / Fall 2016</span>
+    <li><a href="courses/cs1120/spring2016">CS 1120: Media Computation</a> <span class="comment"> / Spring 2016</span>
+    <li>COMM 3159: Communication & Code <span class="comment"> / Fall 2015</span>
+    <li>COMM 4555: Interactive Digital Studies Practicum <span class="comment"> / Spring 2014</span>
+    <li>COMM COR 2020: Introduction to Research Methods <span class="comment"> / 2013-2014</span>
+    <li>COMM 4198: Independent Study (web development with PHP/MySQL) <span class="comment"> / Fall 2014</span>
+</ul>
+
+<h4>2017/18 Academic Year</h4>
+
+<p>The following courses may be offered as part of the IDS Computation and Web Development bundles:
+
+<ul>
+    <li>CS 1100: Web Development: Client-Side Coding <span class="comment"> / web development bundle</span>
+    <li>CS 2100: Web Development: Server-Side Coding <span class="comment"> / web development bundle</span>
+    <li>CS 3110: Web Application Development <span class="comment"> / computation bundle</span>
+
 </ul>
 
 <h3>My research</h3>

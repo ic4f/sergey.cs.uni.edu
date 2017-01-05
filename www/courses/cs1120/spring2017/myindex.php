@@ -54,13 +54,13 @@
 			<td colspan="2">Martin Luther King, Jr. Day
 		<tr>
 			<td>Wed, 01/18
-			<td>Ch. 4
-			<td>How images are encoded; image manipulation; basic loops
+			<td>
+			<td>NO CLASS
 			<td>
 		<tr>
 			<td>Fri, 01/20
-			<td>
-			<td>Lab 2: Manipulating pixels
+			<td>Ch. 4
+			<td>How images are encoded; image manipulation; basic loops
 			<td>
 		<tr class="week">
 			<td rowspan="3">3
@@ -76,7 +76,7 @@
 		<tr>
 			<td>Fri, 01/27
 			<td>
-			<td>Lab 3
+			<td>Lab 2
 			<td>
 		<tr class="week">
 			<td rowspan="3">4
@@ -92,7 +92,7 @@
 		<tr>
 			<td>Fri, 02/03
 			<td>
-			<td>Lab 4
+			<td>Lab 3
 			<td>
 		<tr class="week">
 			<td rowspan="3">5
@@ -108,7 +108,7 @@
 		<tr>
 			<td>Fri, 02/10
 			<td>
-			<td>Lab 5
+			<td>Lab 4
 			<td>
 		<tr class="week">
 			<td rowspan="3">6
@@ -124,7 +124,7 @@
 		<tr>
 			<td>Fri, 02/17
 			<td>
-			<td>Lab 6: Making a collage
+			<td>Lab 5: Making a collage
 			<td>
 		<tr class="week">
 			<td rowspan="3">7
@@ -156,7 +156,7 @@
 		<tr>
 			<td>Fri, 03/03
 			<td>
-			<td>Lab 7: changing the volume; normalization; clipping
+			<td>Lab 6: changing the volume; normalization; clipping
 			<td>
 		<tr class="week">
 			<td rowspan="3">9
@@ -172,7 +172,7 @@
 		<tr>
 			<td>Fri, 03/10
 			<td>
-			<td>Lab 8
+			<td>Lab 7
 			<td>Assignment 4
 
 		<tr class="break">
@@ -197,7 +197,7 @@
 		<tr>
 			<td>Fri, 03/24
 			<td>
-			<td>Lab 9
+			<td>Lab 8
 			<td>
 		<tr class="week">
 			<td rowspan="3">11
@@ -229,7 +229,7 @@
 		<tr>
 			<td>Fri, 04/07
 			<td>
-			<td>Lab 10: Basic string manipulation
+			<td>Lab 9: Basic string manipulation
 			<td>
 		<tr class="week">
 			<td rowspan="3">13
@@ -245,7 +245,7 @@
 		<tr>
 			<td>Fri, 04/14
 			<td>
-			<td>Lab 11: Building a text game
+			<td>Lab 10: Building a text game
 			<td>
 		<tr class="week">
 			<td rowspan="3">14
@@ -261,7 +261,7 @@
 		<tr>
 			<td>Fri, 04/21
 			<td>
-			<td>Lab 12: Reading and writing files
+			<td>Lab 11: Reading and writing files
 			<td>
 		<tr class="week">
 			<td rowspan="3">15
