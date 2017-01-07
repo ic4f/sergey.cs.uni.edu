@@ -7,6 +7,20 @@ $site['/'] = 'Home';
 $site['/courses/cs1120/archive'] = 'CS 1120: Media Computation Course Archive';
 $site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History'; 
 
+
+
+# SPRING 2017 -------------------------------------------------------------- #
+
+# CS1120 ------------------------------------------------------------------- #
+$site['/courses/cs1120/spring2017'] = 'CS 1120: Media Computation';
+$site['/courses/cs1120/spring2017/resources'] = 'Resources';
+$site['/courses/cs1120/spring2017/credits'] = 'Credits';
+$site['/courses/cs1120/spring2017/homework/0'] = 'Assignment 0: Intro to Computer Science and Digital Media';
+
+
+
+
+
 # FALL 2016 ---------------------------------------------------------------- #
 
 # CS1100 ------------------------------------------------------------------- #
@@ -20,7 +34,6 @@ $site['/courses/cs1100/fall2016/sessions/6'] = 'Session 6: Review of lists and t
 $site['/courses/cs1100/fall2016/sessions/7'] = 'Session 7: Introduction to CSS layout';
 $site['/courses/cs1100/fall2016/sessions/8'] = 'Session 8: Approaches to layout';
 $site['/courses/cs1100/fall2016/sessions/9'] = 'Session 9: Responsive design: Displaying web pages on any device';
-
 $site['/courses/cs1100/fall2016/sessions/11'] = 'Session 11: The JavaScript Language';
 
 
@@ -57,9 +70,3 @@ $site['/courses/cs1120/spring2016/homework/2'] = 'Assignment 2: Basic String Pro
 $site['/courses/cs1120/spring2016/homework/5'] = 'Assignment 5: Help Master Yoda';
 
 
-# SPRING 2017 -------------------------------------------------------------- #
-
-# CS1120 ------------------------------------------------------------------- #
-$site['/courses/cs1120/spring2017'] = 'CS 1120: Media Computation';
-$site['/courses/cs1120/spring2017/resources'] = 'Resources';
-$site['/courses/cs1120/spring2017/credits'] = 'Credits';

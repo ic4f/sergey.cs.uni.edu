@@ -4,7 +4,7 @@
 <aside class="aside1">
     <h5>Links</h5>
     <ul>
-        <li>Syllabus
+        <li><a href="syllabus.pdf">Syllabus</a>
         <li><a href="resources">Resources</a>
         <li><a href="https://bb9.uni.edu/">eLearning</a>
         <li><a href="https://cs.uni.edu/">cs.uni.edu</a>
@@ -61,7 +61,7 @@
 			<td>Fri, 01/20
 			<td>Ch. 4
 			<td>How images are encoded; image manipulation; basic loops
-			<td>
+			<td><a href="homework/0">Assignment 0</a>
 		<tr class="week">
 			<td rowspan="3">3
 			<td>Mon, 01/23
@@ -281,9 +281,9 @@
 			<td>Assignment 7
 		<tr class="week">
 			<td>16
-			<td>TBD
+			<td>Mon, 05/01
 			<td>
-			<td>Final Exam
+			<td>Final Exam: 10 - 11:50 am
 			<td>
 </table>
 

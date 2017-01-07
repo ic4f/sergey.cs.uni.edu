@@ -58,8 +58,16 @@ else {
         header('Location: courses/cs1120/spring2017/');
         exit;
     }
+    elseif ($arr[1] === 'cs1120') {
+        header('Location: courses/cs1120/spring2017/');
+        exit;
+    }
     elseif ($arr[1] === 'clientside') {
         header('Location: courses/cs1100/fall2016/');
+        exit;
+    }
+    elseif ($arr[1] === 'comm2555') {
+        header('Location: courses/comm2555/spring2017/');
         exit;
     }
     //don't display page title if same as section_l title    
