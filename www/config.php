@@ -17,6 +17,10 @@ $site['/courses/cs1120/spring2017/resources'] = 'Resources';
 $site['/courses/cs1120/spring2017/credits'] = 'Credits';
 $site['/courses/cs1120/spring2017/homework/0'] = 'Assignment 0: Intro to Computer Science and Digital Media';
 
+# COMM2555 ----------------------------------------------------------------- #
+$site['/courses/comm2555/spring2017'] = 'COMM 2555: Interactive Digital Communication';
+$site['/courses/comm2555/spring2017/resources'] = 'Resources';
+
 
 
 
