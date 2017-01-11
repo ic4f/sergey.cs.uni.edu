@@ -62,32 +62,13 @@
 
 However, as we started discussing the details, we discovered that there can be different levels of detail - i.e., even the detailed recipe raised questions: how do I stand up? Do I push the chair backward before I stand up? What muscles do I use? How far do I turn? How do I walk? What happens if the spot near the wall is taken? How do I choose the nearest door?
 
-<p>Of course, I know what you mean by "stand up" - but if we are writing a program (which is a recipe that can be run on a computer), we need to be more specific. How specific? Each step in our recipe must describe an action the computer knows how to do - i.e., understands. What does a computer understand?
-
-<p>Not much! In fact, a computer "understands" only voltages - nothing more! A wire may have a voltage on it, or it may not - these are the two conditions to which a computer can react. Of course voltages can be encoded as numbers: 0 for no voltage and 1 for voltage. We call this a bit (short for binary digit) - it is the smallest unit of data a computer can work with. We can then use sequences of bits to encode decimal numbers (i.e., numbers that we are used to dealing with).
-
-<pre class="code">
-00 -> 0
-01 -> 1
-10 -> 2
-11 -> 3
-etc...
-</pre>
-
-<p>Hence, there are only <span style="color:navy; font-weight:bold;">10</span> types of people: those who get binary, and those who don't ;-)
-
-<p>Thus, 2 digits give us 4 different values, 3 digits - 8 values, 4 digits - 16 values, etc. The pattern here, as you may have noticed, is 2<sup>n</sup>. A set of eight bits is called a byte (it can encode 256 values). Of course decimal numbers can be used to encode characters (in <a href="http://www.asciitable.com/">ASCII</a>, 65 = 'A' ). Sequences of characters form strings that can be used to encode commands (in Python, to print the number 42 to the screen you would type "print 42"). 
-
-<p>This hierarchy of encodings (or levels of abstraction) enables us to describe fairly complicated, high-level tasks without worrying about the low-level details. Just like in your previous exercise, your steps were more like "turn left, walk to the wall, turn right..." instead of "use muscle x to do y..." - same in our programs, we write "print 42" instead of a long sequence of 1's and 0's. 
-
-<p>In this course you will learn that writing programs is very much about building layers of abstraction: from variables - to functions - to programs, and through that - expressing more and more complex ideas. 
+<p>Of course, I know what you mean by "stand up" - but if we are writing a program (which is a recipe that can be run on a computer), we need to be more specific. But how specific? That's the question we will address next time, as well as how we communicate this algorithm to a computer so that it can "understand" it.
 
 <h4>Wrap-up</h4>
 <ol>
     <li>Computer science is the study of process.
     <li>We will use recipes as a metaphor for process.
     <li>A recipe that can be run on a computer is a program.
-    <li>When specifying a recipe, state explicitly what you want the computer to do.
-    <li>Each step in a recipe should be something a computer knows how to do.
+    <li>When specifying a recipe, state explicitly what you want the computer to do. (more on this next time)
 </ol>
 

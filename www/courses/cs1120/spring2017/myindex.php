@@ -35,7 +35,7 @@
 			<td rowspan="3">1
 			<td>Mon, 01/09
 			<td>Ch. 1
-			<td>Introduction to computer science and digital media
+			<td><a href="sessions/1">Introduction to computer science and digital media</a>
 			<td>
 		<tr>
 			<td>Wed, 01/11
