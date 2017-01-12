@@ -36,12 +36,12 @@
 			<td rowspan="3">1
 			<td>Mon, 01/09
 			<td>
-			<td>Introduction to the course
+			<td><a href="sessions/1">Introduction to the course</a>
 			<td>
 		<tr>
 			<td>Wed, 01/11
 			<td>Duckett, Intro
-			<td>Introduction to the Internet and the WWW
+			<td><a href="sessions/2.pdf">Introduction to the Internet and the WWW</a>
 			<td>
 		<tr>
 			<td>Fri, 01/13
@@ -57,7 +57,7 @@
 			<td>Wed, 01/18
 			<td>
 			<td>NO CLASS
-			<td>Assignment 1
+			<td>Assignment 1<br><em>(available on eLearning)</em>
 		<tr>
 			<td>Fri, 01/20
 			<td>
