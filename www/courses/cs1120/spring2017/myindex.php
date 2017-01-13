@@ -40,12 +40,12 @@
 		<tr>
 			<td>Wed, 01/11
 			<td>Ch. 2
-			<td>Introduction to programming
+			<td><a href="sessions/2">Introduction to programming</a>
 			<td>
 		<tr>
 			<td>Fri, 01/13
 			<td>
-			<td>Lab 1: Exploring JES
+			<td><a href="labs/lab1.pdf">Lab 1: Exploring JES</a>
 			<td>
 		<tr class="week break">
 			<td rowspan="3" style="background:#f1f1f1;">2
