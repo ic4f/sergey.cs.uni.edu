@@ -61,7 +61,7 @@
 		<tr>
 			<td>Fri, 01/20
 			<td>
-			<td>Lab 1
+			<td>Introduction to HTML
 			<td>
 		<tr class="week">
 			<td rowspan="3">3
@@ -77,7 +77,7 @@
 		<tr>
 			<td>Fri, 01/27
 			<td>
-			<td>Lab 2
+			<td>Lab 1
 			<td>
 		<tr class="week">
 			<td rowspan="3">4
@@ -93,7 +93,7 @@
 		<tr>
 			<td>Fri, 02/03
 			<td>
-			<td>Lab 3
+			<td>Lab 2
 			<td>
 		<tr class="week">
 			<td rowspan="3">5
@@ -109,7 +109,7 @@
 		<tr>
 			<td>Fri, 02/10
 			<td>
-			<td>Lab 4
+			<td>Lab 3
 			<td>
 		<tr class="week">
 			<td rowspan="3">6
@@ -125,7 +125,7 @@
 		<tr>
 			<td>Fri, 02/17
 			<td>
-			<td>Lab 5
+			<td>Lab 4
 			<td>
 		<tr class="week">
 			<td rowspan="3">7
@@ -141,7 +141,7 @@
 		<tr>
 			<td>Fri, 02/24
 			<td>
-			<td>Lab 6
+			<td>Lab 5
 			<td>
 		<tr class="week">
 			<td rowspan="3">8
@@ -157,7 +157,7 @@
 		<tr>
 			<td>Fri, 03/03
 			<td>
-			<td>Lab 7
+			<td>Lab 6
 			<td>
 		<tr class="week">
 			<td rowspan="3">9
@@ -173,7 +173,7 @@
 		<tr>
 			<td>Fri, 03/10
 			<td>Lynda tutorials
-			<td>Lab 8: Photoshop layers and basic selection techniques
+			<td>Lab 7: Photoshop layers and basic selection techniques
 			<td>
 
 		<tr class="break">
@@ -198,7 +198,7 @@
 		<tr>
 			<td>Fri, 03/24
 			<td>
-			<td>Lab 9: Photoshop practice; CSS layout
+			<td>Lab 8: Photoshop practice; CSS layout
 			<td>Assignment 5
 		<tr class="week">
 			<td rowspan="3">11
@@ -214,7 +214,7 @@
 		<tr>
 			<td>Fri, 03/31
 			<td>
-			<td>Lab 10: Photoshop practice; CSS color and gradients
+			<td>Lab 9: Photoshop practice; CSS color and gradients
 			<td>
 		<tr class="week">
 			<td rowspan="3">12
@@ -230,7 +230,7 @@
 		<tr>
 			<td>Fri, 04/07
 			<td>
-			<td>Lab 11
+			<td>Lab 10
 			<td>
 		<tr class="week">
 			<td rowspan="3">13
@@ -246,7 +246,7 @@
 		<tr>
 			<td>Fri, 04/14
 			<td>
-			<td>Lab 12
+			<td>Lab 11
 			<td>
 		<tr class="week">
 			<td rowspan="3">14
@@ -262,7 +262,7 @@
 		<tr>
 			<td>Fri, 04/21
 			<td>
-			<td>Lab 13
+			<td>Lab 12
 			<td>
 		<tr class="week">
 			<td rowspan="3">15
