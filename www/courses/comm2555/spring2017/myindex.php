@@ -46,7 +46,7 @@
 		<tr>
 			<td>Fri, 01/13
 			<td>Duckett, ch. 1
-			<td>Building web pages with HTML
+			<td><a href="sessions/3.pdf">Building web pages / working with a server</a>
 			<td>
 		<tr class="week break">
 			<td rowspan="3" style="background:#f1f1f1;">2
