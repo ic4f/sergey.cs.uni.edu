@@ -24,6 +24,7 @@ $site['/courses/comm2555/spring2017'] = 'COMM 2555: Interactive Digital Communic
 $site['/courses/comm2555/spring2017/resources'] = 'Resources';
 $site['/courses/comm2555/spring2017/sessions/1'] = 'Introduction to the Course';
 $site['/courses/comm2555/spring2017/sessions/4'] = 'Introduction to HTML';
+$site['/courses/comm2555/spring2017/sessions/5'] = 'HTML common elements; structure and semantics';
 
 
 

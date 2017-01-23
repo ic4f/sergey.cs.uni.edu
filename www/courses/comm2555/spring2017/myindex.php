@@ -67,7 +67,7 @@
 			<td rowspan="3">3
 			<td>Mon, 01/23
 			<td>Duckett, ch. 2
-			<td>HTML common elements; structure and semantics
+			<td><a href="sessions/5">HTML common elements; structure and semantics</a>
 			<td>
 		<tr>
 			<td>Wed, 01/25
