@@ -61,7 +61,7 @@
 		<tr>
 			<td>Fri, 01/20
 			<td>
-			<td>Introduction to HTML
+			<td><a href='sessions/4'>Introduction to HTML</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">3

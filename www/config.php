@@ -23,6 +23,7 @@ $site['/courses/cs1120/spring2017/sessions/2'] = 'Session 2: Introduction to Pro
 $site['/courses/comm2555/spring2017'] = 'COMM 2555: Interactive Digital Communication';
 $site['/courses/comm2555/spring2017/resources'] = 'Resources';
 $site['/courses/comm2555/spring2017/sessions/1'] = 'Introduction to the Course';
+$site['/courses/comm2555/spring2017/sessions/4'] = 'Introduction to HTML';
 
 
 
