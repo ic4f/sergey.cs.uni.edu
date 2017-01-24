@@ -84,7 +84,7 @@
 			<td>Mon, 01/30
 			<td>Duckett, ch. 4
 			<td>HTML links
-			<td>Assignment 2
+			<td><a href="homework/2.pdf">Assignment 2</a>
 		<tr>
 			<td>Wed, 02/01
 			<td>Duckett, ch. 5
