@@ -5,6 +5,7 @@ setPaths($basePath, $sitePath);
 
 //get physical path and check if file exists
 $physicalPath = getPhysicalPath($sitePath);
+
 if (!file_exists($physicalPath)) {
     header('Location: ' . $basePath . '/404.php');
 }

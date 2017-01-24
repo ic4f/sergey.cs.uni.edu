@@ -83,7 +83,7 @@
 			<td>Mon, 01/30
 			<td>Ch. 5
 			<td>Controlled color changes; red eye removal; sepia tones
-			<td>Assignment 1
+			<td><a href="homework/1.pdf">Assignment 1</a>
 		<tr>
 			<td>Wed, 02/01
 			<td>Ch. 5
