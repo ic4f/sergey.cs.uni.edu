@@ -72,7 +72,7 @@
 		<tr>
 			<td>Wed, 01/25
 			<td>Duckett, ch. 3, 6
-			<td>HTML structured content: lists and tables
+			<td><a href="sessions/6.pdf">HTML structured content: lists and tables</a>
 			<td>
 		<tr>
 			<td>Fri, 01/27
