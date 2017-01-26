@@ -18,6 +18,13 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
     <li><a href="courses/cs1120/spring2017">CS 1120: Media Computation</a>
     <li><a href="courses/comm2555/spring2017">COMM 2555: Interactive Digital Communication</a>
 </ul>
+<!--
+<h4>Next Semester: Fall 2017</h4>
+<ul>
+    <li>CS 1510: Intro to Computing
+    <li>COMM 2555: Interactive Digital Communication
+</ul>
+-->
 
 <h4>Previous Semesters</h4>
 
@@ -30,14 +37,14 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
     <li><a href="courses/comm2555/fall2016">COMM 2555: Interactive Digital Communication</a> <span class="comment"> / Fall 2016</span>
     <li><a href="courses/cs1120/spring2016">CS 1120: Media Computation</a> <span class="comment"> / Spring 2016</span>
     <li>COMM 3159: Communication & Code <span class="comment"> / Fall 2015</span>
-    <li>COMM 4555: Interactive Digital Studies Practicum <span class="comment"> / Spring 2014</span>
+    <li>UNIV 4555: Interactive Digital Studies Practicum <span class="comment"> / Spring 2014</span>
     <li>COMM COR 2020: Introduction to Research Methods <span class="comment"> / 2013-2014</span>
     <li>COMM 4198: Independent Study (web development with PHP/MySQL) <span class="comment"> / Fall 2014</span>
 </ul>
 
-<h4>2017/18 Academic Year</h4>
+<h4>Next Academic Year</h4>
 
-<p>The following courses may be offered as part of the IDS Computation and Web Development bundles:
+<p>The following courses may be offered as part of the IDS Computation and (future) Web Development bundles:
 
 <ul>
     <li>CS 1100: Web Development: Client-Side Coding <span class="comment"> / web development bundle</span>
