@@ -76,7 +76,7 @@
 		<tr>
 			<td>Fri, 01/27
 			<td>
-			<td>Lab 2
+			<td><a href="labs/lab2.pdf">Lab 2: Manipulating photos with loops</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">4
