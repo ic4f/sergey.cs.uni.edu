@@ -77,7 +77,7 @@
 		<tr>
 			<td>Fri, 01/27
 			<td>
-			<td>Lab 1
+			<td><a href="labs/lab1.pdf">Lab 1: Getting started with HTML</a> | <a href="labs/lab1.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">4
