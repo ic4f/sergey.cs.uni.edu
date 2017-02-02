@@ -66,12 +66,12 @@
 			<td rowspan="3">3
 			<td>Mon, 01/23
 			<td>Ch. 4
-			<td>Decreading/increasing amount of color; basic filters (sunset, negative, grayscale...)
+			<td>Decreading/increasing amount of color; basic filters (sunset, negative, grayscale...) | <a href="code/day07.py">download code</a>
 			<td>
 		<tr>
 			<td>Wed, 01/25
 			<td>Ch. 4
-			<td>Accessing pixels by index; copy and paste
+			<td>Accessing pixels by index; copy and paste | <a href="code/day08.py">download code</a>
 			<td>
 		<tr>
 			<td>Fri, 01/27
@@ -82,17 +82,18 @@
 			<td rowspan="3">4
 			<td>Mon, 01/30
 			<td>Ch. 5
-			<td>Controlled color changes; red eye removal; sepia tones
+			<td>Controlled color changes; red eye removal; sepia tones | <a href="code/day10.py">download code</a>
 			<td><a href="homework/1.pdf">Assignment 1</a>
 		<tr>
 			<td>Wed, 02/01
 			<td>Ch. 5
-			<td>More effects: Posterizing; edge detection
+			<td>More effects: Posterizing; edge detection | <a href="code/day11.py">download code</a>
 			<td>
 		<tr>
 			<td>Fri, 02/03
 			<td>
-			<td>Lab 3
+			<td><!--<a href="labs/lab3.pdf">Lab 3: Using conditional statements to change color</a> | 
+				<a href="media/obama.jpg">lab file</a>-->Lab 3
 			<td>
 		<tr class="week">
 			<td rowspan="3">5
