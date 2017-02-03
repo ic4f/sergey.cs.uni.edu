@@ -92,8 +92,8 @@
 		<tr>
 			<td>Fri, 02/03
 			<td>
-			<td><!--<a href="labs/lab3.pdf">Lab 3: Using conditional statements to change color</a> | 
-				<a href="media/obama.jpg">lab file</a>-->Lab 3
+			<td><a href="labs/lab3.pdf">Lab 3: Using conditional statements to change color</a> | 
+				<a href="media/obama.jpg">lab file</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">5
