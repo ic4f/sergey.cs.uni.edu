@@ -117,7 +117,7 @@
 			<td>Mon, 02/13
 			<td>Duckett, ch. 11
 			<td>CSS: styling color
-			<td>Assignment 3
+			<td><a class="hw" href="homework/3.pdf">Assignment 3</a> | <a class="hw" href="homework/3/source.txt">source.txt</a>
 		<tr>
 			<td>Wed, 02/15
 			<td>Duckett, ch. 12
