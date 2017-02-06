@@ -77,14 +77,14 @@
 		<tr>
 			<td>Fri, 01/27
 			<td>
-			<td><a href="labs/lab1.pdf">Lab 1: Getting started with HTML</a> | <a href="labs/lab1.zip">lab files</a>
+			<td class="lab"><a href="labs/lab1.pdf">Lab 1: Getting started with HTML</a> | <a href="labs/lab1.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">4
 			<td>Mon, 01/30
 			<td>Duckett, ch. 4
 			<td>HTML links
-			<td><a href="homework/2.pdf">Assignment 2</a>
+			<td><a class="hw" href="homework/2.pdf">Assignment 2</a>
 		<tr>
 			<td>Wed, 02/01
 			<td>Duckett, ch. 5
@@ -93,7 +93,8 @@
 		<tr>
 			<td>Fri, 02/03
 			<td>
-			<td><a href="labs/lab2.pdf">Lab 2: HTML images and links</a>
+			<td class="lab"><a href="labs/lab2.pdf">Lab 2: HTML images and links</a>
+				<br><a href="labs/lab2extra.pdf">Lab 2 - extra credit: HTML images and links + introducing CSS</a> | <a href="labs/lab2extra.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">5
