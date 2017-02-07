@@ -99,12 +99,12 @@
 			<td rowspan="3">5
 			<td>Mon, 02/06
 			<td>Ch. 5
-			<td>Background removal; chromakey
+			<td>More on if-statements; generalizing a function | <a href="code/day13.py">download code</a>
 			<td>
 		<tr>
 			<td>Wed, 02/08
 			<td>Ch. 6
-			<td>Processing pixels faster
+			<td>Background removal; chromakey. Processing pixels faster
 			<td>
 		<tr>
 			<td>Fri, 02/10
