@@ -45,7 +45,7 @@
 		<tr>
 			<td>Fri, 01/13
 			<td>
-			<td><a href="labs/lab1.pdf">Lab 1: Exploring JES</a>
+			<td class="lab"><a href="labs/lab1.pdf">Lab 1: Exploring JES</a>
 			<td>
 		<tr class="week break">
 			<td rowspan="3" style="background:#f1f1f1;">2
@@ -61,7 +61,7 @@
 			<td>Fri, 01/20
 			<td>Ch. 4
 			<td>How images are encoded; image manipulation; basic loops
-			<td><a href="homework/0">Assignment 0</a>
+			<td><a class="hw" href="homework/0">Assignment 0</a>
 		<tr class="week">
 			<td rowspan="3">3
 			<td>Mon, 01/23
@@ -76,23 +76,23 @@
 		<tr>
 			<td>Fri, 01/27
 			<td>
-			<td><a href="labs/lab2.pdf">Lab 2: Manipulating photos with loops</a>
+			<td class="lab"><a href="labs/lab2.pdf">Lab 2: Manipulating photos with loops</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">4
 			<td>Mon, 01/30
 			<td>Ch. 5
 			<td>Controlled color changes; red eye removal; sepia tones | <a href="code/day10.py">download code</a>
-			<td><a href="homework/1.pdf">Assignment 1</a>
+			<td><a class="hw" href="homework/1.pdf">Assignment 1</a>
 		<tr>
 			<td>Wed, 02/01
 			<td>Ch. 5
-			<td>More effects: Posterizing; edge detection | <a href="code/day11.py">download code</a>
+			<td>More effects: posterizing  | <a href="code/day11.py">download code</a>
 			<td>
 		<tr>
 			<td>Fri, 02/03
 			<td>
-			<td><a href="labs/lab3.pdf">Lab 3: Using conditional statements to change color</a> | 
+			<td class="lab"><a href="labs/lab3.pdf">Lab 3: Using conditional statements to change color</a> | 
 				<a href="media/obama.jpg">lab file</a>
 			<td>
 		<tr class="week">
@@ -104,23 +104,23 @@
 		<tr>
 			<td>Wed, 02/08
 			<td>Ch. 6
-			<td>Background removal; chromakey. Processing pixels faster
+			<td>Edge detection; background subtraction; chromakey | <a href="code/day14.zip">download code</a>
 			<td>
 		<tr>
 			<td>Fri, 02/10
 			<td>
-			<td>Lab 4
+			<td class="lab"><a href="labs/lab4.pdf">Lab 4: Selective color manipulation</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">6
 			<td>Mon, 02/13
 			<td>Ch. 6
-			<td>Mirroring an image
-			<td>Assignment 2
+			<td>Processing pixels faster; more on hieerarchical decomposition 
+			<td><a class="hw" href="homework/2.pdf">Assignment 2</a>
 		<tr>
 			<td>Wed, 02/15
 			<td>Ch. 6
-			<td>Copying; cropping
+			<td>Copying; cropping; mirroring an image
 			<td>
 		<tr>
 			<td>Fri, 02/17
