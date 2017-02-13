@@ -115,7 +115,7 @@
 			<td rowspan="3">6
 			<td>Mon, 02/13
 			<td>Ch. 6
-			<td>Processing pixels faster; more on hieerarchical decomposition 
+			<td>Processing pixels faster; more on hieerarchical decomposition  | <a href="code/day16.zip">download code</a>
 			<td><a class="hw" href="homework/2.pdf">Assignment 2</a>
 		<tr>
 			<td>Wed, 02/15
