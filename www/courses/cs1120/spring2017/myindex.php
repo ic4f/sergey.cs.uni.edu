@@ -120,7 +120,7 @@
 		<tr>
 			<td>Wed, 02/15
 			<td>Ch. 6
-			<td>Copying; cropping; mirroring an image
+			<td>Copying; cropping; mirroring an image | <a href="code/day17.py">download code</a>
 			<td>
 		<tr>
 			<td>Fri, 02/17
