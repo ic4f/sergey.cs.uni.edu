@@ -125,7 +125,7 @@
 		<tr>
 			<td>Fri, 02/17
 			<td>
-			<td>Lab 5: Making a collage
+			<td class="lab"><a href="labs/lab5.pdf">Lab 5: Making a collage</a> | <a href="labs/lab5.zip">download images</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">7
