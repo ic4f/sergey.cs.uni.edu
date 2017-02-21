@@ -148,7 +148,7 @@
 			<td>Mon, 02/27
 			<td>
 			<td>Exam 1
-			<td>Assignment 3
+			<td><a class="hw" href="homework/3.pdf">Assignment 3</a>
 		<tr> 
 			<td>Wed, 03/01
 			<td>Ch. 7
