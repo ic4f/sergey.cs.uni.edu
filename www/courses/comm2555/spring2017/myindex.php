@@ -149,7 +149,7 @@
 			<td>Mon, 02/27
 			<td>Duckett, ch. 15
 			<td>CSS layout: positioning, floats
-			<td>Assignment 4 
+			<td><a class="hw" href="homework/4.pdf">Assignment 4</a>
 		<tr> 
 			<td>Wed, 03/01
 			<td>Duckett, ch. 16
