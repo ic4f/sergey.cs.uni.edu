@@ -141,23 +141,23 @@
 		<tr>
 			<td>Fri, 02/24
 			<td>
-			<td>Exam review
+			<td class="lab"><a href="labs/lab6.pdf">Lab 6: Blending images</a> | <a href="labs/lab6.zip">download images</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">8
 			<td>Mon, 02/27
 			<td>
-			<td>Exam 1
+			<td>TBD
 			<td><a class="hw" href="homework/3.pdf">Assignment 3</a>
 		<tr> 
 			<td>Wed, 03/01
-			<td>Ch. 7
-			<td>How sounds are encoded; sound manipulation
+			<td><!--Ch. 7-->
+			<td><!--How sounds are encoded; sound manipulation00-->exam review
 			<td>
 		<tr>
 			<td>Fri, 03/03
 			<td>
-			<td>Lab 6: changing the volume; normalization; clipping
+			<td><!--Lab 6: changing the volume; normalization; clipping-->Exam - 1
 			<td>
 		<tr class="week">
 			<td rowspan="3">9
