@@ -142,7 +142,7 @@
 		<tr>
 			<td>Fri, 02/24
 			<td>
-			<td>Lab 5
+			<td class="lab"><a href="labs/lab5.pdf">Lab 5</a> 
 			<td>
 		<tr class="week">
 			<td rowspan="3">8
