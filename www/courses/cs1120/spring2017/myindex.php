@@ -115,7 +115,7 @@
 			<td rowspan="3">6
 			<td>Mon, 02/13
 			<td>Ch. 6
-			<td>Processing pixels faster; more on hieerarchical decomposition  | <a href="code/day16.zip">download code</a>
+			<td>Processing pixels faster; more on hierarchical decomposition  | <a href="code/day16.zip">download code</a>
 			<td><a class="hw" href="homework/2.pdf">Assignment 2</a>
 		<tr>
 			<td>Wed, 02/15
@@ -147,34 +147,34 @@
 			<td rowspan="3">8
 			<td>Mon, 02/27
 			<td>
-			<td>TBD
+			<td>Generalizing the image rotation program
 			<td><a class="hw" href="homework/3.pdf">Assignment 3</a>
 		<tr> 
 			<td>Wed, 03/01
-			<td><!--Ch. 7-->
-			<td><!--How sounds are encoded; sound manipulation00-->exam review
+			<td>
+			<td>Lab debrief / exam review
 			<td>
 		<tr>
 			<td>Fri, 03/03
 			<td>
-			<td><!--Lab 6: changing the volume; normalization; clipping-->Exam - 1
+			<td>Exam - 1
 			<td>
 		<tr class="week">
 			<td rowspan="3">9
 			<td>Mon, 03/06
-			<td>Ch. 8
-			<td>Manipulation of sections of sound; splicing
+			<td>Ch. 7
+			<td>How sounds are encoded; sound manipulation
 			<td>
 		<tr>
 			<td>Wed, 03/08
 			<td>Ch. 8
-			<td>Splicing (cont.); reversing sound
+			<td>Changing the volume; normalization; clipping 
 			<td>
 		<tr>
 			<td>Fri, 03/10
 			<td>
 			<td>Lab 7
-			<td>Assignment 4
+			<td>
 
 		<tr class="break">
 			<td colspan="5">
@@ -188,34 +188,34 @@
 			<td rowspan="3">10
 			<td>Mon, 03/20
 			<td>Ch. 8
-			<td>Clip and copy revisited
+			<td>Manipulation of sections of sound; splicing
 			<td>
 		<tr>
 			<td>Wed, 03/22
-			<td>Ch. 9
-			<td>Blending sounds
+			<td>Ch. 8
+			<td>Splicing (cont.); reversing sound
 			<td>
 		<tr>
 			<td>Fri, 03/24
 			<td>
 			<td>Lab 8
-			<td>
+			<td class="hw">Assignment 4
 		<tr class="week">
 			<td rowspan="3">11
 			<td>Mon, 03/27
-			<td>Ch. 9
-			<td>Creating an echo
-			<td>Assignment 5
+			<td>Ch. 8
+			<td>Clip and copy revisited
+			<td>
 		<tr>
 			<td>Wed, 03/29
 			<td>Ch. 9
-			<td>Synthesis; creating sounds that don't exist
+			<td>Blending sounds; creating an echo
 			<td>
 		<tr>
 			<td>Fri, 03/31
 			<td>
 			<td>Exam review
-			<td>
+			<td class="hw">Assignment 5
 		<tr class="week">
 			<td rowspan="3">12
 			<td>Mon, 04/03
