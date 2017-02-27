@@ -147,7 +147,7 @@
 			<td rowspan="3">8
 			<td>Mon, 02/27
 			<td>
-			<td>Generalizing the image rotation program
+			<td>Generalizing the image rotation program | <a href="code/day22.py">download code</a> | <a href="sessions/rotate.pdf">calculation</a>
 			<td><a class="hw" href="homework/3.pdf">Assignment 3</a>
 		<tr> 
 			<td>Wed, 03/01
