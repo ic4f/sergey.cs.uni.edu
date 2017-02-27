@@ -142,18 +142,18 @@
 		<tr>
 			<td>Fri, 02/24
 			<td>
-			<td class="lab"><a href="labs/lab5.pdf">Lab 5</a> 
+			<td class="lab">Lab 5
 			<td>
 		<tr class="week">
 			<td rowspan="3">8
 			<td>Mon, 02/27
 			<td>Duckett, ch. 15
-			<td>CSS layout: positioning, floats
+			<td>Lab/box model review
 			<td><a class="hw" href="homework/4.pdf">Assignment 4</a>
 		<tr> 
 			<td>Wed, 03/01
 			<td>Duckett, ch. 16
-			<td>CSS layout: images; basic multi-column layouts
+			<td>CSS layout: floating elements
 			<td>
 		<tr>
 			<td>Fri, 03/03
