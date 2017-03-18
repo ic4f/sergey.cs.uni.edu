@@ -164,17 +164,17 @@
 			<td rowspan="3">9
 			<td>Mon, 03/06
 			<td>
-			<td>Exam 1
+			<td>Exam review
 			<td>
 		<tr>
 			<td>Wed, 03/08
-			<td><a href="http://www.nytimes.com/2006/06/26/arts/26crea.html">In Digital Age...</a>
-			<td>Copyright, Public Domain, and the Creative Commons
+			<td>
+			<td>Exam 1
 			<td>
 		<tr>
 			<td>Fri, 03/10
 			<td>Lynda tutorials
-			<td>Lab 7: Photoshop layers and basic selection techniques
+			<td> 
 			<td>
 
 		<tr class="break">
@@ -188,19 +188,19 @@
 		<tr class="week">
 			<td rowspan="3">10
 			<td>Mon, 03/20
-			<td>Williams, ch. 1, 2, 3
-			<td>Design principles: proximity and alignment 
+			<td><a href="http://www.nytimes.com/2006/06/26/arts/26crea.html">In Digital Age...</a>
+			<td>Copyright, Public Domain, and the Creative Commons
 			<td>
 		<tr>
 			<td>Wed, 03/22
-			<td>Lynda tutorials
-			<td>Photoshop compositing, more selection techniques, smart objects
+			<td>Williams, ch. 1, 2, 3
+			<td>Design principles: proximity and alignment; Intro to Photoshop 
 			<td>
 		<tr>
 			<td>Fri, 03/24
+			<td><a href="tutorials">Lynda tutorials</a>
+			<td>Lab 7: Photoshop: layers and basic selection techniques
 			<td>
-			<td>Lab 8: Photoshop practice; CSS layout
-			<td>Assignment 5
 		<tr class="week">
 			<td rowspan="3">11
 			<td>Mon, 03/27
@@ -210,19 +210,19 @@
 		<tr>
 			<td>Wed, 03/29
 			<td>Lynda tutorials
-			<td>Photoshop adjustment layers
+			<td>Photoshop: compositing, more selection techniques, smart objects
 			<td>
 		<tr>
 			<td>Fri, 03/31
-			<td>
-			<td>Lab 9: Photoshop practice; CSS color and gradients
-			<td>
+			<td><a href="tutorials">Lynda tutorials</a>
+			<td>Lab 8: Photoshop: advanced selection techniques
+			<td>Assignment 5
 		<tr class="week">
 			<td rowspan="3">12
 			<td>Mon, 04/03
 			<td>Williams, ch. 7
 			<td>Designing with color
-			<td>Assignment 6
+			<td>
 		<tr>
 			<td>Wed, 04/05
 			<td>Williams, ch. 10-12
@@ -230,41 +230,41 @@
 			<td>
 		<tr>
 			<td>Fri, 04/07
-			<td>
-			<td>Lab 10
+			<td><a href="tutorials">Lynda tutorials</a>
+			<td>Lab 9: Photoshop: adjustment layers
 			<td>
 		<tr class="week">
 			<td rowspan="3">13
 			<td>Mon, 04/10
 			<td>
-			<td>Exam 2
-			<td>
+			<td>Exam review
+			<td>Assignment 6
 		<tr>
 			<td>Wed, 04/12
-			<td>TBD
-			<td>Building web sites: web page structure
+			<td>
+			<td>Exam 2
 			<td>
 		<tr>
 			<td>Fri, 04/14
 			<td>
-			<td>Lab 11
+			<td>Lab 10: CSS review + elements of layout
 			<td>
 		<tr class="week">
 			<td rowspan="3">14
 			<td>Mon, 04/17
-			<td>TBD
-			<td>CSS: approaches to layout
-			<td>Assignment 7
+			<td>
+			<td>Building web sites: web page structure
+			<td>
 		<tr>
 			<td>Wed, 04/19
 			<td>TBD
-			<td>CSS: responsive design 
+			<td>CSS: approaches to layout
 			<td>
 		<tr>
 			<td>Fri, 04/21
 			<td>
-			<td>Lab 12
-			<td>
+			<td>Lab 11: CSS layout
+			<td>Assignment 7
 		<tr class="week">
 			<td rowspan="3">15
 			<td>Mon, 04/24
