@@ -167,8 +167,8 @@
 			<td>
 		<tr>
 			<td>Wed, 03/08
-			<td>Ch. 8
-			<td>Changing the volume; normalization; clipping 
+			<td>Ch. 7
+			<td>Changing the volume; clipping 
 			<td>
 		<tr>
 			<td>Fri, 03/10
@@ -187,66 +187,66 @@
 		<tr class="week">
 			<td rowspan="3">10
 			<td>Mon, 03/20
-			<td>Ch. 8
-			<td>Manipulation of sections of sound; splicing
+			<td>Ch. 7
+			<td>Sound manipulation (cont.); normalizing sound
 			<td>
 		<tr>
 			<td>Wed, 03/22
 			<td>Ch. 8
-			<td>Splicing (cont.); reversing sound
+			<td>Manipulation of sections of sound
 			<td>
 		<tr>
 			<td>Fri, 03/24
 			<td>
-			<td>Lab 8
-			<td class="hw">Assignment 4
+			<td class="lab"><a href="labs/lab8.pdf">Lab 8: Splicing sound</a> | <a href="labs/lab8.wav">download file</a>
+			<td>
 		<tr class="week">
 			<td rowspan="3">11
 			<td>Mon, 03/27
 			<td>Ch. 8
-			<td>Clip and copy revisited
-			<td>
+			<td>Clip and copy revisited; reversing/mirroring sounds
+			<td><a class="hw" href="homework/4">Assignment 4</a>
 		<tr>
 			<td>Wed, 03/29
 			<td>Ch. 9
-			<td>Blending sounds; creating an echo
+			<td>Blending sounds
 			<td>
 		<tr>
 			<td>Fri, 03/31
 			<td>
-			<td>Exam review
-			<td class="hw">Assignment 5
+			<td>Lab 9: Blending sound
+			<td>
 		<tr class="week">
 			<td rowspan="3">12
 			<td>Mon, 04/03
-			<td>
-			<td>Exam 2
-			<td>
+			<td>Ch. 9
+			<td>Creating an echo; synthesis
+			<td><a class="hw" href="homework/5.pdf">Assignment 5</a>
 		<tr>
 			<td>Wed, 04/05
-			<td>Ch. 3
-			<td>Introduction to text manipulation
+			<td>
+			<td>Exam review
 			<td>
 		<tr>
 			<td>Fri, 04/07
 			<td>
-			<td>Lab 9: Basic string manipulation
+			<td>Exam 2
 			<td>
 		<tr class="week">
 			<td rowspan="3">13
 			<td>Mon, 04/10
 			<td>Ch. 3
-			<td>Working with indices; encoding/decoding text 
+			<td>Introduction to text manipulation
 			<td>
 		<tr>
 			<td>Wed, 04/12
-			<td>Ch. 10
-			<td>Designing bigger programs 
+			<td>Ch. 3
+			<td>Working with indices; encoding/decoding text
 			<td>
 		<tr>
 			<td>Fri, 04/14
 			<td>
-			<td>Lab 10: Building a text game
+			<td>Lab 10: Basic string manipulation; building a text game
 			<td>
 		<tr class="week">
 			<td rowspan="3">14
@@ -267,13 +267,13 @@
 		<tr class="week">
 			<td rowspan="3">15
 			<td>Mon, 04/24
-			<td>Ch. 12
-			<td>Moving information between media
+			<td>Ch. 10
+			<td>Building bigger programs
 			<td>
 		<tr>
 			<td>Wed, 04/26
 			<td>Ch. 12
-			<td>Steganography: hiding secrets in plain sight
+			<td>Moving information between media / Steganography: hiding secrets in plain sight
 			<td>
 		<tr>
 			<td>Fri, 04/28
