@@ -188,7 +188,7 @@
 			<td rowspan="3">10
 			<td>Mon, 03/20
 			<td>Ch. 7
-			<td>Sound manipulation (cont.); normalizing sound
+			<td>Sound manipulation (cont.); normalizing sound | <a href="code/day28.py">download code</a>
 			<td>
 		<tr>
 			<td>Wed, 03/22
