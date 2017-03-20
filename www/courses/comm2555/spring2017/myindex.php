@@ -216,13 +216,13 @@
 			<td>Fri, 03/31
 			<td><a href="tutorials">Lynda tutorials</a>
 			<td>Lab 8: Photoshop: advanced selection techniques
-			<td>Assignment 5
+			<td>
 		<tr class="week">
 			<td rowspan="3">12
 			<td>Mon, 04/03
 			<td>Williams, ch. 7
 			<td>Designing with color
-			<td>
+			<td>Assignment 5
 		<tr>
 			<td>Wed, 04/05
 			<td>Williams, ch. 10-12
