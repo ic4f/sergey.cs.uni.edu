@@ -193,7 +193,7 @@
 		<tr>
 			<td>Wed, 03/22
 			<td>Ch. 8
-			<td>Manipulation of sections of sound
+			<td>Manipulation of sections of sound | <a href="code/day29.py">download code</a>
 			<td>
 		<tr>
 			<td>Fri, 03/24
