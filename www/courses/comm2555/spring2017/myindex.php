@@ -222,7 +222,7 @@
 			<td>Mon, 04/03
 			<td>Williams, ch. 7
 			<td>Designing with color
-			<td>Assignment 5
+			<td>
 		<tr>
 			<td>Wed, 04/05
 			<td>Williams, ch. 10-12
@@ -238,7 +238,7 @@
 			<td>Mon, 04/10
 			<td>
 			<td>Exam review
-			<td>Assignment 6
+			<td>Assignment 5
 		<tr>
 			<td>Wed, 04/12
 			<td>
@@ -254,7 +254,7 @@
 			<td>Mon, 04/17
 			<td>
 			<td>Building web sites: web page structure
-			<td>
+			<td>Assignment 6
 		<tr>
 			<td>Wed, 04/19
 			<td>TBD
