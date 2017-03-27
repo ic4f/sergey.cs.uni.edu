@@ -264,13 +264,13 @@
 			<td>Fri, 04/21
 			<td>
 			<td>Lab 11: CSS layout
-			<td>Assignment 7
+			<td>
 		<tr class="week">
 			<td rowspan="3">15
 			<td>Mon, 04/24
 			<td>TBD
 			<td>Project implementation: layout
-			<td>
+			<td>Assignment 7
 		<tr>
 			<td>Wed, 04/26
 			<td>TBD
