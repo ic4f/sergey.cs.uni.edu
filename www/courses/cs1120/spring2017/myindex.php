@@ -204,7 +204,7 @@
 			<td rowspan="3">11
 			<td>Mon, 03/27
 			<td>Ch. 8
-			<td>Clip and copy revisited; reversing/mirroring sounds
+			<td>Clip and copy revisited | <a href="code/day32.py">download code</a>
 			<td><a class="hw" href="homework/4">Assignment 4</a>
 		<tr>
 			<td>Wed, 03/29
@@ -214,7 +214,7 @@
 		<tr>
 			<td>Fri, 03/31
 			<td>
-			<td>Lab 9: Blending sound
+			<td><a href="labs/lab9.pdf">Lab 9: Blending sounds</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">12
