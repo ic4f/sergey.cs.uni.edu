@@ -220,12 +220,14 @@
 			<td rowspan="3">12
 			<td>Mon, 04/03
 			<td>Ch. 9
-			<td>Creating an echo; synthesis
+			<td>Blending revisited; variable number of arguments | <a href="code/day34.py">download code</a>
+
 			<td><a class="hw" href="homework/5.pdf">Assignment 5</a>
 		<tr>
 			<td>Wed, 04/05
 			<td>
-			<td>Exam review
+			<td>Using libraries; exam review | <a href="code/day35.zip">download code</a>
+
 			<td>
 		<tr>
 			<td>Fri, 04/07
