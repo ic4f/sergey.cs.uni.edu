@@ -214,7 +214,7 @@
 		<tr>
 			<td>Fri, 03/31
 			<td>
-			<td><a href="labs/lab9.pdf">Lab 9: Blending sounds</a>
+			<td class="lab"><a href="labs/lab9.pdf">Lab 9: Blending sounds</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">12
@@ -255,7 +255,7 @@
 			<td>Mon, 04/17
 			<td>Ch. 11
 			<td>String methods, dot notation, lists
-			<td>Assignment 6
+			<td><a class="hw" href="homework/6.pdf">Assignment 6</a>
 		<tr>
 			<td>Wed, 04/19
 			<td>Ch. 11
