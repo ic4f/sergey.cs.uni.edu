@@ -238,17 +238,17 @@
 			<td rowspan="3">13
 			<td>Mon, 04/10
 			<td>Ch. 3
-			<td>Introduction to text manipulation
+			<td>Introduction to string manipulation
 			<td>
 		<tr>
 			<td>Wed, 04/12
 			<td>Ch. 3
-			<td>Working with indices; encoding/decoding text
+			<td>String manipualtion (cont.)
 			<td>
 		<tr>
 			<td>Fri, 04/14
-			<td>
-			<td>Lab 10: Basic string manipulation; building a text game
+			<td>Ch. 3
+			<td>Accumulators, accessing characters by index, encrypting/decrypting text
 			<td>
 		<tr class="week">
 			<td rowspan="3">14
@@ -264,7 +264,7 @@
 		<tr>
 			<td>Fri, 04/21
 			<td>
-			<td>Lab 11: Reading and writing files
+			<td>Lab 10: String manipulation; reading and writing files
 			<td>
 		<tr class="week">
 			<td rowspan="3">15
@@ -274,13 +274,13 @@
 			<td>
 		<tr>
 			<td>Wed, 04/26
-			<td>Ch. 12
-			<td>Moving information between media / Steganography: hiding secrets in plain sight
+			<td>Ch. 10
+			<td>Building bigger programs (cont.)
 			<td>
 		<tr>
 			<td>Fri, 04/28
-			<td>
-			<td>Course review
+			<td>Ch. 12
+			<td>Moving information between media / Steganography: hiding secrets in plain sight
 			<td>Assignment 7
 		<tr class="week">
 			<td>16
