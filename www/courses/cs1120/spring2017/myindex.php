@@ -238,7 +238,7 @@
 			<td rowspan="3">13
 			<td>Mon, 04/10
 			<td>Ch. 3
-			<td>Introduction to string manipulation
+			<td>Introduction to string manipulation <a href="code/day37.py">download code</a>
 			<td>
 		<tr>
 			<td>Wed, 04/12
@@ -248,7 +248,7 @@
 		<tr>
 			<td>Fri, 04/14
 			<td>Ch. 3
-			<td>Accumulators, accessing characters by index, encrypting/decrypting text
+			<td>Accumulators, accessing characters by index, encrypting/decrypting text <a href="code/day38.py">download code</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">14
@@ -281,7 +281,7 @@
 			<td>Fri, 04/28
 			<td>Ch. 12
 			<td>Moving information between media / Steganography: hiding secrets in plain sight
-			<td>Assignment 7
+			<td><a class="hw" href="homework/7.pdf">Assignment 7</a>
 		<tr class="week">
 			<td>16
 			<td>Mon, 05/01
