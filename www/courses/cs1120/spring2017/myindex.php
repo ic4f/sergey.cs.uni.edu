@@ -259,23 +259,23 @@
 		<tr>
 			<td>Wed, 04/19
 			<td>Ch. 11
-			<td>Reading and writing text files; the Python standard library
+			<td>Reading and writing text filesi (cont.); the Python standard library
 			<td>
 		<tr>
 			<td>Fri, 04/21
 			<td>
-			<td>Lab 10: String manipulation; reading and writing files
+			<td>String methods, dot notation, lists (cont.)
 			<td>
 		<tr class="week">
 			<td rowspan="3">15
 			<td>Mon, 04/24
-			<td>Ch. 10
-			<td>Building bigger programs
+			<td>Ch. 11
+			<td>Reading and writing text files (cont.)
 			<td>
 		<tr>
 			<td>Wed, 04/26
-			<td>Ch. 10
-			<td>Building bigger programs (cont.)
+			<td>
+			<td class="lab"><a href="labs/lab10.pdf">Lab 10: String manipulation; reading and writing files</a> | <a href="labs/lab10.zip">download data sets</a>
 			<td>
 		<tr>
 			<td>Fri, 04/28
