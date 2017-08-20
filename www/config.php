@@ -8,6 +8,18 @@ $site['/courses/cs1120/archive'] = 'CS 1120: Media Computation Course Archive';
 $site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History'; 
 
 
+# FALL 2017 -------------------------------------------------------------- #
+
+# CS1510 ------------------------------------------------------------------- #
+$site['/courses/cs1510/fall2017'] = 'CS 1510: Introduction to Computation';
+$site['/courses/cs1510/fall2017/resources'] = 'Resources';
+$site['/courses/cs1510/fall2017/credits'] = 'Credits';
+
+# COMM2555 ----------------------------------------------------------------- #
+$site['/courses/comm2555/fall2017'] = 'COMM 2555: Interactive Digital Communication';
+$site['/courses/comm2555/fall2017/resources'] = 'Resources';
+
+
 
 # SPRING 2017 -------------------------------------------------------------- #
 

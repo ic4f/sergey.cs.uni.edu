@@ -68,7 +68,11 @@ else {
         exit;
     }
     elseif ($arr[1] === 'comm2555') {
-        header('Location: courses/comm2555/spring2017/');
+        header('Location: courses/comm2555/fall2017/');
+        exit;
+    }
+    elseif ($arr[1] === 'cs1510') {
+        header('Location: courses/cs1510/fall2017/');
         exit;
     }
     //don't display page title if same as section_l title    
