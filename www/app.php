@@ -79,6 +79,7 @@ else {
     if (strcmp($html_section_title_l, $html_page_title) === 0) {
         $html_page_title = '';
     }
+
     $html_breadcrumbs = getBreadcrumbsHTML($bc);
 }
 
@@ -126,6 +127,9 @@ function processCourses($arr, &$title_l, &$title_l_href, &$title_r ) {
     }
     elseif ($course == 'comm2555') {
         $title_l = 'COMM 2555: Interactive Digital Communication';
+    }
+    elseif ($course == 'cs1510') {
+        $title_l = 'CS 1510: Introduction to Computing';
     }
     elseif ($arr[2] == 'digital_history') {
         $title_l = 'COMM/HIST 4159/5159: Digital History';

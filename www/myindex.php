@@ -16,7 +16,7 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 <h4>Current Semester: Fall 2017</h4>
 <ul>
     <li><a href="courses/comm2555/fall2017">COMM 2555: Interactive Digital Communication</a>
-    <li>CS 1510: Introduction to Computing
+    <li><a href="courses/cs1510/fall2017">CS 1510: Introduction to Computing</a>
     <li>CS 3110: Web Application Development <span class="comment"> / independent study</span>
 </ul>
 

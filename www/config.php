@@ -11,7 +11,7 @@ $site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History';
 # FALL 2017 -------------------------------------------------------------- #
 
 # CS1510 ------------------------------------------------------------------- #
-$site['/courses/cs1510/fall2017'] = 'CS 1510: Introduction to Computation';
+$site['/courses/cs1510/fall2017'] = 'CS 1510: Introduction to Computing';
 $site['/courses/cs1510/fall2017/resources'] = 'Resources';
 $site['/courses/cs1510/fall2017/credits'] = 'Credits';
 
