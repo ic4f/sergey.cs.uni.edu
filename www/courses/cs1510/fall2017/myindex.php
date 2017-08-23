@@ -40,7 +40,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 08/23
 			<td>
-			<td class="lab">Lab 01: Getting started in the lab
+			<td class="lab"><a href="labs/01/lab01.pdf">Lab 01: Getting started in the lab</a> | <a href="labs/01/lab01_responses.docx">responses</a>
 			<td>
 		<tr>
 			<td>Thu, 08/24
