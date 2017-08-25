@@ -41,7 +41,7 @@
 		<tr>
 			<td>Thu, 08/24
 			<td>Duckett, Intro
-			<td>Introduction to the Internet and the WWW
+			<td><a href="sessions/082417.pdf">Introduction to the Internet and the WWW</a>
 			<td><a class="hw" href="https://bb9.uni.edu">Assignment 1</a> (eLearning)
 		<tr class="week">
 			<td rowspan="2">2
