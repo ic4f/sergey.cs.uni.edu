@@ -36,23 +36,23 @@
 			<td rowspan="2">1
 			<td>Tue, 08/22
 			<td>
-			<td>Introduction to the course
+			<td><a href="sessions/1">Introduction to the course</a>
 			<td>
 		<tr>
 			<td>Thu, 08/24
 			<td>Duckett, Intro
-			<td><a href="sessions/082417.pdf">Introduction to the Internet and the WWW</a>
+			<td><a href="sessions/2.pdf">Introduction to the Internet and the WWW</a>
 			<td><a class="hw" href="https://bb9.uni.edu">Assignment 1</a> (eLearning)
 		<tr class="week">
 			<td rowspan="2">2
 			<td>Tue, 08/29
 			<td>Duckett, ch. 1, 2
-			<td>Introduction to HTML
+			<td><a href='sessions/3'>Introduction to HTML</a>
 			<td>
 		<tr>
 			<td>Thu, 08/31
-			<td>Duckett, ch. 3
-			<td>Lab 1: Getting started with HTML
+			<td>Duckett, ch. 3, 6
+			<td class="lab"><a href="labs/lab1.pdf">Lab 1: Getting started with HTML</a> | <a href="labs/lab1.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">3
@@ -62,7 +62,7 @@
 			<td>
 		<tr>
 			<td>Thu, 09/07
-			<td>Duckett, ch. 6
+			<td>
 			<td>Lab 2: HTML images and links
 			<td>
 		<tr class="week">
