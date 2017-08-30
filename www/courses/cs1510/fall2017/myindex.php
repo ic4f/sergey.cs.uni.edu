@@ -56,7 +56,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 08/30
 			<td>
-			<td class="lab">Lab 02: Getting started with Python
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab02/">Lab 02: Getting started with Python</a>
 			<td>
 		<tr>
 			<td>Thu, 08/31
