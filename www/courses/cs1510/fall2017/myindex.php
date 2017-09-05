@@ -67,12 +67,12 @@ The two primary goals are to introduce the general field of computer science and
 			<td rowspan="3">3
 			<td>Tue, 09/05
 			<td>ch.4
-			<td>Introducing conditionals and selection statements
+			<td><a href="sessions/090517.pdf">Introducing conditionals and selection statements</a>
 			<td>
 		<tr>
 			<td>Wed, 09/06
 			<td>
-			<td class="lab">Lab 03: Conditionals and selection statements
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab03/">Lab 03: Conditionals and selection statements</a>
 			<td>
 		<tr>
 			<td>Thu, 09/07
