@@ -45,13 +45,13 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 08/24
 			<td>ch.1
-			<td>Intro to programming
+			<td>Intro to programming | <a href="sessions/082417.pdf">slides</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">2
 			<td>Tue, 08/29
 			<td>ch.2
-			<td>Variables and expressions
+			<td>Variables and expressions | <a href="sessions/082917.pdf">slides</a>
 			<td>
 		<tr>
 			<td>Wed, 08/30
@@ -61,7 +61,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 08/31
 			<td>ch.3
-			<td>Data types
+			<td>Data types | <a href="sessions/083117.pdf">slides</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">3
