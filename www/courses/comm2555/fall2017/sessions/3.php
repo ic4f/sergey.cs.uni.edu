@@ -1,5 +1,7 @@
 
-<p><a href="3.pdf">Download lecture slides</a>
+<p><a href="3a.pdf">Lecture slides: Intro to HTML</a>
+<br><a href="3b.pdf">Lecture slides: Common elements</a>
+<br><a href="4.pdf">Lecture slides: List and tables</a>
 
 <h4>Plan for today:</h4>
 

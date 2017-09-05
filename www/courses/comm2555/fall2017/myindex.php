@@ -63,14 +63,14 @@
 		<tr>
 			<td>Thu, 09/07
 			<td>
-			<td>Lab 2: HTML images and links
+			<td class="lab"><a href="labs/lab2.pdf">Lab 2: Images and links</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">4
 			<td>Tue, 09/12
 			<td>Duckett, ch. 8, 10
 			<td>Introduction to CSS
-			<td><a class="hw">Assignment 2</a>
+			<td><a class="hw" href="homework/2.pdf">Assignment 2</a>
 		<tr>
 			<td>Thu, 09/14
 			<td>
