@@ -51,7 +51,7 @@
 </ul>
 <p>Here's an example of an HTML element:
 
-<p><img src="4_resources/html_element.png" alt="html element">
+<p><img src="3_resources/html_element.png" alt="html element">
 
 <p>Having learned the syntax of HTML you will be able to read any HTML document you encounter. More importantly, it will be much easier for you to write HTML (regardless of the tags or attributes you use), and it will be much easier for you to debug your code. So, think of HTML syntax NOT in terms of the elements (and tags) you have already seen, but in terms of patterns:
 
