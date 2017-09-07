@@ -94,7 +94,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 09/14
 			<td>ch.5
 			<td>Loops (continued)
-			<td><a class="hw">Assignment 2</a>
+			<td><a class="hw" href="homework/hw02.pdf">Assignment 2</a>
 		<tr class="week">
 			<td rowspan="3">5
 			<td>Tue, 09/19
