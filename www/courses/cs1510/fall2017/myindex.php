@@ -77,7 +77,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 09/07
 			<td>ch.4
-			<td>Multiway conditionals; compound expressions
+			<td><a href="sessions/090717.pdf">Conditionals (continued)</a>
 			<td><a class="hw" href="homework/hw01.pdf">Assignment 1</a>
 		<tr class="week">
 			<td rowspan="3">4
