@@ -74,7 +74,7 @@
 		<tr>
 			<td>Thu, 09/14
 			<td>
-			<td>Lab 3: Styling web pages with CSS
+			<td class="lab"><a href="labs/lab3.pdf">Lab 3: Styling web pages with CSS</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">5
@@ -85,7 +85,7 @@
 		<tr>
 			<td>Thu, 09/21
 			<td>
-			<td>Lab 4: Styling text, colors
+			<td class="lab"><a href="labs/lab4.pdf">Lab 4: Styling text, colors</a> | <a href="labs/lab4.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">6
