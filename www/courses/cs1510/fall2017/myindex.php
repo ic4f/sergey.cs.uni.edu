@@ -88,7 +88,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 09/13
 			<td>
-			<td class="lab">Lab 04: Loops
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab04/">Lab 04: Loops</a>
 			<td>
 		<tr>
 			<td>Thu, 09/14
@@ -104,7 +104,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 09/20
 			<td>
-			<td class="lab">Lab 05: Loops-2
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab05/">Lab 05: Loops-2</a>
 			<td>
 		<tr>
 			<td>Thu, 09/21
