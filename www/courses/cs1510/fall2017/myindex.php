@@ -110,7 +110,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 09/21
 			<td>
 			<td>Review and exam prep
-			<td><a class="hw">Assignment 3</a>
+			<td><a class="hw" href="homework/hw03.pdf">Assignment 3</a>
 		<tr class="week">
 			<td rowspan="3">6
 			<td>Tue, 09/26
