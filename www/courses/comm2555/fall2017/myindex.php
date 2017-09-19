@@ -69,7 +69,7 @@
 			<td rowspan="2">4
 			<td>Tue, 09/12
 			<td>Duckett, ch. 8, 10
-			<td>Introduction to CSS
+			<td><a href='sessions/7.pdf'>Introduction to CSS</a>
 			<td><a class="hw" href="homework/2.pdf">Assignment 2</a>
 		<tr>
 			<td>Thu, 09/14
@@ -80,7 +80,7 @@
 			<td rowspan="2">5
 			<td>Tue, 09/19
 			<td>Duckett, ch. 11, 12
-			<td>CSS: styling text, colors
+			<td><a href='sessions/9.pdf'>CSS: styling text, colors</a>
 			<td>
 		<tr>
 			<td>Thu, 09/21
