@@ -83,7 +83,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td rowspan="3">4
 			<td>Tue, 09/12
 			<td>ch.5
-			<td>Introducing repetition
+			<td>Introducing repetition | <a href="sessions/091217.pdf">slides</a>
 			<td>
 		<tr>
 			<td>Wed, 09/13
@@ -93,7 +93,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 09/14
 			<td>ch.5
-			<td>Loops (continued)
+			<td><a href="sessions/0914117.pdf">Loops (continued)</a>
 			<td><a class="hw" href="homework/hw02.pdf">Assignment 2</a>
 		<tr class="week">
 			<td rowspan="3">5
