@@ -142,7 +142,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 10/05
 			<td>ch.7
 			<td>String methods
-			<td><a class="hw">Assignment 4</a>
+			<td><a class="hw" href="homework/hw04.pdf">Assignment 4</a>
 		<tr class="week">
 			<td rowspan="3">8
 			<td>Tue, 10/10
