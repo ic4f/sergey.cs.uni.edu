@@ -109,7 +109,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 09/21
 			<td>
-			<td>Review and exam prep
+			<td>Review and exam prep | <a href="sessions/092117.py">code used in class</a>
 			<td><a class="hw" href="homework/hw03.pdf">Assignment 3</a>
 		<tr class="week">
 			<td rowspan="3">6
