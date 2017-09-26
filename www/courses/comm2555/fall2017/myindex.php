@@ -91,7 +91,7 @@
 			<td rowspan="2">6
 			<td>Tue, 09/26
 			<td>Duckett, ch. 13
-			<td>CSS: The box model
+			<td><a href='sessions/11.pdf'>CSS: The box model</a>
 			<td>
 		<tr>
 			<td>Thu, 09/28
