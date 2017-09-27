@@ -103,7 +103,7 @@
 			<td>Tue, 10/03
 			<td>Duckett, ch. 15, 16
 			<td>CSS: Floating elements
-			<td><a class="hw">Assignment 3</a>
+			<td><a class="hw" href="homework/3.pdf">Assignment 3</a>
 		<tr>
 			<td>Thu, 10/05
 			<td>
