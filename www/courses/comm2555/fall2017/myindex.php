@@ -102,12 +102,12 @@
 			<td rowspan="2">7
 			<td>Tue, 10/03
 			<td>Duckett, ch. 15, 16
-			<td>CSS: Floating elements
+			<td>CSS: Review
 			<td><a class="hw" href="homework/3.pdf">Assignment 3</a>
 		<tr>
 			<td>Thu, 10/05
 			<td>
-			<td>Lab 6: Exam practice
+			<td class="lab"><a href="labs/lab6.pdf">Lab 6: Exam practice</a> | <a href="labs/lab6.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">8
@@ -184,7 +184,7 @@
 			<td rowspan="2">14
 			<td>Tue, 11/28
 			<td>online (TBD)
-			<td>CSS: Approaches to layout
+			<td>CSS: Approaches to layout; floating elements
 			<td>
 		<tr>
 			<td>Thu, 11/30
