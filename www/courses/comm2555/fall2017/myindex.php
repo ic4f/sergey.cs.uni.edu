@@ -96,7 +96,7 @@
 		<tr>
 			<td>Thu, 09/28
 			<td>Duckett, ch. 14
-			<td class="lab"><a href="labs/lab5.pdf">Lab 5: Styling tables and lists</a> | <a href="labs/gallery.html">lab file</a>
+			<td class="lab"><a href="labs/lab5.pdf">Lab 5: The box model</a> | <a href="labs/gallery.html">lab file</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">7
