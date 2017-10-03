@@ -125,7 +125,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 09/28
 			<td>
-			<td>Algorithms and Program Development
+			<td>Algorithms and Program Development | <a href="sessions/092817.pdf">slides</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">7
@@ -136,7 +136,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 10/04
 			<td>
-			<td class="lab">Lab 06: Strings
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab06/">Lab 06: Strings</a>
 			<td>
 		<tr>
 			<td>Thu, 10/05
@@ -158,7 +158,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 10/12
 			<td>ch.6
 			<td>Introducing functions
-			<td><a class="hw">Assignment 5</a>
+            <td><a class="hw" href="homework/hw05.pdf">Assignment 5</a> | <a href="homework/hw05_worksheet.doc">worksheet</a>
 		<tr class="week">
 			<td rowspan="3">9
 			<td>Tue, 10/17
