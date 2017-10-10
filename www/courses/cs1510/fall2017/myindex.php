@@ -131,7 +131,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td rowspan="3">7
 			<td>Tue, 10/03
 			<td>ch.7
-			<td>Introducing strings
+			<td>Introducing strings | <a href="sessions/100317.pdf">slides</a>
 			<td>
 		<tr>
 			<td>Wed, 10/04
@@ -147,33 +147,33 @@ The two primary goals are to introduce the general field of computer science and
 			<td rowspan="3">8
 			<td>Tue, 10/10
 			<td>ch.7
-			<td>String methods (continued)
+			<td>String methods (continued) <a href="sessions/100517_alphabet.py">alphabet problem</a>
 			<td>
 		<tr>
 			<td>Wed, 10/11
 			<td>
-			<td class="lab">Lab 07: Strings-2
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab07/">Lab 07: Strings-2</a>
 			<td>
 		<tr>
 			<td>Thu, 10/12
-			<td>ch.6
-			<td>Introducing functions
+			<td>ch.12
+			<td>Reading and writing files
             <td><a class="hw" href="homework/hw05.pdf">Assignment 5</a> | <a href="homework/hw05_worksheet.doc">worksheet</a>
 		<tr class="week">
 			<td rowspan="3">9
 			<td>Tue, 10/17
 			<td>ch.6
-			<td>Functions (continued)
+			<td>Introducing functions
 			<td>
 		<tr>
 			<td>Wed, 10/18
 			<td>
-			<td class="lab">Lab 08: Functions
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab09/">Lab 08: Functions</a>
 			<td>
 		<tr>
 			<td>Thu, 10/19
-			<td>ch.12
-			<td>Reading and writing files
+			<td>ch.6
+			<td>Functions (continued)
 			<td><a class="hw">Assignment 6</a>
 		<tr class="week">
 			<td rowspan="3">10
@@ -184,7 +184,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 10/25
 			<td>
-			<td class="lab">Lab 09: Lists
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab10/">Lab 09: Lists</a>
 			<td>
 		<tr>
 			<td>Thu, 10/26
@@ -200,7 +200,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 11/01
 			<td>
-			<td class="lab">Lab 10: Dictionaries
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab12/">Lab 10: Dictionaries</a>
 			<td>
 		<tr>
 			<td>Thu, 11/02
@@ -257,7 +257,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 11/29
 			<td>
-			<td class="lab">Lab 12: Sets
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab13/">Lab 12: Sets</a>
 			<td>
 		<tr>
 			<td>Thu, 11/30
@@ -273,7 +273,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 12/06
 			<td>
-			<td class="lab">Lab 13: tbd
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab14/">Lab 13: Analyzing customer data</a>
 			<td>
 		<tr>
 			<td>Thu, 12/07
