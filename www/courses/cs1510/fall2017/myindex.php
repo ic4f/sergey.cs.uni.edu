@@ -174,7 +174,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 10/19
 			<td>ch.6
 			<td>Functions (continued)
-			<td><a class="hw">Assignment 6</a>
+            <td><a class="hw" href="homework/hw06.pdf">Assignment 6</a> | <a href="homework/hw06.csv">csv data</a>
 		<tr class="week">
 			<td rowspan="3">10
 			<td>Tue, 10/24
