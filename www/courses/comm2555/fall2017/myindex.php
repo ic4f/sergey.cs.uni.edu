@@ -147,7 +147,7 @@
 			<td>Tue, 10/31
 			<td>Williams, ch. 7
 			<td>Designing with color
-			<td><a class="hw">Assignment 4</a>
+			<td><a class="hw" href="homework/4.pdf">Assignment 4</a>
 		<tr>
 			<td>Thu, 11/02
 			<td><a href="tutorials">Lynda tutorials</a>
@@ -169,7 +169,7 @@
 			<td>Tue, 11/14
 			<td>online (TBD)
 			<td>Building web sites: web page structure
-			<td><a class="hw">Assignment 5</a>
+			<td><a class="hw" href="homework/5.pdf">Assignment 5</a>
 		<tr>
 			<td>Thu, 11/16
 			<td>
@@ -190,7 +190,7 @@
 			<td>Thu, 11/30
 			<td>
 			<td>Lab 11: CSS layout
-			<td><a class="hw">Assignment 6</a>
+			<td><a class="hw" href="homework/6.pdf">Assignment 6</a>
 		<tr class="week">
 			<td rowspan="2">15
 			<td>Tue, 12/05
