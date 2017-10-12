@@ -147,7 +147,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td rowspan="3">8
 			<td>Tue, 10/10
 			<td>ch.7
-			<td>String methods (continued) <a href="sessions/100517_alphabet.py">alphabet problem</a>
+			<td>String methods (continued) <a href="sessions/100517_alphabet.py">alphabet problem</a> | <a href="sessions/101017.pdf">slides</a>
 			<td>
 		<tr>
 			<td>Wed, 10/11
@@ -174,13 +174,13 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 10/19
 			<td>ch.6
 			<td>Functions (continued)
-            <td><a class="hw" href="homework/hw06.pdf">Assignment 6</a> | <a href="homework/hw06.csv">csv data</a>
+			<td>
 		<tr class="week">
 			<td rowspan="3">10
 			<td>Tue, 10/24
 			<td>ch.8
 			<td>Introducing lists
-			<td>
+            <td><a class="hw" href="homework/hw06.pdf">Assignment 6</a> | <a href="homework/hw06.csv">csv data</a>
 		<tr>
 			<td>Wed, 10/25
 			<td>
@@ -190,13 +190,13 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 10/26
 			<td>ch.8
 			<td>Lists (continued)
-			<td><a class="hw">Assignment 7</a>
+			<td>
 		<tr class="week">
 			<td rowspan="3">11
 			<td>Tue, 10/31
 			<td>ch.8
 			<td>Introducing dictionaries
-			<td>
+            <td><a class="hw" href="homework/hw07.pdf">Assignment 7</a> | <a href="homework/hw07.zip">hw07.zip</a>
 		<tr>
 			<td>Wed, 11/01
 			<td>
@@ -206,13 +206,13 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 11/02
 			<td>
 			<td>Review and exam prep
-			<td><a class="hw">Assignment 8</a>
+			<td>
 		<tr class="week">
 			<td rowspan="3">12
 			<td>Tue, 11/07
 			<td>
 			<td>Exam - 2a (concepts)
-			<td>
+			<td><a class="hw">Assignment 8</a>
 		<tr>
 			<td>Wed, 11/08
 			<td>
