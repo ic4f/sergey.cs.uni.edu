@@ -157,7 +157,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 10/12
 			<td>ch.12
-			<td>Reading and writing files
+			<td>Reading and writing files | <a href="sessions/101717.pdf">slides</a>
             <td><a class="hw" href="homework/hw05.pdf">Assignment 5</a> | <a href="homework/hw05_worksheet.doc">worksheet</a>
 		<tr class="week">
 			<td rowspan="3">9
@@ -168,7 +168,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 10/18
 			<td>
-			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab09/">Lab 08: Functions</a>
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab10/">Lab 08: Lists</a>
 			<td>
 		<tr>
 			<td>Thu, 10/19
@@ -184,7 +184,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Wed, 10/25
 			<td>
-			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab10/">Lab 09: Lists</a>
+			<td class="lab"><a href="http://www.cs.uni.edu/~diesburg/courses/cs1510_sp17/labs/lab09/">Lab 09: Functions</a>
 			<td>
 		<tr>
 			<td>Thu, 10/26
