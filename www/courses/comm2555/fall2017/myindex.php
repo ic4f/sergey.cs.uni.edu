@@ -118,7 +118,7 @@
 		<tr>
 			<td>Thu, 10/12
 			<td><a href="http://www.nytimes.com/2006/06/26/arts/26crea.html">In Digital Age...</a>
-			<td>Copyright, Public Domain, and the Creative Commons
+			<td><a href="sessions/cc.pdf">Copyright, Public Domain, and the Creative Commons</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">9
