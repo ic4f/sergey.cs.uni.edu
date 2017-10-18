@@ -162,8 +162,8 @@ The two primary goals are to introduce the general field of computer science and
 		<tr class="week">
 			<td rowspan="3">9
 			<td>Tue, 10/17
-			<td>ch.6
-			<td>Introducing functions
+			<td>
+			<td>Reading and writing files
 			<td>
 		<tr>
 			<td>Wed, 10/18
@@ -172,14 +172,14 @@ The two primary goals are to introduce the general field of computer science and
 			<td>
 		<tr>
 			<td>Thu, 10/19
-			<td>ch.6
-			<td>Functions (continued)
+			<td>ch.8
+			<td>Lists
 			<td>
 		<tr class="week">
 			<td rowspan="3">10
 			<td>Tue, 10/24
-			<td>ch.8
-			<td>Introducing lists
+			<td>ch.6
+			<td>Introducing functions
             <td><a class="hw" href="homework/hw06.pdf">Assignment 6</a> | <a href="homework/hw06.csv">csv data</a>
 		<tr>
 			<td>Wed, 10/25
@@ -188,8 +188,8 @@ The two primary goals are to introduce the general field of computer science and
 			<td>
 		<tr>
 			<td>Thu, 10/26
-			<td>ch.8
-			<td>Lists (continued)
+			<td>ch.6
+			<td>Functions and lists (continued)
 			<td>
 		<tr class="week">
 			<td rowspan="3">11
