@@ -173,7 +173,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 10/19
 			<td>ch.8
-			<td>Lists
+			<td>Lists | <a href="sessions/101917.pdf">slides</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">10
