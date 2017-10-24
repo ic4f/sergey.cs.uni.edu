@@ -124,7 +124,7 @@
 			<td rowspan="2">9
 			<td>Tue, 10/17
 			<td>Williams, ch. 1, 2, 3
-			<td>Design principles: proximity and alignment; Intro to Photoshop 
+			<td><a href="sessions/design1.pdf">Design principles: proximity and alignment; Intro to Photoshop</a>
 			<td>
 		<tr>
 			<td>Thu, 10/19
@@ -147,7 +147,7 @@
 			<td>Tue, 10/31
 			<td>Williams, ch. 7
 			<td>Designing with color
-			<td><a class="hw" href="homework/4.pdf">Assignment 4</a>
+			<td>
 		<tr>
 			<td>Thu, 11/02
 			<td><a href="tutorials">Lynda tutorials</a>
@@ -158,7 +158,7 @@
 			<td>Tue, 11/07
 			<td>Williams, ch. 10-12
 			<td>Typography
-			<td>
+			<td><a class="hw" href="homework/4.pdf">Assignment 4</a>
 		<tr>
 			<td>Thu, 11/09
 			<td>
