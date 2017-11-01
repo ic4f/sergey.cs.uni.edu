@@ -189,13 +189,13 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 10/26
 			<td>ch.6
-			<td>Functions and lists (continued)
+			<td>Functions and lists (continued) | <a href="sessions/102617-functions.pdf">slides-1</a> | <a href="sessions/102617-lists.pdf">slides-2</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">11
 			<td>Tue, 10/31
 			<td>ch.8
-			<td>Introducing dictionaries
+			<td>Introducing dictionaries | <a href="sessions/103117-tuples.pdf">slides-1</a> | <a href="sessions/103117-dictionaries.pdf">slides-2</a>
             <td><a class="hw" href="homework/hw07.pdf">Assignment 7</a> | <a href="homework/hw07.zip">hw07.zip</a>
 		<tr>
 			<td>Wed, 11/01
