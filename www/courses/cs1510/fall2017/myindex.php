@@ -212,7 +212,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Tue, 11/07
 			<td>
 			<td>Exam - 2a (concepts)
-			<td><a class="hw">Assignment 8</a>
+            <td><a class="hw" href="homework/hw08.pdf">Assignment 8</a> | <a href="homework/hw8_data.csv">hw8_data.csv</a> | <a href="rps.py">commenting style</a>
 		<tr>
 			<td>Wed, 11/08
 			<td>
