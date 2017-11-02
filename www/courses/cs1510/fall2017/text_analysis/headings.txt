@@ -1,0 +1,697 @@
+Chuck Moore, Extreme Programmer
+Sometimes, We Need to Make a Better Tool
+I'm Not Correcting Someone Who Was Wrong on the Internet
+Pascal's Criticism of Extreme Programming
+Learn Exceptions Later
+A Few Thoughts on My Compilers Course
+Don't Say "Straightforward" So Often, Obviously
+The Need for Apprenticeship in Software Engineering Education
+Some Thoughts from a Corporate Visit: Agility and Curriculum
+Getting Started With Unit Testing
+A New Demo Compiler for My Course
+No Summer Job? Learn How to Program
+Using Programs and Data Analysis to Improve Writing, World Bank Edition
+Porting Programs, Refactoring, and Language Translation
+Learning by Guided Struggle
+Pair Programming, Script Writing Edition
+Tweak
+Data Compression and the Complexity of Consciousness
+Two Very Different Kinds of Student
+Reading an Interview with John McPhee Again, for the First Time
+Part of the Fun of Programming
+Studying Code Is More Like Natural Science Than Reading
+"Flying by Instruments" and Learning a New Programming Style
+Comments on Comments
+Surrounding Yourself with Beginners
+Howard Marks on Investing -- and Software Development
+To Teach is to Counsel Possibility and Patience
+Build the Bridge
+Garbage Collection -- and the Tempting Illusion of Big Breakthroughs
+There's No Right Way To Write All Programs
+Language and Thinking
+Computer Science Is Not That Special
+Copying Interfaces, Copying Code
+An Adventure with C++ Compilers
+How to Write Code That Doesn't Get in the Way
+Competence and Creating Conditions that Minimize Mistakes
+Shocking News: Design Technique Not Helpful When Design Is Already Done
+Tom Wolfe on Writer's Block
+Elrond, Agile Development Sage
+To Founders in Search of Patience and Low Costs
+Functional Programming, Inlined Code, and a Programming Challenge
+Teaching Programming Versus Teaching Art
+A Few Quick Lessons from Five Small Joy Programs
+Oberon: GoogleMaps as Desktop UI
+The Tension Between Free and Expensive
+Brilliance Is Better Than Magic, Because You Get To Learn It
+Philosopher-Programmer
+Pair Programming is a Skill to be Learned
+A Personal Pantheon of Programming Books
+Dan Luu on Playing Moneyball with Programmers
+Thoughts for Programmers from "Stay on the Bus"
+Why Bother With Specialty Languages?
+This Week's Edition of "Amazed by Computers"
+The Instinct To Discard Code Is A Kind Of Faith
+What Is The Best Way Promote a Programming Language?
+What a Tiny Language Can Teach Us About Gigantic Systems
+Marick's Law
+"Good Character" as an Instance of Postel's Law
+Software Gets Easier to Consume Faster Than It Gets Easier to Make
+Confidence and Small, Clear Code
+Working Too Much Means Never Having to Say "No"
+How Do You Know If It Is Good?  You Don't.
+The Flip Side to "Programming for All"
+Thinking in Code
+Echoes: Aligning Expectations with Reality
+Software Patterns Are Still For Humans
+Software Has Its Own Gresham's Law
+Agile Moments, Ernest Hemingway Edition
+The Grand Complications of Software
+The Program Is In The Programming
+Some Thoughts on How to Teach Programming Better
+If Design is Important, Do It All The Time
+Learning to Program is a Loser's Game
+Bad Habits and Haphazard Design
+Matthias, Speak to My Students
+Agile Design and Jazz
+Exceptions Should Be Exceptional
+Technical Problems Are The Easy Ones
+When YAGNI Becomes "Now We Need It"
+When I Procrastinate, I Write Code
+Three Students, Three Questions
+It's Blueprints All The Way Down
+Ernest Hemingway, Programmer
+Assorted Quotes
+For Programmers, There Is No "Normal Person" Feeling
+A New Programming Language Can Inspire Us
+Skills We Can Learn
+Producers and Consumers
+Is It Really That Hard?
+Ask Yourself, "What is the Pattern?"
+A New Commandment
+Agile Moments: Conspicuous Progress and Partial Value
+My Jacket Blurb for "Exercises in Programming Style"
+Programming Everywhere, Business Edition
+Points of Emphasis for Teaching Design
+Pascal, Forgiveness, and CS1
+Programming Languages and the Right Level of Forgiveness
+Programming is Social
+Words Matter, Even in Code
+Becoming More Agile in Class, No. 2
+Becoming More Agile in Class
+Teaching a Compressed Class
+Transition
+Thinking in Types, and Good Design
+Simple Tests
+The Special Case Object Pattern in "Confident Ruby"
+The "Subclass as Client" Pattern
+Programming, Defined and Re-imagined
+Sooner
+Deploy So That You Can Learn The Rest
+We're in a Dr. Seuss Book
+Change The Battle From Arguments To Tests
+Sometimes a Fantasy
+Take Small Steps
+A Few Old Passages
+Experience Happens When You Keep Showing Up
+Do Things That Help You Become Less Wrong
+"What Should It Be?"
+Could I be a programmer?
+"I'm Not a Programmer"
+Sometimes, Good Design is Simple
+Always Have At Least Two Alternatives
+Your Programming Language is Your Raw Material, Too
+Change Happens When People Talk to People
+Agile Moments, "Why We Test" Edition
+The Workaday Byproducts of Striving for Higher Goals
+The Moment When Design Happens
+Agile Thoughts, Healthcare.gov Edition
+First Model, Then Improve
+Those Silly Tests
+Discipline Can Be Structural As Well As Personal
+Poetry as a Metaphor for Software
+Software Design is a Bet on a Particular Future
+StrangeLoop: Exercises in Programming Style
+StrangeLoop: Rich Hickey on Channels and Program Design
+StrangeLoop: Add All These Things
+StrangeLoop: Jenny Finkel on Machine Learning at Prismatic
+A Laugh at My Own Expense
+Code Should Speak for Itself
+A Good Language Conserves Programmer Energy
+A Book of Margin Notes on a Classic Program?
+Refactoring is Underrated
+Software is Hard...
+Programming for Everyone, Venture Capital Edition
+An Opportunity to Learn, Born of Deprivation
+Data Ingestion
+Agile Moments: Stories, Tests, and Refactoring in Visual Design
+The Willingness to Delete Working Code
+Bad Examples Are Everywhere
+Exercises in Exercises in Style
+Exceleration
+Toward a Course on Reading Code
+Writing a Book Is Like Flying A Spaceship
+Good Sentences, Programming State Edition
+Programming Language as Operating System
+Honest Answers: Learning APL
+Does Readability Give a False Sense of Understandability?
+Honest Answers: Debugging
+A Programming Koan
+Programming, Writing, and Clear Thinking
+Thelonious Monk Teaches Software Design
+The Lumbering Lethargy of Software Engineering
+Code Duplication as a Hint to Think Differently
+Agile Moments: Predicting What Users Want
+A Short Introduction to the Law of Demeter
+Brief Flashes of Understanding, Fully Awake
+Agglutination and Crystallization
+Quotes of the Day: Constraints on Programming
+Programming Languages Quote of the Day
+Why a CS Major Might Minor in Anthropology
+Preferring Objects over Class Methods in OOP
+A Good Name Is About An Idea, Not An Implementation
+When "What" Questions Presuppose "How"
+Mathematical Formulas, The Great Gatsby, and Small Programs
+The Parable of the OO Programming Student
+The Pareto Principle and Programming Purity
+StrangeLoop 8: Reactions to Brett Victor's Visible Programming
+StrangeLoop 7: The Racket Way
+StrangeLoop 6: Y Y
+StrangeLoop 5: Miscellany -- At All Levels
+StrangeLoop 3: Functional Programming 1 -- Monads and Patterns
+StrangeLoop 1: A Miscellany of Ideas
+Blogging from StrangeLoop
+Computer Science is a Liberal Art
+Don't Stop The Car
+Living with the Masters
+Making Assumptions
+Two Weeks Along the Road to OOP
+Lessons from Unix for OO Design
+Letting Go of Old Strengths
+Refactoring Everywhere: In Code and In Text
+A Few Comments on the Alan Kay Interview, and Especially Patterns
+Assume a Good Compiler and Write Readable Code
+A Little Zen, A Little Course Prep
+"Doing research is therefore writing software."
+What Big Software Needs
+Test-First Development and Implementation of Processing.js
+Basic Arithmetic, APL-Style, and Confident Problem Solvers
+The First Rule of Programming in Ruby
+Faking a Cool Programming Idiom in Ruby
+Writing and Rewriting
+Some Final Thoughts and Links from JRubyConf
+The Spirit of Ruby... and of JRuby
+JRubyConf, Day 1: The State of JRuby
+JRubyConf 2012: Keynote Address on Polyglot Programming
+Get Busy; Time is Short
+Code Signatures in Lisp
+The University as a Gym for the Mind
+Processing Old Languages and Thinking of New
+Thinking Out Loud about the Compiler in a Pure OO World
+The Writer's Mindset for Programmers
+The Polymorphism Challenge
+Architecture Without Architects
+Refactoring as Curve Fitting
+"You Cannot Trust Your Creativity Yet"
+Pragmatism and the Scientific Spirit
+An Adventure in Knowing Too Much ... Or Thinking Too Little
+"I Love The Stuff You Never See"
+Learning More Than What Is Helpful Right Now
+Quick and Wrong and Fast and Slow
+Impractical Programming, with Benefits
+A Definition of Design from Charles Eames
+Teachers Working Themselves Out Of a Job
+Memories of a Programming Assignment
+Using Null Object to Get Around Truthiness
+Tools, Software Development, and Teaching
+A Perfect Place to Cultivate an Obsession
+Simple/Complex Versus Easy/Hard
+Programming != Teaching
+What to Build and How to Build
+Softmax, Recursion, and Higher-Order Procedures
+Much Code To Study, Learning with Students
+Learning to Think the Same, Not Write the Same
+You Keep Using That Word....
+The Summer Smalltalk Taught Me OOP
+In Praise of Usefulness
+Extravagant Ideas
+Thoughts at the Start of the Semester
+Overcoming a Disconnect Between Knowing and Doing
+Trust People, Not Technology
+"Always Stop When You Know What Is Going To Happen Next"
+Methods, Names, and Assumptions in Adding New Code to a Program
+Don't Forget Your 3000-LOC Check-Up!
+"You can code.  That is pretty damn cool."
+Barbarians at the Agile Gate
+Plan A Versus Plan B
+Learning From Others
+Patterns for Naming Things
+What Students Said
+Course Post-Mortem and Project Notebooks
+Reaching for Too Much, in Life and Software Development
+There Is No Normal
+Thinking and Doing in the Digital Age
+Agile Approaches and the Small
+A New Blog on Patterns of Functional Programming
+Al Aho, Teaching Compiler Construction, and Computational Thinking
+Commas, Refactoring, and Learning to Program
+John McPhee on Writing, Teaching, and Programming
+Global Variables Considered
+Another Conference Changes Its Name
+SPLASH 2011 and the Educators' Symposium
+The Growing Buzz around Empirical Analysis of Repositories
+Nothing From Scratch
+This and That: Problems, Data, and Programs
+Teaching and Learning in a Code Base
+Science and Engineering in CS
+Turning Up the Knob on Functional OOP and Imperative OOP
+From Occasionally Great to Consistently Good
+Don't Forget to Solve Your Problem a Second Time
+A Commonplace for Novelists and Programmers
+"I Just Need a Programmer"
+Cleaning Up Versus Not Getting Dirty
+Debugging the Law
+Agile Moments: The Value of Smaller
+A Gresham's Law for Software
+Ideas from Readers on Recent Posts
+Relationships, Not Characters
+The Time is Right for Functional Design Patterns
+Mindset, Faith, and Code Retreats
+Strange Loop Redux
+Strange Loop, Day 2 Afternoon
+Strange Loop, Day 2 Morning
+Guy Steele's Own Strange Loop
+Strange Loops
+What Agile Isn't
+Alan Kay on "Real" Object-Oriented Programming
+Thinking About Things Your Users Don't Know
+Recursion, Trampolines, and Software Development Process
+Empiricism, Bias, and Confidence
+Notes from a Master Designer
+Thinking about Software Development and My Compilers Course
+You May Be in the Software Business
+The Tests Are For Me
+Agile Moments: Metaphor as Practice, Metaphors for Practices
+Agile Moments: Values and Integrity Come Before Practices
+Two Classic Programs Available for Study
+Form Matters
+Changing Default Actions
+Agile Moments: Incremental Design
+YAGNI: It's Not Just for Agile Programmers Any More
+Readings from the Agile Development Course
+Some Feedback on Agile Development Course
+The End Comes Quickly
+The Rare Pleasure of Pairing
+Teaching TDD and Incremental Design
+TDD Exploration on an Agile Student Project
+Course Notes from the Treadmill
+Greatness, Skill, and Metaprogramming
+Technical Debt as Consumption or Investment
+Taking the Pulse of the Agile Community
+Turning My Thoughts to Agile Software Development
+At Some Point, You Gotta Know Stuff
+Listen To Your Code
+Unexpected Encounters with Knowledge
+"Does Not Play Well With Others"
+SIGCSE Day 2 -- Al Aho on Teaching Compiler Construction
+Notes on SIGCSE 2010: Table of Contents
+Mastering Tools and Improving Process
+Increasing Duplication to Eliminate Duplication
+Thoughts on How to Design
+Luck, Embracing Failure, and State of Mind
+Programs as Art
+Diverse Thinking, Narrative, Journalism, and Software
+Calling C. S. Peirce
+Courage and the Path to Greatness
+In Programming Style, as in Most Things, Moderation
+Agile Themes: Things Students Say
+A Typical Day Thinking Backward
+Initial Thoughts on Teaching Software Engineering
+Agile Themes: Working Code and Tests
+Some Things I Have Learned, along with Milton Glaser
+Agile Themes: Organic Planning and the Cost of Change
+Agile Themes: Organic Planning
+The Gang-of-Four Book at Fifteen
+Towards Software that Improves on Index Cards
+Reality versus Simulation
+Wherefore Art Thou Agile?
+Parts of Speech in Programming Languages
+It's All Just Programming
+Writing to Learn, Book-Style
+Empirical Data about Software Practices
+William Cook on Industry and Academia
+Universal Ideas of Harmonious Design
+X of the Day
+Refactoring as Rewriting
+Always Start With A Test
+Agile Hippies?
+Quick Hits with an Undercurrent of Change
+Skepticism and Experiment
+Programming Behind the Curtain
+The Trade-off Between Process and Tools
+Whither Programming?
+Keeping Things Visible
+One Giant Leap for Computing
+Agile Moments: Evolution and Time
+A Loosely-Connected Friday Miscellany
+Woody Allen Is On Line 1
+Advice on my Advice to a Prospective Web Developers
+Advice for a Prospective Web Developer
+Talking and Doing
+Promotion from Tweet to Blog Entry
+Patterns as Compression Technology
+Agile Moments: TDD and the Affordances of Programming
+Thinking About Testing and Software Engineering
+X of the Day
+Another Connection to Journalism
+Agile Moments While Reading the Newspaper
+Paying for Value or Paying for Time
+Developing Instinct
+Bright Lines in Learning and Doing
+Practice and Dogma in Testing
+Robert's Rules of Order and Agile Forces
+Surprises, Problems, and Small Aircraft
+Lessons from Compilers Course Experiment
+Dynamic Scope as Bug or Feature
+Slipping Schedules and Changing Scope in the Compiler Course
+Should Code Die On Schedule?
+Posts of the Day
+Language Driving Programming
+Musings on Software, Programming, and Art
+Quick Hits on the Way Out of Dodge
+Debugging by Biction
+Teaching Software Engineering
+Adele Goldberg, Computer Scientist and Entrepreneur
+At Least It's Not Too Easy
+Sweating The Small Stuff
+Notes for Students Working on Projects
+Even More on Programming and Computational Thinking
+Embracing Failure
+Design in Agile Methods
+Looking Ahead -- To Next Week
+Agile Fading?
+Code, and Lots Of It
+Agile Thoughts: Humans Plus Code
+Doing It Wrong Fast
+A Good Time to Be Agile
+The Opposite of "Don't Do That"
+Programming, Pictures, and Code
+An Experiment with Students Creating Examples
+From a Champion's Mind
+Design Creates People, Not Things
+Creating Examples and Writing Programs
+"Yes, We Do That"
+Less, Sooner
+TDD and GTD: Instances of a Pattern
+Side Effects and Types in Refactoring
+Design Ideas Lying in Wait
+Small Programs and Limited Language
+Scripting, CS1, and Language Theory
+Scripting Languages, Software Development, and Novice Programmers
+Computing and Modern Culture
+Object-Oriented Algorithm Flashback
+The Other OOPSLA Submission
+William James and Focus
+Two Patterns Dealing with Side Effects
+Verdict Is In On One OOPSLA Submission
+Patterns as Descriptive Grammar
+The Small Doses Pattern
+The Worst Kind of Job
+Astrachan's Law for a New Generation?
+Ruby Tuesday
+SIGCSE Day 2 -- Plenary Address by Marissa Mayer
+A Change in Direction at ChiliPLoP
+Notes on SIGCSE 2008: Table of Contents
+And the Winner Is...
+Them's Fighting Words
+Toward Less Formal Software
+Getting Lost
+Father, Forgive Me
+Do We Need Folks With CS Degrees?
+Catching a Meme at the End of a Long Week
+Agile Thoughts While Preparing My Course
+Using the Writing Metaphor in Both Directions
+What Steve Martin Can Teach Us
+The Program's the Thing
+An Unexpected Connection
+A Broken Record?
+Running, Programming, and Tools
+More on Computational Simulation, Programming, and the Scientific Method
+Busy Days, Computational Science
+An Open-Source Repository for Course Projects
+Planning and the Project Course
+A Panoply of Languages
+Increasing Your Sustainable Pace
+It's a Wrap
+Coincidence by Metaphor
+Learning About Software from The Theater, and Vice Versa
+Comments on "A Program is an Idea"
+Making Time to Do What You Love
+Programming Challenges
+Magic Books and Connections to Software
+Lack of Confidence and Teamwork
+Refactoring, Functional Programming-Style
+Missing OOPSLA
+Project-Based Computer Science Education
+More on Forth and a New Compilers Course
+Three Lists, Three Agile Ideas
+Go Forth and M*
+Today I Wrote a Program
+Fear and Loathing in the Computer Lab
+OOPSLA Evolving
+Walk the Wall, Seeger
+The Right (Kind of) Stuff
+Updates, Courtesy of My Readers
+Program, Teach, Sleep...
+Devil's Advocate for Types
+Hype, or Disseminating Results?
+A Great Feeling
+Language Choice and Inheriting a Codebase
+Software Engineering Metaphor, Mythology, and Truth
+Good Writing, Good Programming
+Refactoring, Beyond Software
+All Out.  All the Time.
+Helping Developers Feel the Win of Agile Practices
+Agile Themes: Honesty and The Prime Directive
+Agile Themes: Honesty and Blocking
+Agile Themes: Defining Agile
+Thinking Ahead to OOPSLA
+Preparing for Fall Compilers Course (Almost)
+Quick Hits, Saturday Edition
+XUnit Test Patterns and the Duplex Book
+What is the Simplest Thing?
+BASIC and COBOL Cross My Path
+Trying to Learn from All Critics
+Alan Kay's "The Reactive Engine"
+Miscellaneous Thoughts for Programmers
+A Blog Entry From Before I Had a Blog #2
+But Raise Your Hand First
+Someone Competent to Write Code
+More on Metaphors for Refactoring
+Good and Bad Use
+Quick Hits
+All About Stories
+Persuasion, Teaching, and New Practice
+Fish is Fish
+Internalization as Investment
+Risk in Delivering Software
+Discipline and Experience
+Making Something Tangible
+Walking Out The Door
+Less May Be More
+Agile Moments: Accountability and Continuous Feedback in Higher Ed
+Incendiary Humor Considered Harmful?
+Feats of Association
+Patterns in Space and Sound -- Merce Cunningham
+END DO
+Writing about Doing
+Yannis's Law on Programmer Productivity
+SIGCSE Day 2: Read'n', Writ'n', 'Rithmetic ... and Cod'n'
+**p++^=q++=*r---s
+ChiliPLoP 2007 Redux
+Programming Patterns and "The Conciseness Conjecture"
+Recursing into the Weekend
+Class Personality and New Ideas
+Getting Worse in Order to Get Better
+User Documentation and Instructional Design
+The Long Tail as Software Designer
+Writing Code
+Practice What I Preach
+OOPSLA This and That
+OOPSLA Day 3: Philip Wadler on Faith, Evolution, and Programming Languages
+OOPSLA Day 2: Jim Waldo "On System Design"
+OOPSLA Day 2: Guy Steele on Fortress
+OOPSLA Day 1: Gabriel and Goldman on Conscientious Software
+OOPSLA Day 1: Brenda Laurel on Designed Animism
+OOPSLA Educators' Symposium 1: Bob Martin on OOD
+Student Entrepreneurship -- and Prosthetics?
+Undergraduates and Start-Ups
+Professors Who Code
+Names and Jargon in CS1
+More on "Agile Teaching"
+Grades and Verticality
+An Unsuccessful Curriculum Proposal
+Design as Choice
+"July 27 at 2:00 PM"
+A Classic David Gries Article on Intro Courses
+Growing a Tech Industry Instead of Corn
+Buried Treasures
+One Reason I Like Agile Methods
+Programming as Program Transformation
+Picking a Textbook for Fall
+Students, Faculty, and the Internet Age
+Programming as Map-Making
+Programming as Discovery and Expression
+Dumbing Down Recipes
+Quality is Only One Good
+Fifteen Compilers in Fifteen Weeks
+Different Kinds of Lazy and Dumb
+Process on My Mind
+A Guilty Pleasure, Language-Style
+Back to the Basics. Accelerated
+Different Kinds of Pain
+Teaching XP in CS 1 -- Back in 1990!
+Getting My Groove Back
+A Metaphor Lost
+Students Paying for Content
+Changing How People Think
+Eat *That* Dog Food
+Functional Programming Moments
+Is Web 2.0 a Mirage?
+Chairing Tutorials for OOPSLA 2006
+Agile as Students, but Not Always as Programmers
+Experiments in Art and Software
+A Milestone for Our Student Population
+Cardinality -- or Absolute Value?
+A Formula for Intelligence
+This and That, from the Home Front
+Popularizing Science through Writing and Teaching
+More Visibility from the Blog
+An Index to the OOPSLA Diaries
+OOPSLA Day 2: A Panel of the Direction of CS Education
+Beautiful Hacks Live On
+Simplicity and Humility in Start-Ups
+OOPSLA Day 2: Ward Cunningham on Seeking and Exploiting Simplicity
+"Mechanistic"
+OOPSLA Day 5: Grady Booch on Software Architecture Preservation
+OOPSLA This and That 3: Geek Jargon
+OOPSLA Day 3: Sussman on Expressing Poorly-Understood Ideas in Programs
+OOPSLA This and That, Part 2
+OOPSLA Day 5: Martin Fowler on Finding Good Design
+More on Safety and Freedom in the Extreme
+OOPSLA Day 4: Mary Beth Rosson on the End of Users
+OOPSLA Day 1: Writing Exercises at Extravagaria
+OOPSLA Day 3: Robert Hass on Creativity
+OOPSLA Day 2: Morning at The Educators' Symposium
+OOPSLA Day 1: The Morning of Extravagaria
+Something New Every Day
+More Mathematics, More Coincidence
+What He Said
+Mathematics Coincidence
+Preparing to Study Computer Science
+Ruby Friday
+Two Snippets, Unrelated?
+Technology and People in a Flat World
+Missing PLoP
+Embarrassed for My Discipline
+The Academic Future of Agile Methods
+Lessons from 13 Books
+The Tipping Point for Agile Software Development
+Comments on Talks I Didn't Hear
+Too Many Variables
+What Do I Know About Teaching Programming?
+Learning from the Masters
+Developing Empathy
+Software for Writers
+Pace and Expectations
+On Making Things Up
+Another Advertisement for Smalltalk
+Turning Students onto Entrepreneurship
+A Personal Goodbye to AAAI
+Changed Your Language Today?
+Reaping What You Sow
+Who Says Open Source Doesn't Pay?
+On "Devoid of Content"
+Agile Moments from Primitive Obsessions
+Primitive Obsession and Balance
+Waiting
+Some Basic Principles
+A Few Good Abstractions
+Start With A Box
+Software Case Studies
+The Value of Standard Form in Evaluating Technical Papers
+Planning for OOPSLA 2005
+Importing Language Features
+Accountability in the Classroom
+Agile Start-Ups
+On Introducing Agile Methods to Programmers
+Software in Negative Space
+Agile Methods in the Dining Room
+Reading to Write
+The Capacity for Experience
+Creativity, Productivity, Discipline, Flow
+Agile Moments
+Taking Projects to an Extreme
+How's That Workin' For Ya?
+Some Wednesday Potluck
+Honey Rather Than Vinegar
+Small Differences Can Have a Large Effect
+Why Didn't I Know This Already?
+Programming as Performance Art
+I Go To Extremes
+Get Ready for OOPSLA 2005
+Csikszentmihalyi to Visit UNI
+Bowling for CS II
+Looking Under the Hood to Be a Better Programmer
+Trust and the Tyranny of Choice
+Dispatches from the Programmer Liberation Front
+Why We Choke Under Pressure
+Fowler on Metaphor
+Kent Beck on Developer Testing and System Health
+Programming a lá Hoffman or Olivier
+An Agile Lesson from David Parnas
+More on Software Speed Training
+Speed Training for Software Developers
+Learning via the Blogosphere
+The Theory of Patches
+Milestones and Nostalgia
+Accepting the Blame
+What Does the iPod have in Common with Prego Spaghetti Sauce?
+The Psychology of Long Runs and Long Iterations
+Of Roosters and Running
+Fixin' What's Broke
+An Instant Recipe for Success -- for Students and Professors?
+Alan Kay's Talks at OOPSLA
+Other Folks Comment on OOPSLA
+Software Development Fantasies
+Knowing and Seeing
+The Experience of Programming
+Steve McConnell on the Realities of Software Construction
+What Is It Like to Make Software?
+Isaac Newton, Failed Agile Software Developer
+Refactoring Support for Scheme Programmers
+Agile Software Development in the Large
+Pleasant Surprises
+Duplication in Many Forms
+The Sweet Spot of Programming
+Why Not Program Test-First?
+No Comment?
+I Feel Good.  I Feel Great.  I Feel Wonderful.
+Paying Attention to the Details
+Myth and Patterns
+Can You Turn It In Now?
+By Any Other Name ... Not!
+Technology, Speed, and Language
+Multiple Iterations and Care for Programs
+August 13 -- My Talk on Test-Driven Development
+August 11 -- My Talk on Writing Patterns
+August 9 -- My First talk in Brazil
+TDD and Encapsulated Objects
+Reaching a Project Milestone
+TDD and Refactoring
+Upcoming TDD Tutorial
+Edsger Dijkstra, Test-Driven Developer
+Professionalism and Agile Methods
+A Scientist Dressed in Artist's Clothing?
+Continuous Feedback on the Track
+Trade-offs in Software Development

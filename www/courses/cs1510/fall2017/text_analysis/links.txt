@@ -1,0 +1,9135 @@
+Knowing and Doing
+Main
+
+
+   Programming a Problem-Oriented Language
+
+   You Aren't Gonna Need It
+
+   Doing the Simplest Thing That Can Work
+
+   Listen To The Code
+Permalink
+Patterns
+Software Development
+
+
+   Using Better CLIs
+
+   the blog entry I rmed
+Permalink
+Patterns
+Software Development
+
+
+   someone who was wrong on the internet
+
+   Why I'm Productive in Clojure
+
+   mudita
+Permalink
+Personal
+Software Development
+
+
+   Stoicism
+Permalink
+Software Development
+
+
+   mentioned
+
+   the summer Smalltalk taught me OOP
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+        My First Fifteen Compilers
+
+        writing about this idea
+
+        mentioned on Twitter
+
+        the "Concrete, Then Abstract" pattern
+
+        a Fizzbuzz compiler
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Hyperproductive Development
+
+   Hyperproductive Development
+Permalink
+Software Development
+Teaching and Learning
+
+
+   his conversation with Tyler Cowen
+
+  mentioned recently
+
+   Project-based courses
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   2014
+
+   2010
+Permalink
+Software Development
+Teaching and Learning
+
+
+   a helpful answer
+Permalink
+Software Development
+
+
+   Crafting A Compiler
+
+dc
+
+   The Fastest FizzBuzz in the West
+
+   FizzBuzz
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Why Aren't American Teenagers Working Anymore?
+Permalink
+General
+Software Development
+
+
+   Writing
+
+    a study of the language
+
+    this Financial Times article
+Permalink
+Computing
+General
+Software Development
+
+
+   conversation with Jhumpa Lahiri
+Permalink
+General
+Patterns
+Software Development
+Teaching and Learning
+
+
+   The top answer
+
+   Brian Marick
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   one of his Friday Questions
+Permalink
+Software Development
+
+
+   an essay
+
+   Hanlon's Razor
+
+   Rules of Simple Design
+
+   Bloom's taxonomy
+Permalink
+Software Development
+Teaching and Learning
+
+
+   using compression to understand music
+
+   an Aeon article on the study of consciousness
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   The Word Chain Kata
+
+   fun little story
+
+   so many other dimensions
+Permalink
+Software Development
+Teaching and Learning
+
+
+   John McPhee, The Art of Nonfiction No. 3
+
+   back when
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   "Physics Was Paradise"
+Permalink
+Computing
+Personal
+Software Development
+
+
+   Code Is Not Literature
+
+    read code
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   instrument flight
+
+   Reek
+
+   hear from you
+
+   a long-ish article about Ruby and Smalltalk
+
+   On Ceremony and Training Wheels
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   a recent Dan Meyer post
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Howard Marks
+
+   latest memo
+
+   PDF
+Permalink
+General
+Software Development
+
+
+   Paris Review interview
+Permalink
+Software Development
+Teaching and Learning
+
+
+   the racket-users mailing list
+
+   tweeted
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Modern Garbage Collection
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   The Art of Fiction No. 183
+
+   hear advice from successful people
+Permalink
+Patterns
+Software Development
+
+
+   Rands tweeted
+
+   I followed up
+
+   The Running Conversation in Your Head
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Science Is Not THAT Special
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   The Underestimated Merits of Copying Someone Else's Work
+
+   an old OOPSLA workshop report
+
+   Zed Shaw
+
+   Learn Python The Hard Way
+Permalink
+Software Development
+Teaching and Learning
+
+
+   John Regehr's blog
+Permalink
+Computing
+Software Development
+
+
+   Write code that is easy to delete, not easy to extend
+
+   EWD 1036
+
+   shearing layers
+
+   blogged recently
+Permalink
+Software Development
+
+
+   this interview with Atul Gawande
+Permalink
+Computing
+General
+Software Development
+Teaching and Learning
+
+
+   this paper
+
+   a blog entry about the paper
+
+   points the way
+Permalink
+Software Development
+
+
+   The Art of Fiction No. 123
+Permalink
+General
+Software Development
+
+
+   commitment and ignorance
+Permalink
+Software Development
+
+
+   launching the start-up in Beijing
+Permalink
+General
+Software Development
+
+
+
+
+   John Carmack on Inlined Code
+
+   Carmack
+
+   inlining function calls
+
+   Henry Spencer
+
+   the Polymorphism Challenge
+
+   Three Bears
+
+   Wikipedia
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Conversations with Artists
+
+   last week
+Permalink
+Software Development
+Teaching and Learning
+
+
+   programming in Joy
+
+   five problems
+
+   my code
+
+   email me
+
+        my first day back to the language
+Permalink
+Computing
+Software Development
+
+
+   what makes Oberon unusual
+
+   Compiler Construction
+Permalink
+Computing
+Software Development
+
+
+   talk about the origins of SageMath
+
+   a talk
+Permalink
+Computing
+Software Development
+
+
+   Oldie Complains About the Old Old Ways
+Permalink
+Computing
+Personal
+Software Development
+
+
+   Susanne Langer
+
+   cut
+Permalink
+Computing
+General
+Software Development
+
+
+   adapt Google's coding practices
+
+   a couple of falls ago
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Read-Eval-Print-λove
+
+   Programmers Guide to the 1802
+
+        Thinking Forth
+
+        Structure and Interpretation of Computer Programs
+
+        The Art of the Metaobject Protocol
+
+        an HTML copy
+
+        Object-Oriented Software Construction
+
+        an unauthorized version
+
+        1
+
+        2
+
+        a free online copy
+
+   Paradigms of Artificial Intelligence Programming
+
+   a short blog entry
+
+   A Programming Language
+
+   Gödel, Escher, Bach
+Permalink
+Computing
+Personal
+Software Development
+Teaching and Learning
+
+
+   We Only Hire The Trendiest
+
+   Banno
+Permalink
+Managing and Leading
+Software Development
+
+
+   Stay on the Bus
+
+   Patterns as a Source of Freedom
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Sledgehammers vs Nut Crackers
+Permalink
+Software Development
+Teaching and Learning
+
+
+   a recent blog entry
+
+   here
+
+   this image
+
+
+Permalink
+Computing
+Software Development
+
+
+   one summer
+
+   The Art of Fiction No. 135
+Permalink
+Software Development
+
+
+   some excellent advice
+
+   Practical Typography
+Permalink
+Computing
+Software Development
+
+
+   long in the books
+
+   Peter Alvaro
+
+   @pxlplz
+
+   Datalog
+
+   Dedalus
+
+   Bloom
+
+   Blazes
+
+   the full talk
+Permalink
+Computing
+Software Development
+
+
+   Michael Feathers
+
+   a tweet
+
+   Uncle Bob
+Permalink
+Software Development
+
+
+   The Universality of Postel's Law
+
+   Postel's Law
+Permalink
+Computing
+General
+Patterns
+Software Development
+
+
+   What Is the Business of Literature?
+Permalink
+Computing
+General
+Patterns
+Software Development
+
+
+   porting the Pain Machine
+
+   a darn good programmer
+Permalink
+Software Development
+
+
+   Fire the Workaholics
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Garrison Keillor, The Art of Humor No. 2
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Fundamentals of Interactivity
+
+   a software analogy to Gresham's Law
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+Permalink
+Computing
+Software Development
+
+
+   Say No
+
+   Love
+Permalink
+General
+Software Development
+
+
+   Design Patterns: More Than Meets The Eye
+
+   Patterns are for People
+Permalink
+Patterns
+Software Development
+
+
+   its creator does
+
+   Gresham's Law
+
+   The Selfish Class
+
+   Gibbs entropy law
+
+   Brian Rice
+
+   this tweet
+
+   Jeff Miller
+
+   Henrik Johansson
+Permalink
+Software Development
+
+
+   big visible charts
+
+   interview with Ernest Hemingway
+Permalink
+General
+Software Development
+
+
+   a suggestion
+
+   complication
+
+   the Unix philosophy
+
+   Simplicity Matters
+
+   even glory in the complexity
+Permalink
+Software Development
+
+
+   again
+Permalink
+Software Development
+
+
+   How Stephen King Teaches Writing
+
+        design recipe
+
+        posts about patterns
+
+        case studies of programming
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Jonathan Ive and the Future of Apple
+
+   Embracing Change with Extreme Programming
+Permalink
+Patterns
+Software Development
+
+
+   played a few games
+
+   The Loser's Game
+
+
+
+   Extraordinary Tennis for the Ordinary Tennis Player
+
+   immortal game
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+      HtDP
+
+   Turing Is Useless
+
+   will get them a program
+
+   regardless of which muscles they use
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+        the Racket users mailing list
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Jazz: The Aesthetics of Imperfection
+Permalink
+Patterns
+Software Development
+
+
+   Replacing Throwing Exceptions with Notification in Validations
+Permalink
+Managing and Leading
+Software Development
+
+
+   writes
+Permalink
+Software Development
+Teaching and Learning
+
+
+   the story of DeltaGraph
+Permalink
+Software Development
+
+
+   the US Census Bureau
+
+   Frequently Occurring Surnames from the Census 2000
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   The Myth of the Builder
+
+   it's turtles all the way down
+Permalink
+Software Development
+
+Permalink
+General
+Software Development
+
+
+   The Atlantic
+
+   A Web of Agreements and Disagreements
+
+   the Twitter
+
+   The Problematic Culture of "Worse is Better"
+
+   The Old Guard
+Permalink
+Computing
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   a tweet from Christina Cacioppo
+
+   a habit they can learn
+
+   The importance of stupidity in scientific research
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   A Fresh Look at Rust
+
+   Kevin Kelly
+Permalink
+Computing
+Software Development
+
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Seth Godin says
+Permalink
+Software Development
+
+
+   tweeted
+
+   just need a programmer
+Permalink
+General
+Software Development
+
+
+   things you really need to learn in college
+
+    archetypes
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Britt Butler
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Toward a Theory of Design as Computation
+Permalink
+Computing
+Software Development
+
+
+   Exercises in Programming Style
+
+   last year
+
+   talk at StrangeLoop
+
+   the evolution of CS papers
+Permalink
+Computing
+Software Development
+
+
+   What Is and Is Not A Technology Company
+Permalink
+Computing
+Software Development
+
+
+   mentioned recently
+
+   initial Responsive Design article
+
+   blogged about it
+
+        social activity
+
+        pictures
+
+   increasing duplication in order to eliminate duplication
+
+	code duplication is a hint to think differently
+Permalink
+Software Development
+Teaching and Learning
+
+
+   the role of forgiveness
+Permalink
+Software Development
+Teaching and Learning
+
+
+   choosing the right languages for early CS instruction
+Permalink
+Software Development
+Teaching and Learning
+
+
+   February 2014 issue
+
+   A Conversation With Steven Strogatz
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Avdi Grimm's blog
+Permalink
+Software Development
+Teaching and Learning
+
+
+   pair programming and unit tests
+
+   the Checkout kata
+
+   a tic-tac-toe game
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Conway's Game of Life
+
+   Test-First Challenge
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   agile software development
+
+   the readings
+
+   a letter to his son at college
+
+   studying with Annie Dillard in college
+
+   The Mathematical Dialect Quiz
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Thinking in Types
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   tells us
+Permalink
+Software Development
+
+
+   Avdi Grimm
+
+   Confident Ruby
+
+   Pragmatic Programmers page
+
+   his seminal write-up
+
+   PLoP 1996
+
+   the fourth Pattern Languages of Program Design book
+Permalink
+Patterns
+Software Development
+
+
+   a short piece
+
+   Smalltalk taught me OOP
+Permalink
+Patterns
+Software Development
+
+
+   Chris Granger
+
+   Light Table
+Permalink
+Computing
+Software Development
+
+
+   Take small steps
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   this interview
+Permalink
+Software Development
+
+
+   whispers
+Permalink
+Software Development
+
+
+   the future of the news business
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   The Turing School of Software & Design
+
+   1
+
+   2
+
+   conducted a greenfield thought experiment
+
+   Home College
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Mark Jacobson
+
+   Dr. Nick notes
+
+        Slow down
+
+        Lemma: Keep moving
+
+   unusual connections to agile software development
+Permalink
+Software Development
+Teaching and Learning
+
+
+   a short note
+
+   The Expectation Maximization Algorithm
+
+   Iteration Inside and Out
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   an example from men's college basketball
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Nathan Marz
+
+   RackUnit
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+      Annie Dillard
+Permalink
+Software Development
+Teaching and Learning
+
+
+   The Exceptional Beauty of Doom 3's Source Code
+Permalink
+Computing
+Software Development
+
+
+   an article on the Moonpig billing system
+Permalink
+Software Development
+
+
+   do the simplest thing that could possibly work
+Permalink
+General
+Software Development
+Teaching and Learning
+
+Permalink
+Computing
+Software Development
+
+
+   Slow Ideas
+
+        practice
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   This blog entry
+
+   Titus Brown reports
+
+   quoted in Coders at Work
+Permalink
+Computing
+Software Development
+
+
+   his piece about the Snowfall experiment
+
+    memory foam, scratch-resistant lenses, and Dustbusters
+
+   a little Twitter love
+
+   project-based computer science education
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   his essay on abstraction
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   the gulf between planning and reality
+Permalink
+General
+Managing and Leading
+Software Development
+
+
+   Unhappy Truckers and Other Algorithmic Problems
+
+   the traveling salesman problem
+
+   a pretty good job
+Permalink
+Computing
+Software Development
+
+
+    Overlapping Intervals
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Discipline and Skill
+
+   XP is a self-help system
+
+   XP's relationship to self-help in the cinema
+Permalink
+General
+Software Development
+
+
+   Remembering Ken Iverson
+
+   A Conversation with Arthur Whitney
+
+   Richard Gabriel
+Permalink
+Computing
+Software Development
+
+
+   Reginald Braithwaite
+Permalink
+Software Development
+
+
+   Table of Contents
+
+
+
+   since May
+
+   pointillism
+
+   cubism
+
+   Patterns as a Source of Freedom
+
+   a few programming challenges
+
+   a polymorphism challenge
+
+   The Elements of Programming Style
+
+
+
+   a Programming Pearls column
+
+   Joy
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Table of Contents
+
+   plenty of good compiler talks
+
+   communicating sequential process
+Permalink
+Computing
+Software Development
+
+
+   Table of Contents
+
+   the mathematical structure
+
+   3-SAT
+
+   the clique problem
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Table of Contents
+
+   Jenny Finkel
+
+   this classic statistical illusion
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   defensive programming
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   a blog entry
+Permalink
+Software Development
+
+
+   a nice piece
+Permalink
+Computing
+Software Development
+
+
+   How We Will Read interview
+
+   Beautiful Code
+
+   hear from you
+Permalink
+Computing
+Software Development
+
+
+    The Art of Fiction No. 211
+Permalink
+Software Development
+
+Permalink
+Software Development
+
+
+   learn how to program
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   empowering
+
+   a recent post
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Data Traceability
+Permalink
+Software Development
+
+
+   A Place for Sharing Ideas and Stories
+
+   Medium
+Permalink
+Software Development
+
+
+   The Art of Fiction No. 135
+
+   http://www.flickr.com/photos/thousandrobots/5371974016/
+Permalink
+Software Development
+
+
+   joked
+
+   My response
+
+   the Point class
+
+   Object-Oriented Programming in Pascal
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Strange Loop 2013
+
+   Crista Lopes
+
+   a blog entry from last year's Strange Loop
+
+   Exercises in Style
+
+   Queneau's book
+
+    @kaleidic
+
+   a shameless thief of good ideas
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Bernie Cosell
+
+   get stuff done
+
+   City Slickers
+Permalink
+Software Development
+Teaching and Learning
+
+
+   John Regehr's short brainstorm
+
+   Code Reading
+
+   an MFA in Software
+
+   a "writing code" course
+
+   Chris Demwell
+
+   e-mail me your suggestions
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+General
+Software Development
+
+
+   On the Perils of Dynamic Scope
+
+   Go at Google: Language Design in the Service of Software Engineering
+
+   a different classification
+Permalink
+Computing
+Software Development
+
+
+   The Racket Way
+
+   at InfoQ
+
+   Design Principles Behind Smalltalk
+
+   delimited continuations
+Permalink
+Computing
+Software Development
+
+
+   A Glimpse of Heaven
+
+   a barrier to learning
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Good for Whom?
+
+   Design Principles Behind Smalltalk
+
+  link
+
+   purity
+
+   factorability
+
+   object-oriented programming
+
+   an entry on comments in code
+Permalink
+Computing
+Software Development
+
+
+   How to Debug
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   This Fortune Management article
+Permalink
+Software Development
+Teaching and Learning
+
+
+   the negative space
+
+   You Aren't Gonna Need It
+
+   a document archived by Steve Lacy
+
+   Lists of Note
+
+   Wikipedia
+Permalink
+Software Development
+
+
+   Does the history of making software exist?
+Permalink
+Software Development
+
+
+   the DRY principle
+
+   Increasing Duplication to Eliminate Duplication
+
+   follow the shape of the data
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   this MacStories interview
+
+   VoodooPad
+
+   Acorn
+
+   long-time user of VoodooPad
+
+   FlySketch
+Permalink
+Software Development
+
+
+   your suggestions
+
+   The Paperboy, The Wallet, and The Law Of Demeter
+
+   Wikipedia entry
+
+   Primitive Obsession
+
+   to beware its temptations
+
+   play a little game
+Permalink
+Patterns
+Software Development
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   this wide-ranging interview
+
+   neat and scruffy
+Permalink
+Computing
+Software Development
+
+
+   Edward Yang
+
+   the Three Bears pattern
+
+   Bright Lines in Learning and Doing
+
+   language features
+
+   primitive data values
+
+   an interview
+
+   my previous entry
+
+   patterns free students to create
+
+   creativity needs to be developed
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Gilad Bracha
+
+   Bret Victor
+
+   Newspeak
+
+   an omniscient debugger
+Permalink
+Computing
+Software Development
+
+
+   emic and etic approaches to explaining team behavior
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Bryan Helmkamp
+
+   Why Ruby Class Methods Resist Refactoring
+
+   the factory method
+Permalink
+Patterns
+Software Development
+
+
+   The Poetry of Function Naming
+
+   some questions presuppose how they are to be answered
+Permalink
+Patterns
+Software Development
+
+
+   maybe you don't need to
+
+   Naming From the Outside In
+
+   Primitive Obsession
+
+   You Ain't Gonna Need It
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Don't Kill Math
+
+   some of my reactions
+
+   You and I Know, Order is Everything
+
+   1
+
+   2
+
+   negative space
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   The Creator
+
+      The Gospel of Mark
+Permalink
+Software Development
+Teaching and Learning
+
+
+   William Payne writes
+
+   the Pareto Principle
+Permalink
+Software Development
+
+
+   Learnable Programming
+
+   Programing By Reacting, in the REPL
+
+   the essay
+
+   I wrote
+
+        Ben Shneiderman
+
+   a more detailed analysis of Victor's essay
+
+Programming By Reacting, in the REPL
+
+
+   Elementary patterns
+
+   the REPL
+
+   Test-driven design
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   duality of code and data
+Permalink
+Computing
+Software Development
+
+
+   code kata
+
+   a universal Turing machine
+
+   a video demonstration
+
+   this reflection
+
+   the lambda calculus
+
+   the fixed point
+
+        a think
+
+   New Context
+
+   Another classic in this genre
+
+   @rpg
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   yesterday's talk on miniKanren
+
+   Hewitt
+
+   Actor model
+
+        a mountain
+
+        a goddess
+
+   parts of speech in programming languages
+
+   a talk by Crista Lopes
+Permalink
+Computing
+Software Development
+
+
+   this essay
+
+   Stuart Sierra
+
+   Design Patterns
+
+   a 1998 tutorial
+
+   Pattern-Oriented Software Architecture
+
+   the time is right
+
+   Sierra's slides
+
+   StrangeLoop 2012 GitHub repo
+Permalink
+Patterns
+Software Development
+
+
+   David Nolen
+
+   ClojureScript
+
+   this talk
+
+   skip lists
+
+   difference list
+
+   rolling hashes
+
+    Dan Friedman
+
+    Prolog
+
+   Kanren
+
+   The Reasoned Schemer
+
+  William Byrd
+
+   quines
+Permalink
+Computing
+Software Development
+
+
+   StrangeLoop
+
+   plenty to think about
+
+   teaching and recovering
+
+             The Future of Databases
+
+             Monads and Patterns
+
+             More Productive Programming
+
+             Computing Like the Brain
+
+             Y Y
+
+             The Racket Way
+
+             At All Levels
+
+             Brett Victor's Visible Programming
+
+             This and That
+
+   the StrangeLoop 2012 github site
+Permalink
+Computing
+Software Development
+
+
+   a comment
+
+   How long will there be computer science departments?
+
+   Dave Humphrey
+
+   Doug Baldwin
+
+   Alyce Brady
+
+   Computer Science in the Liberal Arts
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Pomodoro
+
+   The Timer Knows Best
+Permalink
+General
+Software Development
+
+
+   Thoreau
+
+   "know beans"
+
+   tropes
+
+   B. Chandrasekaran
+
+   taught me OOP
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   A recent entry
+Permalink
+Software Development
+Teaching and Learning
+
+
+   my most-retweeted tweet
+
+   @petdance
+
+   @logosity
+
+   The New Boston
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Program Design in the UNIX Environment
+
+   my Intermediate Computing course
+
+   with the thing, not a faux actor
+Permalink
+Software Development
+Teaching and Learning
+
+
+   his recent Dr. Dobb's interview
+
+   my posts on JRubyConf
+
+   keeping up and settling down
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Writing a novel in Scrivener: lessons learned
+
+   Scrivener
+
+   LaTex
+
+   Scribble
+
+   VoodooPad
+
+   MacJournal
+
+   the standard code refactorings
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Interview with Alan Kay
+
+   he leaves no oxen ungored
+
+   amazing density of soundbites
+
+   patterns
+
+   Keith Ray did
+
+   Kay's larger vision for computing
+
+   parentheses and semicolons
+
+   a Value Object
+
+   his own Dr. Dobb's interview
+
+   Design Patterns
+
+   Bokononists
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Designing Applications for the Power Macintosh
+
+   small efficiencies and premature optimization
+Permalink
+Software Development
+
+
+   worked examples and self-explanation
+
+   Understanding Object-Oriented Programming with Java
+
+   I don't like textbooks much
+
+   even more
+
+   looking for a compiler textbook last fall
+
+   the impending evolution of the textbook
+
+   pointers and suggestions
+Permalink
+Software Development
+Teaching and Learning
+
+
+   RA Manual: Notes on Writing Code
+
+   Tyler Cowen
+Permalink
+Computing
+Software Development
+
+
+   Rob Pike
+
+   Less is exponentially more
+
+   Go
+
+   Leo Meyerovich's blog post
+
+   the paper
+
+   the project's open-source repository
+Permalink
+Software Development
+
+
+   Processing.js
+
+   the chapter on Processing.js
+
+   The Architecture of Open Source Applications
+
+   the design of LLVM
+Permalink
+Software Development
+
+
+   a cool array manipulation idiom
+
+   Fundamentals of New Computing
+
+   Cannon's algorithm
+
+   APL
+
+   Dave Ungar
+
+   High-Speed Math Self-Taught
+
+   hear from you
+
+   OpenLibrary.org
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   blogged about yesterday
+Permalink
+Patterns
+Software Development
+
+
+   a programming idiom you've never heard of
+
+   J
+
+   R
+
+    splat operator
+
+   please share
+Permalink
+Patterns
+Software Development
+
+
+   King responded
+
+   approach to teaching programming
+
+   Learn Code the Hard Way
+
+   (re)writing from scratch
+
+   deleting text so you won't be tempted to keep it
+Permalink
+Software Development
+
+
+
+
+   Sarah Allen
+
+   Nate Schutta
+
+   Venkat Subramaniam on day one
+
+   David Hussman
+
+   Randall Thomas
+
+   Tammer Saleh
+
+   Processing
+
+   its original Java form
+
+   its JavaScript implementation
+
+        How great leaders inspire action
+
+        Nokogiri
+
+        Andreas Ronge
+
+        Neo4j.rb
+
+        Square
+
+        #fintech
+
+        T8 Webware
+
+        Dwolla
+
+        yesterday's entry
+
+        Celluloid
+
+        the Actor model
+
+        Akka framework
+
+   Creative Commons Attribution-ShareAlike 3.0 Unported
+
+   Wikimedia Commons
+Permalink
+Computing
+Software Development
+
+
+
+
+   Thnad
+
+   Dr. Seuss's On Beyond Zebra
+
+   functional integer assembly language
+
+   Parslet
+
+   PEG-style
+
+   BiteScript
+
+   Rubinius
+
+   David Wood
+
+   the keynote address
+
+   Joe Kutner
+
+   Global Interpreter Lock
+
+   the State of JRuby session
+
+        Warbler
+
+        Trinidad
+
+        TorqueBox
+Permalink
+Computing
+Software Development
+
+
+   the keynote address
+
+   Charles Nutter
+
+   Tom Enebo
+
+   JRuby 1.7.0.preview1 is available
+
+   Google Summer of Code
+
+        Dalvik byte code
+
+        Ruboto
+
+        Kilim fibers
+
+        krypt
+
+        Shoes
+
+ 
+
+   Noridoc
+
+   ri
+
+   JRuby support
+
+   moving to RedHat
+
+   TorqueBox
+
+   EngineYard
+
+   Creative Commons Attribution-ShareAlike 3.0 Unported
+
+   Creative Commons Attribution-ShareAlike 3.0 Unported
+Permalink
+Computing
+Software Development
+
+
+   Venkat Subramaniam
+
+   primitive obsession
+Permalink
+Computing
+Software Development
+
+
+   Stephen King, The Art of Fiction No. 189
+Permalink
+General
+Software Development
+
+
+   @fogus
+
+   file signatures
+Permalink
+Patterns
+Software Development
+
+
+   relates a story
+
+   1
+
+   2
+
+   3
+
+   Alfred Thompson
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Bret Victor's reactive documents
+
+   Light Table
+
+   start with a box
+
+   reminds us
+
+   back in 2004
+Permalink
+Software Development
+
+
+   pokes fun at OO practice
+
+   avoid using verbs-turned-into-nouns as objects
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   these tips on writing from John Steinbeck
+
+   mapped them to writing code
+
+   The Summer Smalltalk Taught Me OOP
+
+   on writing, teaching, and programming
+
+   wrote a few weeks ago
+
+   freedom is not always so free
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Joe Bergin
+
+   I mentioned at the time
+
+    an OOP challenge
+
+   Kent Beck
+
+   the Anti-IF Campaign
+
+   from a specific part of Karel the Robot
+
+   Practice for Practice's Sake
+
+   the Three Bears pattern
+
+        a bowling scorecard
+
+        a simple calculator
+
+        finite state machine
+
+        a ticket machine
+
+        a Turing Machine simulator
+
+        a water vending machine
+
+   This pdf file
+
+   let me know
+
+   Variations on a Polymorphic Theme
+
+   Transform Conditionals: a Reengineering Pattern Language
+
+   Programming Challenges
+
+   Constraints are where creative solutions happen
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   essay on collective-creation
+
+   Architecture Without Architects
+
+   pragmatic view
+
+   The Aim of Architecture
+
+   Software Carpentry
+
+   the Gang of Four book
+Permalink
+Patterns
+Software Development
+
+
+   suffering-oriented programming
+Permalink
+Software Development
+
+
+   Bootstrapping Design
+
+   mutual recursion
+
+   last semester's course
+
+   a source of freedom
+
+   project courses
+
+   start with a box
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+
+
+
+   The Most Entertaining Philosopher
+
+   pragmatism
+
+   The Academic Future of Agile Methods
+Permalink
+General
+Software Development
+
+
+   compilers course
+
+   I walked away
+Permalink
+Software Development
+Teaching and Learning
+
+
+   A Man, A Ball, A Hoop, A Bench (and an Alleged Thread)...
+   Teller!
+
+   Penn & Teller
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   wrote this week
+
+   Impractical Programming, With Benefits
+
+   Impractical Programming piece
+Permalink
+Software Development
+Teaching and Learning
+
+
+   an old post by Allan Kelly
+Permalink
+Software Development
+
+
+   In Praise of Impractical Programming
+
+   "pretty good Lisps"
+Permalink
+Software Development
+Teaching and Learning
+
+
+
+
+
+   Tufte
+
+   Paul Rand
+
+   the NeXT logo
+
+   Charles and Ray Eames
+Permalink
+Computing
+Software Development
+
+
+   what he does when coaching
+
+   may be disappearing
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Mike Clancy
+
+   his version of the assignment
+
+   Nifty Assignments
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   a short but thorough introduction
+
+   Maybe
+
+   Option
+
+   unassigned user
+
+        The Null Object Pattern
+
+        PLoP 1996
+
+        Pattern Languages of Program Design 3
+
+        Null Object: Something for Nothing
+
+   programming challenge
+
+   go to extremes
+Permalink
+Patterns
+Software Development
+
+
+   the future of interaction design
+
+
+
+   think bigger
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   recent interview
+
+   negative splits
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Simple Made Easy
+
+
+
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   learn how to think the same way
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Richard Gabriel
+
+   Mob Software
+
+   How to Design Programs
+
+   design recipes
+
+   structural recursion patterns
+Permalink
+Software Development
+Teaching and Learning
+
+
+   recently reported
+
+   a tech report
+
+   original blog post
+
+   interface procedure
+
+   structural recursion
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   last time
+
+   Heist
+
+   Bus-Scheme
+
+   faced the "refactor or rewrite?" decision
+
+   Processing.js
+
+   Dave Humphrey
+
+   D3
+
+   Avdi Grimm
+
+   implements Smalltalk Best Practice Patterns in Ruby
+Permalink
+Software Development
+Teaching and Learning
+
+
+   my programming languages course
+
+   Roundabout
+
+   source of great freedom
+
+   The Summer Smalltalk Taught Me OOP
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Testing is a Whole Team Activity
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Things You Should Never Do
+
+
+
+
+   Fred Brooks
+
+   Code Reads #1: The Mythical Man-Month
+Permalink
+Patterns
+Software Development
+
+
+   1
+
+   2
+
+   whether the people know it yet or not
+
+   read, study, and think broadly
+Permalink
+Software Development
+Teaching and Learning
+
+
+   I wrote
+
+   Book Hatchery
+
+   winning a statewide award
+
+   T8 Webware
+
+   the power of intersections
+Permalink
+Software Development
+Teaching and Learning
+
+
+   my knee
+
+   a May term
+
+   agile software development
+
+   an MFA in software
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Hemingway
+
+   Jobs
+
+   Ansel Adams's last interview
+
+   StrangeLoop
+
+   Fogus tweeted
+Permalink
+Software Development
+Teaching and Learning
+
+
+   the interviews I've read recently
+
+   1994 interview with Steve Jobs
+
+   back in May
+Permalink
+Managing and Leading
+Personal
+Software Development
+Teaching and Learning
+
+
+   an article
+
+   The Paris Review's "The Art of Fiction No. 21"
+
+   sustainable pace
+Permalink
+Software Development
+
+
+   Adding Behavior with Confidence
+
+   well-known technique
+
+   not just in programming
+
+   The Transformation Priority Premise
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   tweeted
+Permalink
+Software Development
+
+
+   Advice From An Old Programmer
+
+   Learn Python The Hard Way
+
+   powerful tool
+
+   wishing you have a programmer around
+
+   ask new questions
+Permalink
+Software Development
+Teaching and Learning
+
+
+   The Return of the Barbarian
+
+   Organization Man
+Permalink
+Software Development
+
+
+   Rumble in the Jungle
+
+   When We Were Kings
+Permalink
+General
+Personal
+Software Development
+
+
+   Vivek Haldar's blog
+
+   Coding Blind
+
+   engineering notebooks
+
+
+
+
+   PLoP
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   short entry
+Permalink
+Patterns
+Software Development
+
+
+   Intelligent Systems course
+
+   City Slickers
+
+   Curly's Law: Do One Thing
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Intelligent Systems
+Permalink
+Software Development
+Teaching and Learning
+
+
+   You Aren't Gonna Need It
+Permalink
+Personal
+Software Development
+
+
+   diagnosing my knee injury
+Permalink
+Personal
+Software Development
+
+
+   this link
+
+   reminded herself of the wisdom of "try; don't think"
+Permalink
+Computing
+Software Development
+
+
+   economies of small
+Permalink
+Software Development
+
+
+   new blog
+
+   recursion patterns
+
+   written about recursion patterns
+
+   Lenses are the Coalgebras for the Costate Comonad
+
+   Gang of Four book
+
+   as higher-order datatype-generic programs
+
+   work to be done
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Al Aho's talk at SIGCSE 2010
+
+   former student
+
+   Chris Johnson
+
+        Regular Expression Matching Can Be Simple And Fast
+
+   Guy Steel's StrangeLoop 2010 talk
+
+   functional design patterns
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   this passage
+
+   Writing teaches writing
+
+   Reading to Write
+Permalink
+General
+Software Development
+
+
+   John McPhee, The Art of Nonfiction No. 3
+
+   finding ideas isn't enough
+
+   do the work
+
+   program at the core of my senior project
+
+   program that could express artistic style
+
+   computer science thesis
+
+   communications studies thesis
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Global Variable Considered Harmful
+
+   here
+Permalink
+Software Development
+
+
+   reports
+
+   OOPSLA has become SPLASH
+Permalink
+Software Development
+
+
+   SPLASH 2011
+
+   has beaten me to the punch
+
+   call for participation
+
+   John Vlissides
+
+   cold called Alan Kay
+
+   vision and ambitious charge
+
+   2005
+
+   deliver our keynote address
+
+   talked about for years
+
+   Let me know
+Permalink
+Software Development
+Teaching and Learning
+
+
+   studying program repositories
+
+   simple empirical analysis of code
+
+   looking at our commit log
+
+   getting empirical about refactoring
+
+   Turbulence
+
+   written a bit about the Turbulence project
+
+   renewed focus on design in the wild
+
+   code churn and defect density
+
+   we swim in data
+
+   Git Immersion
+
+   Getting Git
+Permalink
+Software Development
+
+
+   The Craftsmen vs. the Scavengers
+
+   blogged about
+
+   Gresham's Law for software design
+
+   nothing new for me to say
+Permalink
+Software Development
+
+
+   writes about
+
+   Connect These Two Dots
+
+   Software Carpentry lessons
+
+   We collect faster than we can understand it
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   pair
+
+   tweets
+
+   measuring the closure of code
+
+   studying program repositories
+
+   studied relationships
+   among open-source software packages
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Brian Harvey
+
+   projects
+
+   real problems
+
+   writing code
+
+   that analogy
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   value objects
+
+   programming challenge
+
+   Tell, Don't Ask
+
+   actor model
+Permalink
+Software Development
+
+
+   practice, practice, practice
+
+   continuous feedback
+Permalink
+General
+Running
+Software Development
+Teaching and Learning
+
+
+   wrote recently
+
+   mean times to competence
+Permalink
+Software Development
+Teaching and Learning
+
+
+   this transcript
+Permalink
+Patterns
+Software Development
+
+
+   pithy summary
+
+   recent entry
+
+   small matter of programming
+
+   other mechanism
+
+   superhuman strength
+
+   inevitable consequence
+
+   watching videos
+Permalink
+General
+Software Development
+
+
+   2008 letter to Amazon shareholders
+Permalink
+Software Development
+
+
+   Decoding the Value of Computer Science
+
+   computational thinking
+
+   AI and law community
+
+   mentioned here before
+
+   let me know
+Permalink
+Computing
+Software Development
+
+
+   Why Google Can't Build Instagram
+
+   tells a familiar story
+
+   risible
+Permalink
+Software Development
+
+
+   Kent Beck tweeted
+
+   Gresham's Law
+
+   Wikipedia
+
+   academic paper
+
+   his own colorful phrase
+Permalink
+Software Development
+
+
+   Relationships, Not Characters
+
+   John Cook
+
+   Distorted Software
+
+   Ideas, Execution, and Technical Achievement
+
+   My Kid Could Do That
+
+   at the Smithsonian this summer
+Permalink
+Computing
+Patterns
+Personal
+Software Development
+
+
+   Keith Johnstone
+
+   Edward Bond
+
+   Software in Negative Space
+
+   receiving so much mainstream attention
+Permalink
+Patterns
+Software Development
+
+
+   Roundabout
+
+   wasn't all that keen
+
+   Functional Design Patterns
+
+   refactoring functional-style programs
+Permalink
+Patterns
+Software Development
+
+
+   Corey's Code Retreat
+
+   Corey Haines
+
+   strike us hardest
+Permalink
+Software Development
+Teaching and Learning
+
+
+
+
+   Strange Loop
+
+             morning sessions
+
+             afternoon sessions
+
+             Guy Steele's Own Strange Loop
+
+             morning sessions
+
+             afternoon sessions
+
+             serendipitous connections in big cities
+
+             this and that
+
+   Pageant Theater
+
+   Delmar Loop
+
+
+
+   Moonrise Hotel
+
+
+Permalink
+Computing
+General
+Software Development
+
+
+   Pi Pizzeria
+
+   T8 Webware
+
+   Wade
+
+   RetroFit
+
+   Midje
+
+   Scribble
+
+   laziness
+
+   acceptability-oriented computing
+Permalink
+Computing
+Software Development
+
+Permalink
+Computing
+Software Development
+
+
+   afternoon of Day 1
+
+   Fortress
+
+   small OOPSLA workshop on creativity
+Permalink
+Computing
+Software Development
+
+
+
+
+
+   StrangeLoop 2010
+
+
+
+
+   Des Moines Marathon
+Permalink
+Running
+Software Development
+
+
+   Agile Isn't a "Thing"
+
+   Software configuration management
+
+   Brad Appleton
+
+   short iterations and continuous feedback
+Permalink
+Software Development
+
+
+   comment-turned-blog entry
+
+   OOPSLA 2004 talks
+
+   Actor model
+
+   Carl Hewitt
+
+   blackboard architecture
+
+   blackboard metaphor
+
+   Pattern-Oriented Software Architecture
+Permalink
+Computing
+Software Development
+
+
+   10 Things Non-Technical Users Don't Understand About Your Software
+
+   yeah
+
+
+
+
+   their students are not like them
+
+   how to reach me
+Permalink
+Software Development
+Teaching and Learning
+
+
+   tail calls and trampolining in Scala
+
+   CS faculty sending bad signals about recursion
+
+   @tailrec annotation
+
+   get excited about a problem
+
+   Scientific American article on web science
+Permalink
+Computing
+Software Development
+
+
+   Mike Feathers tweeted
+
+   Simplicity Is Highly Overrated
+
+   Kent Beck suggested
+
+   familiar quote
+
+   Sapir-Whorf Hypothesis
+
+   recent New York Times article
+
+  Reused Abstractions Principle
+Permalink
+General
+Software Development
+
+
+   recent interview with Fred Brooks
+
+   JCL
+
+   negative-split learning experience
+
+   Practice, practice, practice
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   for supervising student programming projects
+
+   gave similar advice
+
+   full agile development course
+
+   Hugh Beyer writes
+
+   learning from projects in industry
+Permalink
+Software Development
+Teaching and Learning
+
+
+   programming for all
+
+   What Happened to Yahoo
+
+   classic Marvin Gaye album and song
+Permalink
+General
+Software Development
+
+Permalink
+Software Development
+
+
+   new discussion list on metaphor in software
+
+   two metaphors that have helped him recently
+
+   entry on technical debt
+
+   it isn't technical debt; it's an unhedged call option
+
+   refactoring is a time machine
+
+   last Friday
+Permalink
+Software Development
+
+
+   characteristics of agile development teams
+
+   line from John Cook
+Permalink
+Software Development
+
+
+   Computer History Museum
+
+   source code for MacPaint and QuickDraw
+
+   one of my early blog entries
+
+   this entry about computation in nature
+
+   created in MacPaint
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Running Times
+
+   default answers
+
+   take time
+Permalink
+Running
+Software Development
+
+
+   suggests another way
+
+   develop our instincts
+
+   just keep running
+
+   listen to my body
+
+   need it after all
+
+   listen to my code
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+
+   Research Through Development of Installed Tools
+
+   EMACS: The Extensible, Customizable Display Editor
+
+   here
+Permalink
+Software Development
+
+
+   relatively old blog by Giles Bowkett
+Permalink
+Software Development
+
+
+   Last time
+
+        The Agile Manifesto
+
+        The Test-First Stoplight
+
+        Ruby Tutorial with Code Samples
+
+        Planning Game
+
+        another short page
+
+        Ward Cunningham talking about the debt metaphor
+
+        Getting Real, Step 1: No Functional Spec
+
+             FreshMeat
+
+             Mountain Goat Software
+
+        Red-Green-Refactor
+
+        A Rational Emergent Architecture: Fake it!
+
+        Continuous Integration
+
+        Rake
+
+        Using the Rake Build Language
+
+        Rake Tutorial
+
+        It's not a promise, it's a guess
+
+        Iteration Retrospective
+
+        Some Patterns for Iteration Retrospectives
+
+        How To Run An Iteration Retrospective
+
+        What is Software Design?
+
+        The Art of Enbugging
+
+        Mea Culpa
+
+        Conversational Stories
+
+        INVEST in Good Stories
+
+        The Importance of Precise Estimates
+
+        Projecting into the Future
+
+   Hg Init
+
+   Git for the Lazy
+
+   git tutorial man page
+
+   Everyday Git
+
+         basic concepts
+
+        on-line Red Bean book
+
+        Source control in ten minutes
+
+        Subversion - A Quick Tutorial
+
+        an SVN cheat sheet
+
+   hear from you
+Permalink
+Software Development
+Teaching and Learning
+
+
+   agile software development course
+
+   The Test-First Stoplight
+
+   What is Software Design?
+Permalink
+Software Development
+Teaching and Learning
+
+
+   TDD and incremental design
+
+   rare pleasure of pair programming
+
+   Joe Bergin
+
+   Big Design Up Front
+
+   tweeted
+
+   real problem
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+
+
+   stories colliding
+
+   tweeted
+
+   followed up
+Permalink
+Software Development
+Teaching and Learning
+
+
+   I might use
+
+   one-page story
+
+   spike solution
+
+   Ward Cunningham relates
+
+   @jamesshore tweeted
+Permalink
+Software Development
+Teaching and Learning
+
+
+   the spreadsheet TDD challenge
+
+   refactoring Fowler's code
+
+   old habits die hard
+Permalink
+Software Development
+Teaching and Learning
+
+
+   putting out daily fires
+
+   Giles Bowkett's talk on meta-programming
+
+   I discussed a few months ago
+Permalink
+Software Development
+
+
+   retweeted
+
+   @unclebobmartin
+
+   mentioned here recently
+
+   recent student
+
+   consumer debt is not your friend
+
+   not to write a test
+Permalink
+Software Development
+
+
+   previous entry
+
+   Bill Caputo
+Permalink
+Software Development
+
+
+   some of the flaws
+
+   software engineering course last fall
+
+   hear what you think
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Are you one of the 10% of programmers who can write a binary search?
+
+   comment on the entry
+
+   scrapheap programming
+
+   Garrison Keillor world
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   syntax procedures
+
+   family of patterns
+
+
+
+
+   Speak the Problem's Language
+
+   Peter Norvig
+
+   Paradigms of Artificial Intelligence Programming
+
+   act of creation
+Permalink
+Patterns
+Software Development
+
+
+   Ward Cunningham says
+
+   WyCash
+
+   fan of Ward's
+
+   such connections
+Permalink
+Software Development
+Teaching and Learning
+
+
+   home-baked graphics
+
+   roll my own
+
+   that's me
+Permalink
+Computing
+Software Development
+
+
+      SIGCSE 2010
+
+      Table of Contents
+
+   blog entry
+
+   Teaching the Compilers Course
+
+   most recent offering
+
+   Rich Pattis
+
+   gcc
+
+   LLVM
+
+   structural recursion
+
+   Dragon book
+
+        Ken Auer
+
+        Covering more content
+
+   awk
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   SIGCSE 2010
+
+             the Media Computation workshop
+
+             the New Educators Roundtable
+
+             Computation and The Sciences
+
+             What Should Everyone Know about Computation?
+
+             The Most Influential CS Ed Papers
+
+             Al Aho on Teaching Compiler Construction
+
+             Reimagining the First Year of Computing
+
+        Interdisciplinary Research
+
+        What's the Buzz?
+
+        This and That, Volume 1
+
+        This and That, Volume 2
+Permalink
+Computing
+Running
+Software Development
+Teaching and Learning
+
+
+   use duplication tactically
+
+   Garry Kasparov, cyborg
+
+   The Chess Master and the Computer
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   recent entry
+
+   MapReduce
+Permalink
+Patterns
+Software Development
+
+
+   recent blog entry
+
+   higher level
+Permalink
+Software Development
+Teaching and Learning
+
+
+   tweeted
+
+   Be Lucky: It's an Easy Skill to Learn
+
+   embracing failure
+
+   Mark Guzdial's blog entry
+
+   Steve Tate
+Permalink
+Software Development
+Teaching and Learning
+
+
+   previous entry
+
+   first
+
+   blog
+
+   articles
+
+   Ballast Quarterly Review
+
+   The Poetry of Sight
+
+   Art as Brain Surgery
+
+   explored previously
+
+   the obvious over the subtle
+
+   code is data
+
+   writing one
+Permalink
+General
+Software Development
+
+
+   Odysseus Engages in Spin, Heroically
+
+   tie-breaking procedure
+
+   Why Design Thinking Won't Save You
+
+   here
+
+   here
+
+   here
+
+   maps
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   William Caputo
+
+   focus on behavior over belief
+
+   be open to continual adaptation to our environment
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   stumbling through mediocrity
+
+   do great things
+Permalink
+Managing and Leading
+Personal
+Software Development
+
+
+   functional programming doesn't work
+
+   Ralph Johnson
+
+   Art and Fear
+
+   referenced
+
+   another article
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   even the grading
+
+   design for testability
+
+   No Silver Bullet paper
+Permalink
+Software Development
+Teaching and Learning
+
+
+   my software engineering course
+
+   on writing
+
+   to program
+
+   to run
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   creating healthcare XML standards
+Permalink
+Software Development
+
+
+   Milton Glaser
+
+   Ten Things I Have Learned
+Permalink
+General
+Software Development
+
+
+   organic planning
+
+   walkways
+
+   knows the answer
+Permalink
+Software Development
+
+
+   reactive planning
+Permalink
+Software Development
+
+
+   and write about
+
+   interview with Brian Foote
+
+   look a word up in the dictionary
+Permalink
+Patterns
+Software Development
+
+
+   software for XP planning
+
+   asking for evidence
+
+   criteria for XP team tools
+
+   cooperative game
+
+   Taskboardy
+Permalink
+Software Development
+
+
+   Computing Machinery and Intelligence
+Permalink
+General
+Software Development
+
+
+   OOPSLA
+
+   here
+
+   William Caputo hasn't forgotten
+
+   ease and joy
+Permalink
+Software Development
+
+
+   available on-line
+
+   metaprogramming hacks
+
+   Law of Demeter
+
+   Treetop
+
+   Onward! talk
+
+   OOPSLA 2003
+
+   Cristina Lopes
+
+   naturalistic programming
+Permalink
+Computing
+Software Development
+
+
+   change
+
+   captures in his inimitable, colorful style
+
+   Greenspun's Tenth Rule of Programming
+Permalink
+Computing
+Software Development
+
+
+   this about writing the tapir book
+
+   essay about PragProWriMo
+
+   5-week course
+
+   Pragmatic Programmers Writing Month
+
+   NaNoWriMo
+
+   research results on forming habits
+
+   Making the Clackity Noise
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Bits of Evidence
+
+   original article
+
+   complexity of code developed test-first
+
+   reflective analysis
+
+   Ruby at ThoughtWorks
+Permalink
+Software Development
+
+
+   banquet speech at ECOOP 2009
+
+   OOPSLA 2006
+Permalink
+Computing
+Software Development
+
+
+   this comment
+
+   Wa: The key to clear, harmonious design
+
+   arrogance is more dangerous than incompetence
+
+   Symmetry Breaking in Software Patterns
+
+   devilishly clever code
+Permalink
+Computing
+Software Development
+
+
+   again
+
+   this one
+
+   simplest advice
+Permalink
+Software Development
+
+
+   Six Rules for Rewriting
+
+   Names matter.
+
+   Tell, Don't Ask
+
+   You Aren't Gonna Need It
+
+   Make something work
+
+   Do the simplest thing
+
+   Refactoring to Patterns
+
+   writing in an agile style
+
+   tools for writers
+Permalink
+General
+Software Development
+
+
+   analogues of test-driven development
+
+   accountability and continuous feedback
+
+   Software Carpentry course in the open
+
+   user stories
+
+   architectural spike
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Change, and keep changing
+
+   top hit
+
+   second hit
+Permalink
+Software Development
+
+
+   Turning Skills into Money
+
+   comment
+
+   software engineering course
+
+   The Next Generation Bends Over
+
+   rolling my own
+
+   Post-Medium Publishing
+
+   our universities
+
+   what changes CS education
+
+   even our universities
+Permalink
+Computing
+General
+Software Development
+Teaching and Learning
+
+
+   responded
+
+   blog entry
+Permalink
+Software Development
+
+
+   big picture for his Software Carpentry course
+
+   do something
+
+   work on my software engineering course
+Permalink
+Software Development
+Teaching and Learning
+
+
+   blogged this morning
+
+   Agile Manifesto
+
+   few weeks ago
+Permalink
+Software Development
+
+
+   eliminating yet another language
+
+   Thought experiment
+
+   look more like Lisp
+
+   feel more like ML
+
+   Processing programming contest
+
+    writing his own QIF->CSV converter
+
+   Lambda the Ultimate
+
+   Perl cannot be parsed
+Permalink
+Computing
+Software Development
+
+
+   this dandy story
+Permalink
+Managing and Leading
+Software Development
+
+
+
+
+
+   Google Code announced
+Permalink
+Computing
+Software Development
+
+
+   Every line of code is a user interface
+
+   recent entry
+
+   halving his project length
+
+   Leading by Omission
+Permalink
+Software Development
+
+
+   John Cook
+
+   entry with a video
+
+   pecha kucha
+
+   personal revelation
+
+   running in the middle
+
+   Physics Quote of Day
+
+   stake its claim
+
+   Jake Good
+
+   Sometimes, Students Have an Itch to Scratch
+
+   Translation Party
+Permalink
+Computing
+General
+Software Development
+Teaching and Learning
+
+
+   interview at Gaping Void
+Permalink
+General
+Software Development
+
+
+   call for advice
+
+   Mike Holmes
+
+   Douglas Adams
+
+   Wade Arnold tweeted
+Permalink
+Software Development
+Teaching and Learning
+
+
+   excellent graphic design program
+
+   software engineering course
+
+   my SE course
+
+   without giving any university a lot of money
+
+   course for non-majors
+
+   experimental course
+Permalink
+Software Development
+
+
+   software engineering
+
+   Staying on top
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Tweet of the Day
+
+   Sharp vs. Blunt Instruments
+Permalink
+Software Development
+
+
+   patterns as descriptive grammar
+
+   patterns as a source of freedom
+
+   The Best Bits
+
+
+
+
+   hear from you
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Why Johnny can't program
+
+   illustrative programming
+
+   sweet spot
+Permalink
+Software Development
+Teaching and Learning
+
+
+   teaching software engineering
+
+   principle of locality in code changes
+
+   "canalizing" design
+
+   Gojko Adzic's description
+
+   Keith Braithwaite
+
+   programming challenges
+
+   Software Testing
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Glenn Vanderburg
+
+
+
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+
+
+   whether universities are next
+
+   If you don't like the news...
+Permalink
+Computing
+Software Development
+
+
+   John Rosemond
+
+        previous article
+
+        How To Be Invincible
+Permalink
+General
+Software Development
+
+
+   Pay me until you're done
+
+   Zeno's Paradox
+Permalink
+General
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   Last week
+
+   best-case scenario half-marathon
+
+   beginners are uncomfortable
+
+   and not write
+
+   more important than being agile
+
+   thinks about this challenge
+
+   Computing Machinery and Intelligence
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+
+   breaking rules
+
+   message from Laurent Bossavit
+
+   learned
+
+   from
+
+   him
+
+   before
+
+   bright line
+
+   Three Bears
+
+   balancing test
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   To Test or Not to Test?
+   That's a Good Question
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Robert's Rules of Order
+
+   Big Ball of Mud
+
+    Agile Software Development in the Large
+Permalink
+Managing and Leading
+Patterns
+Software Development
+
+
+   TED talk by Tony Robbins
+
+   that's how I roll
+
+   QBQ! The Question Behind the Question
+
+   software design methodologies
+Permalink
+Personal
+Software Development
+
+
+   adjustments to the specification
+
+   new ideas we tried this semester
+
+   Brooks's Law
+Permalink
+Software Development
+Teaching and Learning
+
+
+   why Python does not optimize tail calls
+
+   Python history blog
+
+   hear about it
+Permalink
+Computing
+Software Development
+
+
+   contemplated some changes
+Permalink
+Software Development
+Teaching and Learning
+
+
+   tweeted a provocative idea
+
+   write a tool to seek and destroy
+
+   YAGNI
+Permalink
+Software Development
+
+Brian Marick
+
+   teach software engineering
+
+   Michael Berman
+Mister Cartoon
+Permalink
+Software Development
+Teaching and Learning
+
+
+   art in programming and programs
+Permalink
+Patterns
+Software Development
+
+
+   ChiliPLoP trip
+
+   William Stafford
+
+   unity of data and program
+
+   satisfy a need that we didn't even know we had
+Permalink
+General
+Software Development
+
+
+   last year
+
+   no design is allowed
+
+   Shazam
+
+   Robert Duvall
+
+   Swivel
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   one of my favorite tools
+
+   debugging his designs and programs
+
+
+
+
+   Ghostbusters-loving
+
+   his web page
+
+   teaching software engineering
+
+   rubber duck debugging
+Permalink
+Software Development
+Teaching and Learning
+
+
+   in general
+
+   gathering requirements
+
+   interest of department concerns
+
+   Learning by doing
+
+   please send me
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Rebooting Computing Summit
+
+   won a Turing Award
+
+   Barbara Liskov
+
+   Adele Goldberg
+
+   this Adele Goldberg
+
+   on-line
+
+   Personal Dynamic Media
+
+   New Media Reader
+
+   use it again some day
+
+   Women in Computing -- Take 2
+Permalink
+Computing
+Software Development
+
+
+   photography is too easy to learn
+
+   has described the reaction
+
+   don't want to program
+
+   another fine piece
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   lament
+Permalink
+Software Development
+Teaching and Learning
+
+
+   tells us so
+
+   tells us so
+
+   former student
+
+   local entrepreneur
+
+   department seminar
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Human Computing Skills: Rethinking the K-12 Experience
+
+   Programming as Theory Building
+
+   Agile Software Development
+
+   Spiral pattern
+
+   CS Unplugged
+
+   helps students understand ideas better
+
+   How to Design Programs crowd
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   music industry
+
+   Rebooting Computing summit
+
+   The Man Watching
+Permalink
+Software Development
+Teaching and Learning
+
+
+   wrote last month
+
+   reactive planning
+
+   classical planning
+Permalink
+Software Development
+
+
+   dragon book
+
+   Teaching the Compilers Course
+
+   supplementary text
+
+   Rebooting Computing summit
+Permalink
+Software Development
+Teaching and Learning
+
+
+   The Decline and Fall of Agile
+
+   objects-first in the CS curriculum
+
+   Parallel Computing Laboratory
+
+   ambitious pattern language project
+Permalink
+Software Development
+
+
+   like to program
+
+   my recent entry
+
+   Pownce
+
+   runners find a way to run
+
+    all the code he has written
+Permalink
+Computing
+Software Development
+
+
+   Agile Development Practices keynote
+Permalink
+Computing
+Software Development
+
+
+   Ashleigh Brilliant
+
+   Hugh MacLeod
+
+   Gaping Void
+
+
+
+   to be less wrong than yesterday
+
+   decided to write for myself
+Permalink
+General
+Software Development
+
+
+   good time to start a start-up
+
+   A Good Time for Agility
+
+   RoleModel Software
+
+   outcomes assessment
+Permalink
+Software Development
+
+
+   negative space
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Uncle Bob Martin
+ 
+   model-driven architecture
+Permalink
+Software Development
+
+
+   create their own examples
+
+   manifest types
+
+   black box testing
+
+   white box testing
+
+   pattern-driven style of programming
+Permalink
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   My Problem with Design
+
+   appeared on his blog
+
+   another entry
+
+   Owen Astrachan
+
+   Mark Guzdial
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+  structured matching
+
+   PLoP
+
+   article on emerging best practices
+Permalink
+Patterns
+Software Development
+
+
+   get things done
+
+   Jeff Patton blogged
+
+   Jim Highsmith
+
+   at the end of last semester
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   extreme programming is a self-help system
+
+   life hacks
+
+   Getting Things Done
+
+   never read the book
+
+   this post
+Permalink
+Patterns
+Software Development
+
+
+   relates an observation by Michael Feathers
+
+   identify refactorings from FP practice
+
+   longstanding interest of mine
+Permalink
+Patterns
+Software Development
+
+
+   Ralph Johnson
+
+   shard
+
+   Flickr
+
+   Google
+
+   LiveJournal
+
+   Patterns
+
+   Rule Of Three
+
+   mentioned before
+
+   looking for Unix commands
+Permalink
+Patterns
+Software Development
+
+
+   recent entry
+
+   article on a new course
+
+   Dr. Java
+
+   couple of weeks ago
+
+   couple of weeks ago
+Permalink
+Software Development
+Teaching and Learning
+
+
+   a bit about scripting languages
+
+   his recent IEEE Computer article
+
+   has had the buzz
+
+   a little PHP
+
+   Practice
+
+   publications
+
+   Center for High Assurance Computer Systems
+
+   Ousterhout's 1998 essay
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Michael Berman
+
+   In Praise of Scripting: Real Programming Pragmatism
+
+   Scripting: Higher Level Programming for the 21st Century
+
+   teach non-majors
+
+   A program is an idea
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   recent rescue of hostages in Colombia
+
+   man-in-the-middle attack
+
+   in Wired magazine
+
+   Developer Jam stage
+
+   Dancing with the Stars
+
+        Rachel Davies
+
+        Uncle Bob Martin
+
+        Crazy Mike Hill
+
+   mentioned Uncle Bob in this blog
+
+   inspiration from pop culture
+Permalink
+Computing
+Software Development
+
+
+   Zung Nguyen
+
+   Stephen Wong
+
+   eight queens problem
+
+   An Introduction to Object-Oriented Programming
+
+   second edition
+
+   Ruby version
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   couple of OOPSLA submissions
+
+   verdict on one
+
+   Educators' Symposium
+
+   writers' workshops
+
+   PLoP
+Permalink
+Software Development
+Teaching and Learning
+
+
+   been a fan
+
+   wrote briefly about
+
+   The Principles of Psychology
+
+   43 Folders
+
+   Linda Stone
+
+   Prone
+
+   I am
+
+   agile moments
+
+   flow
+
+   not there yet
+Permalink
+General
+Running
+Software Development
+
+
+   while at ChiliPLoP
+
+   Solving Every Sudoku Puzzle
+
+   Python's Mutable Default Problem
+
+   article Ottinger references
+
+   Ruby doesn't do this
+
+   subset of the original class's protocol
+Permalink
+Patterns
+Software Development
+
+
+   wrote at ChiliPLoP
+
+   Onward!
+
+   Educators' Symposium
+
+   Knowing and Doing
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Grammar Rules
+
+   studying the Pirahã
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Joe Bergin
+
+   Doctor of Professional Studies
+
+  patterns 
+
+   Extreme Programming
+
+   Carl Page
+
+   Larry
+Permalink
+Patterns
+Software Development
+
+
+
+
+
+   Rodney Laney
+
+   Good Jobs
+Permalink
+Computing
+Software Development
+
+
+   doing penance
+
+   Astrachan's Law
+
+   data-intensive computing
+
+   John Zelle
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   SIGCSE reports
+
+   language topics course
+
+   definition of 'sublime'
+
+   pickaxe book
+
+   on-line
+
+   Brian Marick
+
+   Everyday Scripting with Ruby
+
+   Beautiful Code
+
+   theme song
+Permalink
+Software Development
+Teaching and Learning
+
+
+      SIGCSE 2008
+
+      Table of Contents
+
+   Innovation, Design, and Simplicity at Google
+
+   context of patterns
+
+   iPod
+
+   Language Tools
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   last SIGCSE entry
+
+   OOPSLA 2005 Educators' Symposium
+
+   Richard Gabriel
+
+   Educators' Symposium
+
+   Onward! paper
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   SIGCSE 2008
+
+             Randy Pausch and Alice
+
+             The Mystery Problem
+
+             Nifty Assignments
+
+             Innovating Our Image
+
+             This and That
+
+             Plenary Address by Marissa Mayer
+
+             This and That
+
+             Expectation and Outcome
+
+             CS Past, Present, and Future
+
+Not an Example of Problem-Based Learning
+
+        On the Roads Back in Portland
+Permalink
+Computing
+Running
+Software Development
+Teaching and Learning
+
+
+   Prometheus Awards
+
+   T8Design
+
+   Wade Arnold
+
+   Alliance Technologies
+
+   Mike Lang
+
+   Tony Bibbs
+Permalink
+Software Development
+
+
+   essay
+
+   mentioned recently
+
+   on their hands
+
+   OOPSLA 2008 panel
+Permalink
+Computing
+Software Development
+
+
+   review
+
+   Gregor Kiczales
+
+   conference podcast page
+
+   commented on
+
+   slides
+
+   detailed and pointed review
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Peter Turchi
+
+   podcast page
+
+   Richard Gabriel
+
+   Warren Wilson College
+
+   OOPSLA 2005 keynote
+
+   Robert Root-Bernstein's ideas
+
+   air-drop programming
+
+    after a glorious morning run
+Permalink
+Computing
+General
+Patterns
+Running
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   is concerned
+
+   craftsmanship approach
+
+   his company
+
+   software apprenticeship
+
+   project-based
+
+   apprenticeship-based
+
+   scientists
+
+   engineers
+
+   Artists
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Brian Marick's blog
+
+   Bill Gosper
+
+   written about
+
+   course this semester
+Permalink
+Computing
+Software Development
+
+
+   Markdown
+
+   YAGNI
+
+   shUnit
+
+   phpUnit
+
+   this one
+
+   Unix philosophy
+
+   Something to Say
+
+   pragmatic programmers
+
+   Agile Manifesto
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Integrating Writing into Computer Science Courses
+
+   Applying Software Engineering Skills to Writing
+
+        Motivate students
+
+        in a context
+Permalink
+Software Development
+Teaching and Learning
+
+
+
+
+
+   Being Funny
+
+   Steve Martin
+
+   in the context of comedy
+
+   scrapheap programming
+Permalink
+Software Development
+Teaching and Learning
+
+
+   love to program
+
+   The Nerd Factor is Huge
+
+   Nothing Happens
+
+   have its own conference
+Permalink
+Computing
+Software Development
+
+
+   John Maeda
+
+   What is a Tree?
+
+   Processing
+
+   first theater experience
+
+   Laws of Simplicity
+
+   blog of the same name
+Permalink
+Personal
+Software Development
+Teaching and Learning
+
+
+   DISTek Integration
+
+   National Instruments
+
+   LabVIEW
+
+   with physicists
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Here's your sign.
+
+   Something to Say
+
+   Progress depends on the creation of better tools.
+Permalink
+Running
+Software Development
+
+
+   my recent post
+
+   SECANT workshop
+
+grep
+
+   Computational Simulations and the Scientific Method
+
+   Bil Kleb
+Permalink
+Computing
+Software Development
+
+
+   this paper
+
+   web site
+
+   literate programming
+
+   SECANT workshop
+Permalink
+Computing
+Software Development
+
+
+   Repository for Open Software Education
+
+   Laurie Williams
+
+   Nifty Assignments
+Permalink
+Software Development
+Teaching and Learning
+
+
+   recent entry
+
+   science majors
+
+   compilers course
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   20th anniversary of Perl
+
+   50th birthday of Fortran
+
+   we lost John Backus
+
+   Everyday Scripting with Ruby
+
+   article
+
+   master a basic tool
+
+   my current software
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   principles behind the Agile Manifesto
+
+   all out, all the time
+
+   Emacs
+Permalink
+Running
+Software Development
+
+
+   actor
+
+        flow
+
+   Scott Smith
+Permalink
+Personal
+Software Development
+
+
+   in a play
+
+   Brian Marick
+
+   Agile2008
+
+   software development
+
+   stages
+
+   Jackson Davies
+
+   Simon
+
+   Paula
+Permalink
+Software Development
+Teaching and Learning
+
+
+   newly-minted actor
+
+   making connections
+
+   Ward's wiki
+
+   two
+
+   entries
+
+   Computers As Theatre
+Permalink
+Patterns
+Software Development
+
+
+   A Program is an Idea
+
+   Bill Tozier
+
+   talk
+
+   Daniel Friedman's 60th birthday
+
+   available on-line
+
+   preface
+Permalink
+Computing
+Software Development
+
+
+   A day in the life...
+
+   VPython
+Permalink
+General
+Software Development
+
+
+   Setting (and Character): A Goldilocks Exercise
+
+   mentioned here
+
+   Three Bears
+
+   built on constraints
+
+   The Missing Letter
+
+   post on a book about Open Court Publishing
+
+        Polymorphism Challenge
+
+        Joe Bergin
+
+        Primitive Obsession
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   my last note
+
+   James
+
+   Brian Marick
+
+   Jon
+
+   ongoing theme
+
+   world-famous pilot
+
+   local airport
+Permalink
+Computing
+Software Development
+
+
+   maverick software development
+
+   The Five Dysfunctions of a Team
+
+   Spring
+
+   continuation passing style
+Permalink
+General
+Managing and Leading
+Software Development
+
+
+   research program
+
+
+
+   Refactoring Functional Programs
+
+   Mutual Recursion
+
+   Program Derivation
+Permalink
+Patterns
+Software Development
+
+
+   OOPSLA 2007
+
+   recent positive words
+
+   conference podcast
+Permalink
+Computing
+Software Development
+
+
+   Bloom filters
+
+   My Biased Coin
+
+   improving undergraduate computer science education
+
+   Whatever order
+
+   problems that matter
+
+   Problem Based Learning in Computer Science
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   revisiting Forth
+
+   Minimal FORTH compiler and tutorial
+
+   Dave Herman
+
+   debriefed teaching this course
+
+   15 compilers in 15 weeks
+
+   addendum
+
+   Implementation Patterns
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   procmail
+
+   extreme programming mailing list
+
+   will change
+
+   Crystal Clear mailing list
+
+   FIT tests
+
+   refactoring mailing list
+
+   patterns of Christopher Alexander
+
+   software patterns world
+
+   pedagogy
+Permalink
+Patterns
+Software Development
+
+
+   Forth
+
+   APL
+
+   Joy
+
+   Forth -- The Early Years
+
+   HOPL-2 paper
+Permalink
+Computing
+Software Development
+
+
+   WordLadder
+
+   nifty assignment
+Permalink
+General
+Software Development
+
+
+   Mark Guzdial's blog
+
+   Students find programming distasteful
+
+   1
+
+   2
+
+   software engineering metaphor as mythology
+
+   unsuccessful curriculum proposal
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   OOPSLA
+
+   Educators' Symposium
+
+   Richard Gabriel
+
+   Essays
+
+   Onward!
+Permalink
+Computing
+Software Development
+
+
+   An Officer and a Gentleman
+
+   Zach Mayo
+
+   Drill Instructor Foley
+
+   Casey Seeger
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   three great virtues of a programmer
+Permalink
+General
+Software Development
+
+
+   Devil's Advocate for Types
+
+   Geoff Wozniak
+
+   Gilad Bracha
+
+   pluggable type systems
+
+   Math Blues
+
+   Chris Johnson
+
+   Lucky's Reflections
+
+   Would I Lie to You?
+
+Michael Berman
+
+   The TEXbook
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   JRuby
+
+ Charles Nutter
+
+   last Sunday
+
+   prospect of writing a textbook
+
+   I like to write code
+Permalink
+Software Development
+Teaching and Learning
+
+
+   (here
+
+   here)
+
+   type inference
+Permalink
+Computing
+Software Development
+
+
+   Niklaus Wirth
+
+   Pascal and Its Successors
+
+        write tests
+
+        leak in the abstraction
+Permalink
+Computing
+Software Development
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   responded
+
+   Phlip's response
+
+   manifest typing
+Permalink
+Software Development
+
+
+   Myth and Patterns
+
+   Masterpiece Engineering
+
+   Brian Randell's reminiscence
+Permalink
+Software Development
+
+
+   Good Writing
+
+   Ward Cunningham
+
+   discover more
+
+   learning from critics
+
+
+
+   PLoP 2007
+
+
+
+   OOPSLA 2007
+
+   pattern writing bootcamp
+
+   writers' workshop for papers in software development
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   refactoring
+
+   Move Method
+
+   Extract Subclass
+
+   Fowler
+
+   Kerievsky
+
+   computational thinking
+Permalink
+Computing
+Software Development
+
+
+   Despair.com
+
+   40-hour work week
+
+   sustainable pace
+Permalink
+Running
+Software Development
+
+
+   I Feel Good.  I Feel Great.  I Feel Wonderful.
+
+   What About Bob?
+
+   Your favorite teaching tricks?
+
+   good book
+
+   followed up
+Permalink
+Software Development
+Teaching and Learning
+
+
+   honesty and blocking
+
+   Dale Emery's message
+
+   James T. Kirk
+
+   The Prime Directive of Agile Development
+
+   previous post
+
+   project retrospectives
+
+   Prime Directive
+
+   brutal facts
+
+   book on retrospectives
+
+   Caterpillar's Fate
+
+   myth and patterns
+Permalink
+General
+Software Development
+
+
+   defining 'agile'
+
+   Running Interference
+
+   shades of gray
+
+   start my own
+
+   blog entry
+Permalink
+General
+Software Development
+
+
+   XP discussion list
+
+   Computing Machinery and Intelligence
+
+   blog entry
+
+   Three Colours of Agile
+Permalink
+Software Development
+
+
+   OOPSLA 2007
+
+   2004
+
+   2005
+
+   2006
+
+   December planning meeting
+
+   about a movies
+
+   Mediator
+
+   Facade
+
+   Software Engineering Radio
+
+   DimSumThinking
+
+   OOPSLA 2007 Podcast
+
+   subscribe
+
+   The (Unofficial) How To Get Around OOPSLA Guide
+
+   ooPSLA Impressions
+
+   DimSumThinking
+
+   Turing Award winner
+
+   John McCarthy
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   to come face-to-face with technical debt
+
+    Three Things I Learned About Software in College
+
+   Robert Blum
+
+   Rich Programmer Food
+
+   the last time I taught it
+
+   hear from you
+
+   15 compilers in 15 days
+
+   Why Is Forever
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   computational processes occurring in nature
+
+   Clocking In And Out Of Gene Expression
+
+   The Geomblog
+
+   basic math skills are weak everywhere
+
+   latest Carnival of the Agilists
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Gerard Meszaros
+
+   xUnit Test Patterns
+
+   PLoP 2004
+
+   Michael Feathers's recommendation
+
+   Michael's book
+
+   Duplex Book
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+    blog entry
+
+   YAGNI
+
+   coined an eponymous maxim
+
+   Do the Simplest Thing that Could Possibly Work
+
+   last post
+Permalink
+Software Development
+
+
+   article by Tim Bray
+
+   on the books
+
+   recent post on Alan Kay
+
+   programming.reddit.com
+
+   Sudoku solver written in Cobol
+
+   Chipmunk Basic
+
+   Dr. Dobbs' Journal
+
+   The Return of Tiny Basic
+
+   OpenCOBOL
+
+   drop me a line
+Permalink
+Computing
+Personal
+Software Development
+
+
+   Alistair Cockburn
+
+   But Raise Your Hand First
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   "The Reactive Engine"
+
+   Turing Award talks
+Permalink
+Computing
+Software Development
+
+
+   Ruby vs. Java Myth #3
+
+   Ruby vs. Java Myth #1
+
+   interview with Don Knuth
+
+   love to program
+
+   A*
+Permalink
+Computing
+Software Development
+
+
+   Alistair Cockburn
+
+   David Ungar
+
+   here
+Permalink
+General
+Software Development
+
+
+   assessing the value of a critic's comments
+
+   relevance of a CS Ph.D.
+
+   whenever they can
+
+   OOPSLA'05  Educators' Symposium
+
+   little caution
+
+   Brian Marick
+
+   Gerald Weinberg
+
+   Elvis Costello
+Permalink
+Software Development
+Teaching and Learning
+
+
+   once before
+
+   quoting an unnamed programmer
+
+   in its new location
+Permalink
+Software Development
+Teaching and Learning
+
+
+      Presentation Zen
+
+   technical debt and bankruptcy
+
+   refactoring as like steering a car
+
+   as I wrote earlier
+
+   Bringing Extreme Programming to the Classroom
+
+   XP Universe 2001
+
+   Extreme Programming Perspectives
+
+  ongoing narratives
+
+   values missing from the Agile Manifesto
+
+   running, tested features
+Permalink
+Software Development
+Teaching and Learning
+
+
+   persuasion and teaching
+
+   marketing from your conscience
+
+   availability heuristic
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   commonplace book
+
+   Comments Again
+
+   The Next Mainstream Programming Language:
+
+   PDF
+
+   The Hungarian Abhorrence Principle
+
+   Hashed Thoughts
+
+   Practice
+
+   The Hacker's Guide to Investors
+Permalink
+Computing
+Personal
+Software Development
+
+
+
+
+   Schneier's psych of risk paper
+
+   availability
+
+   framing
+
+   Ira Glass: Tips on storytelling
+
+   HCI forum
+
+   Narrative Paradigm
+
+    Walter Fisher
+Permalink
+Software Development
+Teaching and Learning
+
+
+   1
+
+   2
+
+   3
+
+    The Psychology of Security
+
+   What Marketers Could Do For Teachers
+Permalink
+Software Development
+Teaching and Learning
+
+
+   post on the time value of study
+
+   The Ant and the Grasshopper
+
+   a couple of weeks ago
+
+   Robert Duvall
+
+   Owen Astrachan
+
+   Fish Is Fish
+
+   Leo Lionni
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   this
+
+   this
+
+   Chris Turner
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Bruce Schneier
+
+   The Psychology of Security
+
+   vaporware
+Permalink
+Software Development
+
+
+   XP mailing list
+
+   good agile software book
+
+   Laurent Bossavit
+
+   old post from Laurent's blog
+
+   old post of my own
+Permalink
+Software Development
+Teaching and Learning
+
+
+   please do
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   Instead of opening the door, walk through it
+
+   my open office hours
+
+   Maytag Repairman
+
+   came to realize pretty quickly
+
+   Friends
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   Lambda the Ultimate
+
+   paper
+
+   software system
+
+   Growing a Language
+Permalink
+Computing
+Software Development
+
+
+   Agile Moments
+
+   another
+
+   Student outcomes assessment
+
+   West and Rostal
+
+   this entry
+Permalink
+Software Development
+Teaching and Learning
+
+
+   "considered harmful" considered harmful
+
+   screed on go-to statements
+
+   lambda series
+
+   Eric Meyer
+
+   "Considered Harmful" Essays Considered Harmful
+
+   conservatism of academic CS
+Permalink
+General
+Software Development
+
+
+   Roy Behrens
+
+   earlier talk of whose
+
+   camouflage
+
+   Ballast Quarterly Review
+
+   blogged about
+
+   James Coplien
+
+   book
+
+   this paper
+
+   deconstruction
+
+   postmodernism
+
+   Blacktop
+
+   elementary patterns
+
+   Let's Pretend
+
+   Programming Languages
+
+   Patterns as a Source of Freedom
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Merce Cunningham Dance Company
+
+   Split Sides
+
+   web site
+
+   ChiliPLoP
+
+   at the extremes
+
+   DanceForms 1.0
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   write about
+
+   sad news
+
+   has died
+
+   Can Programming Be Liberated from the von Neumann Style?
+
+   Kenneth Iverson
+Permalink
+Computing
+Software Development
+
+
+   study architecture
+
+   software patterns
+
+   pedagogical patterns
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+  OOPSLA 2007
+
+   Yannis Smaragdakis
+
+   Yannis's Law
+Permalink
+Computing
+Software Development
+
+
+   masterful invited talk
+
+   Grady's blog
+
+   SIGCSE
+
+   recommendations for curricula
+
+   OOPSLA talk
+
+   back of the envelope calculation
+
+   Richard Gabriel
+
+   that is science
+
+   (SWEBOK)
+
+   ACM 1968 curriculum recommendations
+
+   ACM 2005
+
+   SkyTV
+
+   The Missing Curriculum for Programmers and High Tech
+   Workers
+
+   Handbook of Software Architecture
+
+   at OOPSLA 2005
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   PDF
+
+   HTML, minus footers with quotes
+
+   Week of Science
+
+   way home from ChiliPLoP
+
+   PDP-11's assembly language
+
+   here
+
+   this one
+Permalink
+Computing
+Software Development
+
+
+   PLoP conference
+
+   Alexandrian sense
+
+   Jim Coplien
+
+ how we teach pattern-directed design
+
+   Google doc
+
+   like this
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   generic tasks
+
+   Christopher Alexander
+
+   software patterns community
+
+   Sponsor-Selector
+
+   loops
+
+   Structured Matcher
+
+   elementary patterns
+
+   recursion
+
+   Matthias Felleisen
+
+   On the Expressive Power of Programming Languages
+
+   APL
+
+   Teach Scheme!
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   recursion and induction
+
+   lecture notes
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Mumps
+
+   Why Functional Programming Matters
+
+   writing ViaWeb in Lisp
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Player of the Year
+
+   describes Woods's most recent reconstruction
+
+   improvement ravine
+
+   first began blogging
+
+   Halting Problem
+Permalink
+Software Development
+Teaching and Learning
+
+
+   the comic book as a form for end-user documentation
+
+   The Path to 9/11
+
+   comic book
+Permalink
+Software Development
+Teaching and Learning
+
+
+   MP3 player are like pens
+
+   My Dream App
+
+   SubEthaEdit
+
+   one exception
+
+   prevent users from specifying their own desktop patterns
+
+   have written about before
+Permalink
+General
+Software Development
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   academic program review
+
+ 
+
+   major task
+Permalink
+Managing and Leading
+Software Development
+
+
+   Elisa Baniassad
+
+   The Geography of Programming
+
+passed away since OOPSLA'05
+
+   Design Patterns
+
+   SketchPad
+
+   Brian Foote
+
+   hero worship
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Philip Wadler
+
+   Curry-Howard isomorphism
+
+   Independence Day
+
+   Hindley-Milner algorithm
+
+   Haskell
+
+   Java generics
+
+   Links
+
+   LINQ
+
+   Erik Meijer
+Permalink
+Computing
+Software Development
+
+
+   Montaigne
+
+   Bacon
+
+   blog as essay
+
+   postmodern programming
+
+  short-lived attempt to do this
+
+   The Federalist Papers
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Guy Steele
+
+   Growing a Language
+
+   A Growable Language
+
+   Fortress
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Onward!
+
+   Ron Goldman
+
+   Dick Gabriel
+
+   Conscientious Software
+
+   chemotaxis
+
+   Brenda Laurel's keynote
+
+   Where'd You Go
+Permalink
+Computing
+Software Development
+
+
+   Brenda Laurel
+
+   The Art of Human-Computer Interface Design
+
+   Computers as Theatre
+
+   Utopian Entrepreneur
+
+   Middletown, Indiana
+
+   Onward!
+
+   UbiComp 2006
+
+   Owen Merton
+
+   quoted here before
+
+   Kurt Vonnegut
+
+   Harmonices Mundi
+
+   Computer Lib/Dream Machines
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   last year
+
+   technical workshop
+
+   educational workshop
+
+   Educators' Symposium
+
+   2004
+
+   2005
+
+   teaching novices to design programs
+
+   Uncle Bob
+
+   Henrietta Levitt
+
+   performance art
+
+   latest ruminations
+
+        clear and present danger
+Permalink
+Software Development
+Teaching and Learning
+
+
+   O&P1
+
+   Walter Reed Army Medical Center
+
+   Laboratory for AI Research
+
+   Michigan State
+
+   scrapheap challenge
+
+   OOPSLA 2005 workshop
+
+   discussed yesterday
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Paul Graham
+
+   entrepreneurship as a career choice
+
+   latest essay
+
+   cool companies
+Permalink
+Software Development
+Teaching and Learning
+
+
+   entertaining fantasy on developing programmers
+
+   recent essay
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Zeno's paradox
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   running
+
+   Bill Murray film
+
+   National Center for Academic Transformation
+
+   Improving Quality and Reducing Cost
+
+   Who Wants to be a Millionaire?
+
+   multiple iterations and care for programs
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Talking About Leaving:
+   Why Undergraduates Leave the Sciences
+
+   why they're leaving
+
+   Inside Higher Ed piece
+
+   figuring out how
+
+   Science Is Not a Path to Riches
+
+   advertise this
+
+   fun, exciting, and worth doing
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   three weeks ago
+
+   Information Technology Strategic Roadmap
+
+   professional marketing techniques
+
+   ABET
+
+   SWEBOK
+Permalink
+Managing and Leading
+Software Development
+
+
+   interplay between design and building
+
+   extolled before
+Permalink
+Software Development
+
+
+   Uncle Bob Martin
+
+   How to Become a Hacker
+Permalink
+Managing and Leading
+Software Development
+
+
+   David Gries
+
+   What Should We Teach in an Introductory Programming Course?
+
+   Program Live!
+
+   programming in context
+
+   SIGCSE keynote address
+
+   Descartes
+
+   guilty pleasure
+
+   Standish text
+
+   Edsger Dijkstra
+
+   Matthias Felleisen
+
+   How to Design Programs
+
+   dislike textbooks these days
+
+   academic conservatism
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Iowa Department of Economic Development
+
+   IDED web page
+
+   Paul Graham tell it
+
+   map
+
+   [6]
+
+   Eric Sink
+
+   TEAM Technologies
+Permalink
+Computing
+General
+Managing and Leading
+Software Development
+
+
+   Buried Treasure
+
+   wrote recently
+
+   seen here
+
+   found a textbook
+
+   one of the comments
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   recent entry
+
+   responsibilities of department head
+Permalink
+Managing and Leading
+Running
+Software Development
+
+
+   ECOOP 2006
+
+   abstract
+
+   software development is program transformation
+
+   here
+
+   blogged about
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Sticking to the textbook
+
+   these books aren't about anything
+
+   the stakes are so high
+
+   textbook
+
+   The Little Schemer
+
+   Introduction to Computing and Programming with Java:
+   A Multimedia Approach
+
+about something
+
+   colleague
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   returned from Italy
+
+   department website
+
+   attracting new students
+
+   prospective students section
+
+   Lord of the Webs
+
+   ACM Queue
+
+   interview with Werner Vogels
+
+   end of the interview
+
+   you have to start with a box
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Programming as Discovery and Expression
+
+   for us to learn
+Permalink
+Software Development
+
+
+   Recently
+
+   The Art of Lisp & Writing
+Permalink
+Software Development
+Teaching and Learning
+
+
+   off to Italy
+
+   Cookbooks simplify terms as kitchen skills dwindle
+
+   simple how-to
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Jeremy Zawodny said
+
+   written about
+
+   aren't gonna need it
+
+   company
+
+   piece by Richard Gabriel
+Permalink
+General
+Software Development
+
+
+   Yacc
+
+   JavaCC
+
+   SableCC
+
+   Fifteen Compilers in Fifteen Days
+
+   ACM Digital Library
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Why Good Programmers Are Lazy and Dumb
+
+        You Aren't Gonna Need It
+
+        beginner's mind
+
+        you start with a box
+
+   right kind of pain
+Permalink
+Software Development
+Teaching and Learning
+
+
+   local playhouse
+
+   original 1973 movie
+
+   London theatrical performance
+
+   Process as theatre
+
+   Artful Making
+
+   old fogey
+
+   Larry Marshall
+
+   Josh Mostel
+Permalink
+General
+Software Development
+
+
+   Steve Yegge
+
+   Tour de Babel
+
+   smug Lisp weenies
+Permalink
+Computing
+Software Development
+
+
+   SIGCSE
+
+   Joe Bergin
+
+   ChiliPLoP 2006
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   last post
+
+   essay by Kathy Sierra
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+
+   SIGCSE
+
+   Rich Pattis
+
+   (pdf)
+
+   written about Rich's work
+
+   Ward Cunningham
+
+        often on my mind
+Permalink
+Software Development
+Teaching and Learning
+
+
+   bruised ego
+
+   Why I love teaching flying more than software engineering
+
+   this guy
+
+   Startup School
+
+   (mp3)
+
+        Paul Dirac
+
+   (mp3)
+
+   rest of them
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   widely read paper on lean construction
+Permalink
+Software Development
+
+
+   post on learning styles
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   introduce lean manufacturing as change
+
+   old pragmatist
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Eric Sink tells
+
+   eating your own dog food
+
+   Yours, Mine and Ours
+
+   Mono
+Permalink
+Software Development
+Teaching and Learning
+
+
+   fond memories
+
+   Everything Your Professor Failed to Tell You
+   About Functional Programming
+
+   Patterns as a Source of Freedom
+
+   Lisp is Sin
+
+   Peter Norvig
+
+   Paradigms of AI Programming
+
+   Structure and Interpretation of Computer Programs
+
+   praised Norvig's book
+
+   villainesses
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   tutorials chair
+
+   OOPSLA 2006
+
+   Christian Sepulveda
+
+   somewhat more dispassionate position
+
+   Ward Cunningham
+
+   users
+
+   Michael Swaine
+
+   What's New Here is that Nothing is New Here
+
+   this article by Adam Connor
+Permalink
+Software Development
+
+
+   2004
+
+   2005
+
+   OOPSLA 2006
+
+   call for tutorial proposals
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   it said
+
+   create my own problems
+
+   speculates on why
+
+   written before
+Permalink
+Software Development
+Teaching and Learning
+
+
+
+
+   Electron Blue
+
+   experiments in art
+
+   Robert Root-Bernstein
+
+   Three Bears Pattern
+
+   pedagogical patterns
+
+   OOPSLA 2006
+
+   Ook!
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   a former undergraduate student
+
+   ThoughtWorks University
+
+   zoomable user interfaces
+
+   entrepreneurial opportunities
+Permalink
+Software Development
+Teaching and Learning
+
+
+I = k|P|
+
+   Aerosmith
+
+   Ward Cunningham said
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   here
+
+   here
+
+        GIMP
+
+        Photoshop
+
+        original GIMP announcement
+
+        oldie but goodie
+
+        Theory of Self-Reproducing Automata
+
+        Uncle Bob
+
+        Bill McCarthy
+Permalink
+Computing
+General
+Software Development
+Teaching and Learning
+
+
+   Earth Science department
+
+   Marcia Bjornerud
+
+   Lawrence University
+
+   Reading the Rocks: The Autobiography of the Earth
+
+   share the thrill
+
+   metaphor
+
+   palimpsest
+
+   (sound familiar?)
+
+   SIGCSE paper
+
+   On Writing
+
+   Ball World
+
+   eToys
+
+   Spiral
+
+   string theory
+
+   A Mathematician's Apology
+Permalink
+General
+Patterns
+Software Development
+Teaching and Learning
+
+
+   contacted by my local paper
+
+   article on local bloggers
+
+   Moskowitz Jacobs Inc.
+
+   What Does the iPod have in Common
+   with Prego Spaghetti Sauce?
+
+   Art and Fear
+
+that piece
+
+   here
+
+   here
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   OOPSLA 2005
+
+   OOPSLA 2005 wiki
+
+   Brian Foote
+
+   software devolution
+
+        The Morning of Extravagaria
+
+        Writing Exercises at Extravagaria
+
+        Morning at The Educators' Symposium
+
+        Ward Cunningham on Seeking and Exploiting Simplicity
+
+        A Panel of the Direction of CS Education
+
+        Robert Hass on Creativity
+
+        Sussman on Expressing Poorly-Understood Ideas in Programs
+
+        "Mechanistic"
+
+        James Boyk
+
+        Mary Beth Rosson on the End of Users
+
+        Martin Fowler on Finding Good Design
+
+        Grady Booch on Software Architecture Preservation
+
+        Part 1
+
+        Part 2
+
+        Part 3
+
+        Part 4
+
+        More on Safety and Freedom in the Extreme
+Permalink
+Computing
+General
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Educators Symposium
+
+   Are We Doomed?  Reframing the Discussion
+
+   Resolved: "Objects Early" Has Failed
+
+   Owen Astrachan
+
+   Robert Biddle
+
+   Alistair Cockburn
+
+   Brian Marick
+
+   Alan O'Callaghan
+
+   master
+
+   James Noble
+
+   Narcissus
+
+        famed on-line demo
+
+        Ruby on Rails
+
+        morning presentation
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   PragDave recently wrote
+
+   Ruby Extensions Project
+
+   recent efforts
+Permalink
+Patterns
+Software Development
+
+
+   Ideas for Startups
+
+   What I Did This Summer
+
+   Educators' Symposium keynote address
+Permalink
+Computing
+General
+Software Development
+
+
+   Educators' Symposium
+
+   Ward Cunningham
+
+   Wiki Symposium
+
+   morning's worth of activities
+
+   summary
+
+   Expert Systems
+
+   Pattern Languages of Program Design
+
+   CHECKS pattern language
+
+   You Aren't Gonna Need It
+
+   Dancing Naked in the Mind Field
+
+   my discussion of Mullis's book
+
+   do the simplest thing that could possibly work
+
+   you aren't gonna need it
+
+        Joe Bergin
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Gerry Sussman's talk at OOPSLA
+
+   James Boyk
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Handbook of Software Architecture
+
+   Ralph Johnson
+
+   Computer Museum
+
+   back-of-envelope calculation
+
+   software patterns community
+
+   Hints for Computer System Design
+
+   architecture program
+
+   current curriculum
+
+   web site
+
+   The Elements of Style
+
+   Strunk and White
+
+   Christopher Alexander
+
+   Edsger Dijkstra
+Permalink
+Computing
+Patterns
+Software Development
+
+
+   Extravagaria gang
+
+   John Dougan
+Permalink
+General
+Software Development
+
+
+   Gerald Sussman
+
+   Structure and Interpretation of Computer Programs
+
+   amazing series of papers
+
+   his talk
+
+   John Gribble
+
+   Robert Hass
+
+   Maxwell's equations
+
+   fundamentally new way
+
+   The Philosophy of Composition
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+ line-up of panelists
+
+        Structured Design
+
+        Structured Analysis and System Specification
+
+        Maxwell equations
+
+   Yoshimi Battles the Pink Robots
+
+        The Fountainhead
+
+        Barry Manilow
+
+   Grady Booch
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Onward! Films
+
+   Echoes
+
+   Lightning Talks
+
+   Programmers versus Users
+
+   Grady Booch
+
+   Brian Foote
+
+   George Platts
+
+   PLoP
+
+   Life of Pi
+
+   Patterns of Enterprise Application Architecture
+
+   James Noble
+
+   Echoes panel
+
+   Mary Beth Rosson
+Permalink
+Patterns
+Software Development
+
+
+   Robert Hass's keynote address
+
+   Ryan Dixon
+
+   Extravagaria
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Onward! keynote address
+
+   Mary Beth
+
+   EUSES
+
+        Whyline
+
+        WYSIWYT
+
+        Fixer Upper
+
+        PandapasPond.org
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   noted before
+
+   Extravagaria
+
+   Haiku
+
+   renga
+
+   Seasons Cease
+
+   Apollo 13
+
+   Robert Hass
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Dick Gabriel
+
+   Ralph Johnson
+
+   Robert Hass
+
+   Drive On
+
+   The Pickwick Papers
+
+   Extravagaria
+
+   A Beautiful Mind
+
+   The Odyssey
+
+   (remember him?)
+
+   creative habit
+
+   Linnaeus
+
+   closing panel
+
+   Joe Bergin
+
+   wrote about
+
+   Thanks again
+
+   sonnet
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   second consecutive year
+
+   Educators' Symposium
+
+   morning session at Extravagaria
+
+   Ward Cunningham's keynote address
+
+   closing panel
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   OOPSLA
+
+   all-day workshop
+
+   Extravagaria III: Hunting Creativity
+
+   Richard Gabriel
+
+   Elo system
+
+   Rebecca Rikner
+
+   Writers' Workshops and the Work of Making Things
+
+   Nat Pryce
+
+   On Writing
+
+   Ward Cunningham's keynote address
+
+   Educators' Symposium
+
+   Patterns as a Source of Freedom
+
+   Freedom Of Choice
+
+   National Geographic
+
+   Apocalypse Now
+
+   Educators' Symposium
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   math requirements for CS degrees
+
+   detailed exploration
+
+   Bloom's taxonomy
+
+   one I've written about before
+
+   Educators Symposium
+
+   OOPSLA 2005
+
+   Apprenticeship Agility in Academia
+
+   OOPSLA Educators Symposium
+Permalink
+Software Development
+Teaching and Learning
+
+
+   already written a similar piece
+
+   Programming is...
+Permalink
+Software Development
+
+
+   preparing to study computer science
+
+   SIGCSE
+
+   Lynn Andrea Stein
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   commonly-held view
+
+   learning from writers
+
+   wrote about last year
+
+   Nick Parlante
+
+   NameSurfer nifty assignment
+
+   Mike Clancy
+
+   Cat And Mouse nifty assignment
+
+   How to Design Programs
+
+   Polya's How to Solve It
+
+   controlled by aptitude
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Programming Ruby
+
+   OOPSLA tutorials
+
+   Why's (Poignant) Guide to Ruby
+
+   Java Rehab
+
+   The Case for Dynamic Languages
+
+   Paul Graham
+Permalink
+Computing
+Software Development
+
+
+   McCarthy's original Lisp interpreter
+
+   Roundabout
+
+   What happens when t approaches 0?
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   Thomas Friedman
+
+   international affairs columnist
+
+   The World Is Flat: A Brief History of the Twenty-First Century
+
+   Anti-Thomas Friedman Page
+
+   Des Moines Register
+
+   Narayana Murthy
+
+   the Bangalore of Japan
+
+   British East India Company
+
+   Mark Rupert
+
+   web page
+
+   Google
+
+   Yahoo!
+
+   Microsoft
+
+   Jeremy Zawodny's blog
+
+   Alan Kay
+
+   Chad Fowler
+
+    My Job Went to India
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+
+
+   PLoP 2005
+
+   PLoP
+
+   patterns as autopsy
+
+   patterns and change
+
+   patterns and myth
+
+   the wiki of the future
+
+   running
+
+   Allerton Park
+
+   spring planning meeting
+
+   OOPSLA 2005
+
+   ChiliPLoP
+
+   Hillside Group
+
+   mentioned the "patterns movement"
+
+   EuroPLoP
+Permalink
+Patterns
+Software Development
+
+
+   Oracle E-Business Suite
+
+   administrative computing at my alma mater
+
+   OracleAppsBlog
+
+   "the world's largest enterprise software company"
+
+   how to do better
+Permalink
+Software Development
+
+
+   Two Men and a Truck
+
+   first
+
+   Ph.D. advisor
+
+   favorite philosophy professor
+
+   C. S. Peirce
+
+   William James
+
+   John Dewey
+
+   Stephen Toulmin
+
+   second
+
+   I think that
+
+   How to Design Programs
+
+   working on for a while
+
+        a conservative lot
+
+        OOPSLA
+
+        Educators' Symposium
+
+        Apprenticeship Agility in Academia
+
+        Bill Wake
+
+   OOPSLA
+
+   Agile 200x
+
+   SIGCSE
+
+   Laurie Williams
+
+   MIT AI Lab
+
+   luck
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   league-leading total
+
+   I mentioned a few months ago
+
+   Twyla Tharp's "start with a box"
+
+   flashes of inspiration
+
+   been done with PowerPoint
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Planning Game
+
+   TDD
+
+   JUnit
+
+   something I read
+
+   Creating Passionate Users
+
+   Agile Advice
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Michigan State
+
+   closely related discipline
+
+   attending the Scottish Programming Languages Seminar
+
+   go learn it
+Permalink
+Software Development
+
+
+   this old Billy Crystal/Christopher Guest skit
+
+   Saturday Night Live
+
+   Interval training
+
+        recent half marathon
+
+   Twin Cities Marathon
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+
+   What do we know about teaching programming skills?
+Permalink
+Software Development
+Teaching and Learning
+
+
+   XP2005
+
+   panel
+
+   Coding Dojo workshop
+
+   Incipient(thoughts)
+
+   repeated practice
+
+   one of my earliest posts
+
+   etudes
+
+   katas
+
+   another essay
+
+   constrains the student, which frees her
+
+   Uncle Bob writes
+
+   Participating in a workshop
+
+   domain-driven design mailing list
+
+   Ralph Johnson
+Permalink
+Computing
+Patterns
+Software Development
+Teaching and Learning
+
+
+   move into the Big Office Downstairs
+
+   Jeopardy!
+
+   Ken Jennings
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   Waterloo Center for the Arts
+
+   Nancy Price
+
+   major motion picture
+
+   writing with XML
+
+   writing source code in text
+
+   novelists software
+Permalink
+Software Development
+
+
+   half marathon
+
+   my marathon last October
+
+   recent 5K
+
+   try to go faster than a sustainable pace
+
+   train for speed
+
+   Bill Murray film
+
+   "crunch mode" doesn't work
+
+    argued that crunch mode can work
+Permalink
+Running
+Software Development
+
+
+   Electron Blue
+
+   an essay
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   ability to change the compiler
+
+   Squeak
+
+   Blaine Buxton's blog
+
+   running a Squeak image headless
+Permalink
+Computing
+Software Development
+
+
+   Hiring is Obsolete
+
+   illustrative story
+
+   ViaWeb
+
+   Google
+
+   Silicon Valley and the Route 128 corridor
+
+   Great Midwest
+
+   Michigan State
+
+   Eric Sink
+
+   Hiring is Obsolete
+Permalink
+Software Development
+Teaching and Learning
+
+
+   AAAI
+
+   Gödel, Escher, Bach
+
+   Turing Test
+
+   Herb Simon
+Permalink
+Computing
+Software Development
+
+
+   this link
+
+   dynamite example
+Permalink
+Computing
+Software Development
+
+
+   Ben Hyde's blog
+
+   trust them with masterpieces
+
+   openness, transparency, and respect
+Permalink
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   Summer of Code
+
+   LispNYC
+
+   Summer Founders Program
+
+   Practice, practice, practice.
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   Stanley Fish
+
+   Devoid of Content
+
+   poem by Edna St. Vincent Millay
+
+   read books about writing
+
+   evaluating technical papers
+
+   unleashing creativity
+
+   real problems
+
+   compelling examples
+
+   compelling examples for CS1
+
+   start a conversation with them
+
+   spiral
+
+   How to Design Programs
+
+   Mark Guzdial
+
+   used in the past
+
+   Essentials of Programming Languages
+
+   blog entry by Brian Marick
+
+   one of my oldest blog entries
+
+   league-leading millions total
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   previous entry
+
+   Agile Moments
+
+   The Scholarly Rigor of Carlos Delgado
+
+   good enough for Donald Knuth
+
+   Zen Refactoring thread
+
+   Extract Class
+
+   his article
+
+   commented
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   My Favourite Smells
+
+   Primitive Obsession
+
+   Primitive Feature Envy
+
+   use Hungarian Notation
+
+   do the simplest thing that could possibly work
+
+   Domain-Driven Design
+
+   Three Bears pattern
+
+   Polymorphism Challenge
+
+   SIGCSE 2005
+
+   ICFP 2005 programming contest
+
+   Please share
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+Permalink
+General
+Managing and Leading
+Software Development
+Teaching and Learning
+
+
+   XP discussion list
+Permalink
+Managing and Leading
+Software Development
+
+
+   Making Wrong Code Look Wrong
+
+   leaky abstractions
+
+   Ada subtypes
+
+   Intention-revealing names
+Permalink
+Patterns
+Software Development
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Last time
+
+   Educators Symposium
+
+   Robert Biddle
+
+   practitioner reports
+
+   NCSA Mosaic
+
+   The Early History of Smalltalk
+
+   Paradigms of AI Programming
+
+   Designing Pascal Solutions
+
+   Marine Biology Case Study
+
+   share them
+Permalink
+Computing
+Software Development
+
+
+   Educators Symposium
+
+   successful form
+Permalink
+Computing
+Software Development
+
+
+   OOPSLA 2005
+
+   Educators Symposium
+
+   Town and Country Resort
+
+   Spring Sprint Triathlon and Biathlon
+
+   neat ideas in the works
+
+   essays
+
+   film festival
+Permalink
+General
+Software Development
+
+
+   old blog entry
+
+   Dr. Scheme
+
+   Dr. Java
+
+   introductory CS courses
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   XP discussion list
+
+   Merriam-Webster's definition
+
+   Owen Astrachan
+
+   accountability partner
+
+   Alcoholics Anonymous
+
+   tell the Internet
+
+   written a similar entry before
+Permalink
+Software Development
+Teaching and Learning
+
+
+   How to Start a Startup
+
+   big design up front
+
+   Undergraduation
+
+   What You'll Wish You'd Known
+Permalink
+Software Development
+
+
+   Bill Caputo points out
+
+   recent article
+
+   Working Effectively with Legacy Code
+
+   agile methods actor
+
+   this book
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Drawing on the Right Side of the Brain
+
+   entry
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   using agile software principles in my running
+
+   Big Visible Charts
+
+   losing a few pounds
+
+   occur in the real world, too
+Permalink
+General
+Patterns
+Running
+Software Development
+
+
+   PLoP
+
+   Brad Appleton
+
+   metaphor for software development
+Permalink
+Computing
+Software Development
+
+
+   this piece
+
+   The Physical Genius
+
+   short note on making mistakes
+Permalink
+Software Development
+Teaching and Learning
+
+
+   first learned
+
+   Mihaly Csikszentmihalyi
+
+   flow in learning
+
+   talks at OOPSLA
+
+   Alfred Lotka
+
+   long tail
+
+   power law
+
+   Mark Strand
+
+        Agile Alliance
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Deep Thoughts, by Jack Handy
+
+   ChiliPLoP 2005
+
+   SIGCSE 2005
+
+   co-leading a workshop with Joe Bergin
+
+   speaking in objects
+
+   Handbook of Software Architecture
+
+   one of his favorite books
+
+   Big Design Up Front
+
+   Abundant Mutation
+
+   quote
+
+   blog entry
+Permalink
+Software Development
+
+
+   The Paper Chase
+
+   1973 movie
+
+   John Houseman
+
+   Ball State University
+
+   John Houseman
+
+   The Paper Chase
+
+   Mr. Ha-a-a-rt
+
+   this entry
+Permalink
+Software Development
+Teaching and Learning
+
+
+   43 Folders
+
+   systems for improving oneself
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Pat Metheny said
+
+   cLabs wiki
+
+   reminds us
+
+   agents of change
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   muddled state of Groovy
+
+   Pyre
+
+   last message
+
+   even small changes in practice can grow
+   to large changes in capability
+Permalink
+Software Development
+Teaching and Learning
+
+
+   I get faster
+
+   Rule of 72
+
+   short essay
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+Permalink
+Software Development
+Teaching and Learning
+
+
+   http://bossavit.com/dojo/
+
+   performance art
+
+   Programming as Performance Art
+Permalink
+Software Development
+Teaching and Learning
+
+
+   extreme refactoring
+
+   Martin Fowler's
+
+   deepening one's understanding off polymorphism
+
+   ChiliPLoP 2003
+
+   Joe Bergin
+
+   this wiki page
+
+   Three Bears pattern
+
+   The Polymorphism Challenge
+
+   SIGCSE
+Permalink
+Patterns
+Software Development
+Teaching and Learning
+
+
+   OOPSLA
+
+   went well
+
+   Alan Kay's keynote
+
+   Ralph Johnson
+
+   Dick Gabriel
+
+   calls for submissions
+
+   Educators Symposium
+
+   Ward Cunningham
+
+   reported here
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Mihaly Csikszentmihalyi
+
+   earlier discussion here
+
+   Alan Kay's talks at OOPSLA
+Permalink
+Software Development
+Teaching and Learning
+
+
+   JUnit
+
+   BowlingGame
+Permalink
+Software Development
+Teaching and Learning
+
+
+   just blogged
+
+   Advice for Computer Science College Students
+
+   leaky abstractions
+
+   Back to Basics
+
+   leaky abstractions
+
+   Advice for Computer Science College Students
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   the Halting Problem
+
+   XP discussion list
+
+   Jason Yip
+
+   The Tyranny of Choice
+
+   The Paradox of Choice
+
+   Laffer curve
+
+   (Mike Feathers
+Permalink
+Software Development
+
+
+   Owen Astrachan
+
+   new blog
+
+   OOPSLA 2004
+
+
+
+   JUnit
+
+   Eclipse
+
+   even Haskell
+
+   (pdf)
+
+   The IDE Divide
+
+        future of programming
+
+        Software Engineering Institute
+
+   Croquet
+
+   eToys
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   (here
+
+   here)
+
+   John Mitchell
+
+   Erik Meade
+
+   Tom Carr
+
+   Sian Bielock
+
+   Psychological Science
+
+   short article from the NY Times
+
+   pre-print of the journal article
+
+   On the Fragility of Skilled Performance:
+   What Governs Choking Under Pressure?
+Permalink
+Software Development
+Teaching and Learning
+
+
+   blog entry
+
+   uneasy relationship
+
+   new ones
+Permalink
+Software Development
+
+
+   talk on developer testing
+
+   sustainable pace
+
+   tests and proofs
+
+   Alan Kay's talks at OOPSLA
+Permalink
+Software Development
+
+
+   Stuart Reges
+
+   old web page
+
+   quote I read
+
+   43 Folders
+
+   Marathon Man
+
+   Dustin Hoffman
+
+   Olivier
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Quotations for Learning Programming
+
+   Dijkstra as a test-driven developer
+
+   big design up front
+Permalink
+Software Development
+Teaching and Learning
+
+
+   speed training for software developers
+
+   Erik Meade's blog
+
+   commented on this idea
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+
+   one entry
+
+   another
+
+   blogged
+
+   Fartlek
+
+   Yasso 800s
+
+   Vector
+
+   size()
+
+   JUnit
+
+   hear what you think
+
+   first marathon
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+
+   Leonardo
+
+   Python
+
+   James Tauber
+
+   Poincare Conjecture
+
+   share information about software projects
+Permalink
+General
+Software Development
+
+
+   The Theory of Patches
+
+   Chad Fowler's
+Permalink
+Patterns
+Software Development
+
+
+   Knowing and Doing
+
+   started Knowing and Doing
+
+   puff piece
+
+        rite of initiation
+
+        nice little piece
+
+        Default Value Method
+Permalink
+General
+Software Development
+Teaching and Learning
+
+
+   Jason Yip
+
+   danger of accepting blame reflexively
+
+   Jerry Weinberg
+
+   here
+
+   here
+
+   workshopped
+
+   PLoP conferences
+
+   safe environment
+
+   It's Chet's Fault
+
+   C3 project
+Permalink
+Software Development
+Teaching and Learning
+
+
+   first men's basketball game
+
+   Made in USA
+
+   The Ketchup Conundrum
+
+   Art and Fear
+Permalink
+Software Development
+
+
+   running the Des Moines Marathon
+
+   long slow distance
+
+   psychotropic drug
+Permalink
+Running
+Software Development
+
+
+   Art and Fear
+
+   Richard Gabriel
+Permalink
+Running
+Software Development
+Teaching and Learning
+
+
+   Wednesday
+
+   The Pragmatic Programmer
+
+   JUnit
+
+   JUnit
+Permalink
+Software Development
+Teaching and Learning
+
+
+   recipe for project success
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Educators Symposium
+
+   Turing Award lecture
+
+   duck imprinting
+
+
+   Exploratorium
+
+   Sketchpad
+
+   Ph.D. dissertation
+
+   Squeakland
+
+   Squeak
+
+   Squeakers
+
+        Dan Ingalls
+
+        power of teams
+
+        JOSS
+
+   last time
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+OOPSLA
+
+   Nat Pryce writes
+
+   SeaSide
+
+   John Mellencamp song
+
+   Brian Marick writes
+Permalink
+Computing
+Software Development
+Teaching and Learning
+
+
+   body-as-kludge article
+Permalink
+Software Development
+
+
+   Brian Marick
+
+   methodology work as ontology work
+
+        Big Visible Charts
+
+        JUnit
+Permalink
+Software Development
+Teaching and Learning
+
+
+   Steve McConnell talk
+subtext
+FindBugs
+Robert Biddle
+Martin Fowler
+Dick Gabriel
+Ralph Johnson
+Steve McConnell
+blogged a couple of weeks ago
+Domain Driven Design
+Permalink
+Software Development
+
+
+   Code Complete 2
+
+        postmodernism theme
+Permalink
+Software Development
+
+
+   The Pragmatic Programmer
+
+   engineering
+
+   superstition in scientific method
+
+   the mundaneness of artistic craft
+
+   Richard Gabriel
+Permalink
+Software Development
+
+
+   blogged about an article
+
+   Steve Berczuk
+
+   available on-line
+Permalink
+Software Development
+
+
+   recent post
+
+   Scheme unit testing framework
+
+   JUnit
+
+   Eclipse
+
+   IntelliJ IDEA
+
+   refactoring tools page
+
+   refactoring functional programs
+
+   Haskell
+
+   Dr. Scheme group
+
+   let me know
+
+   let me know
+Permalink
+Software Development
+
+
+   Agile Software Development in the Large: Diving into the Deep
+Permalink
+Software Development
+
+JUnit
+Eclipse
+Ant
+
+   Go, Ale, go!
+
+   SchemeUnit
+
+   Clay Stone
+
+   City Slickers
+Permalink
+Software Development
+Teaching and Learning
+
+
+   The Pragmatic Programmer
+
+   bad code
+
+   article
+
+   Joe Bergin
+Permalink
+Software Development
+
+
+   About Kim
+Permalink
+Software Development
+
+Permalink
+Software Development
+
+
+   ANSI Common Lisp
+
+   TeachScheme!
+
+   nice little piece
+
+   Method Commenting
+
+   Syntax Procedure
+Permalink
+Software Development
+
+
+   Ghostbusters
+
+   homepage
+
+   What About Bob?
+
+   (Murray)
+
+  Richard Dreyfuss
+
+   pairing
+
+   test-first development
+
+   Do the Simplest Thing
+
+   small releases
+
+   Pragmatic Programmers
+
+   sustainable pace
+
+   Kathryn Erbe
+
+   Uncle Bob
+
+   pair again
+
+   Ron Jeffries
+
+   Death Therapy
+
+   Metaphor
+Permalink
+Software Development
+
+
+   convention-busting assumption of wiki
+
+   recent message
+Permalink
+General
+Software Development
+
+
+   PLoP
+Richard Gabriel
+
+   opening session
+Permalink
+Software Development
+
+
+   Good Day to Die
+Permalink
+Software Development
+Teaching and Learning
+
+
+        Implied Structure
+
+        methods that take arguments which change the meaning of the method
+
+        OOPSLA 2004
+
+        Educators Symposium
+
+        Objects, Patterns, Wiki and XP: All Systems of Names
+big fan
+Permalink
+Patterns
+Software Development
+
+Ryan Dixon
+how typing changes how we write
+my recent entry
+On Lisp
+Permalink
+Software Development
+
+Ball State
+share any ideas
+blog entry
+Permalink
+Software Development
+Teaching and Learning
+
+test-driven development tutorial
+Brian Marick
+Laurie Williams
+hear from you
+Permalink
+General
+Software Development
+
+writing patterns and pattern languages
+Permalink
+General
+Software Development
+
+SugarLoafPLoP
+test-driven development talk
+JML
+Clover
+Permalink
+General
+Software Development
+
+mock objects
+mocks
+with stubs
+Tell,
+Don't Ask
+Permalink
+Software Development
+
+Ryan Dixon
+Permalink
+Software Development
+
+upcoming tutorial on test-driven development
+SugarLoafPLoP 2004
+the value of refactoring
+Permalink
+Software Development
+
+Fourth Latin American
+Conference on the Pattern Languages of Programs
+Paulo Borba
+Rossana Andrade
+extreme programming
+Centro de Informática
+Universidade Federal de Pernambuco
+recent
+article
+Permalink
+General
+Software Development
+
+Malcolm Davis's blog
+Permalink
+Software Development
+
+Don Gotterbarn
+the
+distinction
+Permalink
+Software Development
+
+Extravagaria
+Richard Gabriel
+OOPSLA 2004
+Extravagaria
+Permalink
+Software Development
+Teaching and Learning
+
+Yasso
+800s
+lengthen
+my repeats
+Permalink
+Running
+Software Development
+
+Permalink
+Software Development
