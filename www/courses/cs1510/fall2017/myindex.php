@@ -238,7 +238,7 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Thu, 11/16
 			<td>
 			<td>Program design (continued)
-			<td><a class="hw">Assignment 9</a>
+			<td>
 
 		<tr class="break">
 			<td colspan="5">
@@ -253,7 +253,8 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Tue, 11/28
 			<td>
 			<td>Introducing sets
-			<td>
+            <td><a class="hw" href="homework/hw09.pdf">Assignment 9</a> | <a href="homework/holy-grail.txt">holy-grail.txt</a> | 
+                <a href="homework/stoplist.txt">stoplist.txt</a> | <a href="homework/html-functions.py">html-functions.py</a>
 		<tr>
 			<td>Wed, 11/29
 			<td>
