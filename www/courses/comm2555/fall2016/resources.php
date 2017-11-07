@@ -11,7 +11,7 @@
 
 <p>Suggested text editors: <a href="https://notepad-plus-plus.org/">Notepad++</a>, <a href="http://brackets.io/">Brackets</a> or TextEdit (the default Mac editor). However, there are <a href="https://en.wikipedia.org/wiki/List_of_text_editors">lots of great text editors</a> out there. If you are enjoy writing code, pick a serious text editor and learn to use it very well.  
 
-<p>Suggested FTP clients: <a href="https://filezilla-project.org/">FileZilla</a>, <a href="https://winscp.net">WinSCP</a> or <a href="https://cyberduck.io">Cyberduck</a>. 
+<p>Suggested FTP clients: <a href="https://winscp.net">WinSCP</a> or <a href="https://cyberduck.io">Cyberduck</a>. 
 
 <h4>Code</h4>
 

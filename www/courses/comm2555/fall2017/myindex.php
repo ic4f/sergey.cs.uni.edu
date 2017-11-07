@@ -135,7 +135,7 @@
 			<td rowspan="2">10
 			<td>Tue, 10/24
 			<td>Williams, ch. 4, 5
-			<td>Design principles: repetition and contrast
+			<td><a href="sessions/design2.pdf">Design principles: repetition and contrast</a>
 			<td>
 		<tr>
 			<td>Thu, 10/26
