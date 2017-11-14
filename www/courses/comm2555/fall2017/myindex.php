@@ -168,7 +168,7 @@
 			<td rowspan="2">13
 			<td>Tue, 11/14
 			<td>online (TBD)
-			<td>Building web sites: web page structure
+			<td><a href="sessions/webpages.pdf">Building web sites: web page structure</a>
 			<td><a class="hw" href="homework/5.pdf">Assignment 5</a>
 		<tr>
 			<td>Thu, 11/16
