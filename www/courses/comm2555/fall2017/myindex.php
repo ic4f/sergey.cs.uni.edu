@@ -146,7 +146,7 @@
 			<td rowspan="2">11
 			<td>Tue, 10/31
 			<td>Williams, ch. 7
-			<td>Designing with color
+			<td><a href="sessions/color.pdf">Design principles: designing with color</a>
 			<td>
 		<tr>
 			<td>Thu, 11/02
@@ -157,7 +157,7 @@
 			<td rowspan="2">12
 			<td>Tue, 11/07
 			<td>Williams, ch. 10-12
-			<td>Typography
+			<td><a href="sessions/typography.pdf">Design principles: typography</a>
 			<td><a class="hw" href="homework/4.pdf">Assignment 4</a>
 		<tr>
 			<td>Thu, 11/09
@@ -173,7 +173,7 @@
 		<tr>
 			<td>Thu, 11/16
 			<td>
-			<td>Lab 10: CSS review + elements of layout
+			<td class="lab"><a href="labs/lab10.pdf">Lab 10: CSS review + elements of layout</a> | <a href="labs/lab10.html">lab file</a>
 			<td>
 		<tr class="break">
 			<td colspan="5">
@@ -189,7 +189,7 @@
 		<tr>
 			<td>Thu, 11/30
 			<td>
-			<td>Lab 11: CSS layout
+			<td class="lab"><a href="labs/lab11.pdf">Lab 11: CSS layout</a> | <a href="labs/lab11.zip">lab files</a>
 			<td><a class="hw" href="homework/6.pdf">Assignment 6</a>
 		<tr class="week">
 			<td rowspan="2">15
