@@ -221,13 +221,13 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 11/09
 			<td>
-			<td>Namespaces and Memory
+			<td>Namespaces and Memory | <a href="sessions/110917.pdf">slides</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">13
 			<td>Tue, 11/14
 			<td>
-			<td>Functional decomposition
+			<td>Functional decomposition | <a href="sessions/111417.pdf">slides</a>
 			<td>
 		<tr>
 			<td>Wed, 11/15
