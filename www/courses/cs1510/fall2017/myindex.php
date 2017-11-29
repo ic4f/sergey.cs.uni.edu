@@ -252,9 +252,9 @@ The two primary goals are to introduce the general field of computer science and
 			<td rowspan="3">14
 			<td>Tue, 11/28
 			<td>
-			<td>Introducing sets
-            <td><a class="hw" href="homework/hw09.pdf">Assignment 9</a> | <a href="homework/holy-grail.txt">holy-grail.txt</a> | 
-                <a href="homework/stoplist.txt">stoplist.txt</a> | <a href="homework/html-functions.py">html-functions.py</a>
+            <td>Introducing sets | <a href="sessions/112817-cohesion.pdf">functional cohesion</a> | 
+                <a href="sessions/112817-tree.pdf">a game of war</a> | <a href="sessions/112817-sets.pdf">sets</a>
+			<td>
 		<tr>
 			<td>Wed, 11/29
 			<td>
@@ -270,7 +270,8 @@ The two primary goals are to introduce the general field of computer science and
 			<td>Tue, 12/05
 			<td>
 			<td>Intro to sorting
-			<td><a class="hw">Assignment 10</a>
+            <td><a class="hw" href="homework/hw09.pdf">Assignment 9</a> | <a href="homework/holy-grail.txt">holy-grail.txt</a> | 
+                <a href="homework/stoplist.txt">stoplist.txt</a> | <a href="homework/html-functions.py">html-functions.py</a>
 		<tr>
 			<td>Wed, 12/06
 			<td>
