@@ -263,13 +263,13 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 11/30
 			<td>
-			<td>Intro to searching
+			<td>Intro to searching | <a href="sessions/113017.pdf">slides</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">15
 			<td>Tue, 12/05
 			<td>
-			<td>Intro to sorting
+			<td>Searching (cont.)
             <td><a class="hw" href="homework/hw09.pdf">Assignment 9</a> | <a href="homework/holy-grail.txt">holy-grail.txt</a> | 
                 <a href="homework/stoplist.txt">stoplist.txt</a> | <a href="homework/html-functions.py">html-functions.py</a>
 		<tr>
@@ -280,7 +280,7 @@ The two primary goals are to introduce the general field of computer science and
 		<tr>
 			<td>Thu, 12/07
 			<td>
-			<td>Wrap-up and final review
+			<td><a href="sessions/120717.pdf">Wrap-up and final review</a>
 			<td>
 		<tr class="week">
 			<td rowspan="3">16
