@@ -7,6 +7,20 @@ $site['/'] = 'Home';
 $site['/courses/cs1120/archive'] = 'CS 1120: Media Computation Course Archive';
 $site['/courses/digital_history'] = 'COMM/HIST 4159/5159: Digital History'; 
 
+# SPRING 2018 -------------------------------------------------------------- #
+
+# CS1120 ------------------------------------------------------------------- #
+$site['/courses/cs1120/spring2018'] = 'CS 1120: Media Computation';
+$site['/courses/cs1120/spring2018/resources'] = 'Resources';
+$site['/courses/cs1120/spring2018/credits'] = 'Credits';
+$site['/courses/cs1120/spring2018/homework/0'] = 'Assignment 0: Intro to Computer Science and Digital Media';
+
+# COMM2555 ----------------------------------------------------------------- #
+$site['/courses/comm2555/spring2018'] = 'COMM 2555: Interactive Digital Communication';
+$site['/courses/comm2555/spring2018/resources'] = 'Resources';
+
+
+
 
 # FALL 2017 -------------------------------------------------------------- #
 

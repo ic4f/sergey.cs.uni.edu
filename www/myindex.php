@@ -13,11 +13,10 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 <a id="courses"></a>
 <h3>My courses</h3>
 
-<h4>Current Semester: Fall 2017</h4>
+<h4>Current Semester: Spring 2018</h4>
 <ul>
-    <li><a href="courses/comm2555/fall2017">COMM 2555: Interactive Digital Communication</a>
-    <li><a href="courses/cs1510/fall2017">CS 1510: Introduction to Computing</a>
-    <li>CS 3110: Web Application Development <span class="comment"> / independent study</span>
+    <li><a href="courses/cs1120/spring2018">CS 1120: Media Computation</a>
+    <li><a href="courses/comm2555/spring2018">COMM 2555: Interactive Digital Communication</a>
 </ul>
 
 <h4>Previous Semesters</h4>
@@ -27,6 +26,9 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 </style>
 
 <ul>
+    <li><a href="courses/cs1510/fall2017">CS 1510: Introduction to Computing</a> <span class="comment"> / Fall 2017</span>
+    <li><a href="courses/comm2555/fall2017">COMM 2555: Interactive Digital Communication</a> <span class="comment"> / Fall 2017</span>
+    <li>CS 3110: Web Application Development <span class="comment"> / independent study</span> <span class="comment"> / Fall 2017</span>
     <li><a href="courses/cs1120/spring2017">CS 1120: Media Computation</a> <span class="comment"> / Spring 2017</span>
     <li><a href="courses/comm2555/spring2017">COMM 2555: Interactive Digital Communication</a> <span class="comment"> / Spring 2017</span>
     <li><a href="courses/cs1100/fall2016">CS 1100: Web Development: Client-Side Coding</a> <span class="comment"> / Fall 2016</span>
