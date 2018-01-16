@@ -48,12 +48,12 @@
 			<td rowspan="2">2
 			<td>Tue, 01/16
 			<td>Ch. 1, 2
-			<td>
+			<td>Introduction to programming
 			<td><a class="hw" href="homework/0">Assignment 0</a>
 		<tr>
 			<td>Thu, 01/18
-			<td>
-			<td>
+			<td>Ch. 2
+			<td class="lab">Lab 2: Introduction to programming in Python 
 			<td>
 		<tr class="week">
 			<td rowspan="2">3
@@ -63,7 +63,7 @@
 			<td>
 		<tr>
 			<td>Thu, 01/25
-			<td>
+			<td>Ch. 4
 			<td>
 			<td>
 		<tr class="week">

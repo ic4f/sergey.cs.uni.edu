@@ -23,4 +23,191 @@
 
 <h3>Schedule</h3>
 
-<p>To be posted during week 1. 
+
+<table border=1 class="schedule days-2">
+	<thead>
+		<tr>
+			<th>Week
+			<th>Date
+			<th>Readings
+			<th>Sessions &amp; Labs
+			<th>Assignments
+	<tbody>
+		<tr class="week">
+			<td rowspan="2">1
+			<td>Tue, 01/09
+			<td>
+			<td>Introduction to the course
+			<td>
+		<tr>
+			<td>Thu, 01/11
+			<td>Duckett, Intro
+			<td><a href="sessions/01-internet.pdf">Introduction to the Internet and the WWW</a>
+			<td><a class="hw" href="https://bb9.uni.edu/">Assignment 0</a> (eLearning)
+		<tr class="week">
+			<td rowspan="2">2
+			<td>Tue, 01/16
+			<td>Duckett, Ch. 1
+			<td>Introduction to HTML
+			<td>
+		<tr>
+			<td>Thu, 01/18
+			<td>Duckett, Ch. 2
+			<td>Lab 1: Getting started with HTML 
+			<td>
+		<tr class="week">
+			<td rowspan="2">3
+			<td>Tue, 01/23
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 01/25
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">4
+			<td>Tue, 01/30
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 02/01
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">5
+			<td>Tue, 02/06
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 02/08
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">6
+			<td>Tue, 02/13
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 02/15
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">7
+			<td>Tue, 02/20
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 02/22
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">8
+			<td>Tue, 02/27
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 03/01
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">9
+			<td>Tue, 03/06
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 03/08
+			<td>
+			<td>
+			<td>
+		<tr class="break">
+			<td colspan="5">
+		<tr class="break">
+			<td colspan="5">
+		<tr class="week">
+			<td rowspan="2">10
+			<td>Tue, 03/20
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 03/22
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">11
+			<td>Tue, 03/27
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 03/29
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">12
+			<td>Tue, 04/03
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 04/05
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">13
+			<td>Tue, 04/10
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 04/12
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">14
+			<td>Tue, 04/17
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 04/19
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">15
+			<td>Tue, 04/24
+			<td>
+			<td>
+			<td>
+		<tr>
+			<td>Thu, 04/26
+			<td>
+			<td>
+			<td>
+		<tr class="week">
+			<td rowspan="2">16
+			<td>
+			<td>
+			<td>Final project
+			<td>
+</table>
+
+
