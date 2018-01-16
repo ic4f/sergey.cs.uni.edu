@@ -48,7 +48,7 @@
 			<td rowspan="2">2
 			<td>Tue, 01/16
 			<td>Duckett, Ch. 1
-			<td>Introduction to HTML
+			<td><a href="sessions/02-html.pdf">Introduction to HTML</a>
 			<td>
 		<tr>
 			<td>Thu, 01/18
