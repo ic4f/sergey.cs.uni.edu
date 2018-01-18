@@ -3,7 +3,7 @@
 
 <p>To access tutorials, first login at <a href="http://lynda.uni.edu">lynda.uni.edu</a>
 
-<h4>Friday, March 24</h4>
+<h4>Thursday, March 1</h4>
 
 <h5>Essential Training / Ch. 6: Working with layers</h5>
 
@@ -23,7 +23,7 @@
     <li><a href="https://www.lynda.com/Photoshop-tutorials/Making-selections-based-focus/372339/414377-4.html">Making selections based on focus</a>
 </ul>
 
-<h4>Friday, March 31</h4>
+<h4>Thursday, March 8</h4>
 
 <h5>Compositing / Ch. 1: Why composite images?</h5>
 
@@ -56,7 +56,7 @@
     <li><a href="https://www.lynda.com/Photoshop-tutorials/Converting-Layers-Smart-Objects/372339/414361-4.html">Converting Layers to Smart Objects</a>
 </ul>
 
-<h4>Friday, April 7</h4>
+<h4>Thursday, March 22</h4>
 
 <h5>Essential Traning / Ch. 12: Adjustment layer essentials</h5>
 

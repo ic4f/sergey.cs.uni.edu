@@ -21,7 +21,7 @@
 
 <br style="clear:all">
 
-<h3>Schedule</h3>
+<h3>Tentative Schedule</h3>
 
 
 <table border=1 class="schedule days-2">
@@ -43,7 +43,7 @@
 			<td>Thu, 01/11
 			<td>Duckett, Intro
 			<td><a href="sessions/01-internet.pdf">Introduction to the Internet and the WWW</a>
-			<td><a class="hw" href="https://bb9.uni.edu/">Assignment 0</a> (eLearning)
+			<td><a class="hw" href="https://bb9.uni.edu/">Assignment 1</a>
 		<tr class="week">
 			<td rowspan="2">2
 			<td>Tue, 01/16
@@ -53,84 +53,84 @@
 		<tr>
 			<td>Thu, 01/18
 			<td>Duckett, Ch. 2
-			<td>Lab 1: Getting started with HTML 
+			<td class="lab"><a href="labs/lab01.pdf">Lab 1: Getting started with HTML</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">3
 			<td>Tue, 01/23
-			<td>
-			<td>
+			<td>Duckett, Ch. 3, 6
+			<td>HTML: Document structure, more elements, semantics, validation
 			<td>
 		<tr>
 			<td>Thu, 01/25
 			<td>
-			<td>
+			<td class="lab">Lab 2: HTML common elements
 			<td>
 		<tr class="week">
 			<td rowspan="2">4
 			<td>Tue, 01/30
-			<td>
-			<td>
-			<td>
+			<td>Duckett, Ch. 4, 5
+			<td>HTML: Images and hyperlinks
+            <td>Assignment 2 (due Monday 1/29)
 		<tr>
 			<td>Thu, 02/01
 			<td>
-			<td>
+			<td class="lab">Lab 3: Building a simple website: linking pages; adding images
 			<td>
 		<tr class="week">
 			<td rowspan="2">5
 			<td>Tue, 02/06
-			<td>
-			<td>
+			<td>Duckett, Ch. 8, 10
+			<td>CSS: Styling text and colors
 			<td>
 		<tr>
 			<td>Thu, 02/08
-			<td>
-			<td>
+			<td>Duckett, Ch. 11, 12
+			<td class="lab">Lab 4: Intro to CSS
 			<td>
 		<tr class="week">
 			<td rowspan="2">6
 			<td>Tue, 02/13
-			<td>
-			<td>
+			<td>Duckett, Ch. 13
+			<td>CSS: The box model; styling lists, tables, etc.
 			<td>
 		<tr>
 			<td>Thu, 02/15
-			<td>
-			<td>
+			<td>Duckett, Ch. 14
+			<td class="lab">Lab 5: The box model
 			<td>
 		<tr class="week">
 			<td rowspan="2">7
 			<td>Tue, 02/20
 			<td>
-			<td>
-			<td>
+			<td>HTML and CSS review
+            <td>Assignment 3 (due Monday 2/19)
 		<tr>
 			<td>Thu, 02/22
 			<td>
-			<td>
+			<td>Exam 1
 			<td>
 		<tr class="week">
 			<td rowspan="2">8
 			<td>Tue, 02/27
-			<td>
-			<td>
+			<td><a href="http://www.nytimes.com/2006/06/26/arts/26crea.html">In Digital Age...</a>
+			<td>Exam debrief; Creative Commons
 			<td>
 		<tr>
 			<td>Thu, 03/01
-			<td>
-			<td>
+			<td><a href="tutorials">Lynda.com tutorials</a>
+			<td class="lab">Lab 6: Photoshop-1
 			<td>
 		<tr class="week">
 			<td rowspan="2">9
 			<td>Tue, 03/06
-			<td>
-			<td>
+			<td>Williams, Ch. 1, 2, 3 
+			<td>Design principles: proximity and alignment; related CSS
 			<td>
 		<tr>
 			<td>Thu, 03/08
-			<td>
-			<td>
+			<td><a href="tutorials">Lynda.com tutorials</a>
+			<td class="lab">Lab 7: Photoshop-2
 			<td>
 		<tr class="break">
 			<td colspan="5">
@@ -139,68 +139,68 @@
 		<tr class="week">
 			<td rowspan="2">10
 			<td>Tue, 03/20
-			<td>
-			<td>
+			<td>Williams, Ch. 4, 5
+			<td>Design principles: repetition and contrast; related CSS
 			<td>
 		<tr>
 			<td>Thu, 03/22
-			<td>
-			<td>
+			<td><a href="tutorials">Lynda.com tutorials</a>
+			<td class="lab">Lab 8: Photoshop-3
 			<td>
 		<tr class="week">
 			<td rowspan="2">11
 			<td>Tue, 03/27
-			<td>
-			<td>
-			<td>
+			<td>Williams, Ch. 7, 10-12
+			<td>Design principles: color and typography; related CSS
+            <td>Assignment 4 (due Monday 3/26)
 		<tr>
 			<td>Thu, 03/29
 			<td>
-			<td>
+			<td class="lab">Lab 9: Design principles
 			<td>
 		<tr class="week">
 			<td rowspan="2">12
 			<td>Tue, 04/03
 			<td>
-			<td>
+			<td>Review
 			<td>
 		<tr>
 			<td>Thu, 04/05
 			<td>
-			<td>
+			<td>Exam 2
 			<td>
 		<tr class="week">
 			<td rowspan="2">13
 			<td>Tue, 04/10
-			<td>
-			<td>
+			<td>TBD
+			<td>Exam debrief; building websites
 			<td>
 		<tr>
 			<td>Thu, 04/12
 			<td>
-			<td>
+			<td class="lab">Lab 10: Designing web pages
 			<td>
 		<tr class="week">
 			<td rowspan="2">14
 			<td>Tue, 04/17
-			<td>
-			<td>
-			<td>
+			<td>Ducket, Ch. 15, 16
+			<td>CSS layout
+            <td>Assignment 5 (due Monday 4/16)
 		<tr>
 			<td>Thu, 04/19
 			<td>
-			<td>
+			<td class="lab">Lab 11: CSS layout-1
 			<td>
 		<tr class="week">
 			<td rowspan="2">15
 			<td>Tue, 04/24
 			<td>
-			<td>
+			<td>CSS layout (cont.); CSS frameworks
 			<td>
 		<tr>
 			<td>Thu, 04/26
-			<td>
-			<td>
+			<td>TBD
+			<td class="lab">Lab 12: CSS layout-2
 			<td>
 		<tr class="week">
 			<td rowspan="2">16
