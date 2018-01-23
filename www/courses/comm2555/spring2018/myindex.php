@@ -59,12 +59,12 @@
 			<td rowspan="2">3
 			<td>Tue, 01/23
 			<td>Duckett, Ch. 3, 6
-			<td>HTML: Document structure, more elements, semantics, validation
+            <td>HTML: Document structure, more elements, semantics, validation | <a href="sessions/03-html.pdf">slides</a>
 			<td>
 		<tr>
 			<td>Thu, 01/25
 			<td>
-			<td class="lab">Lab 2: HTML common elements
+			<td class="lab"><a href="labs/lab2.pdf">Lab 2: Practicing HTML</a> | <a href="labs/lab2.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">4
