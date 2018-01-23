@@ -71,7 +71,7 @@
 			<td>Tue, 01/30
 			<td>Duckett, Ch. 4, 5
 			<td>HTML: Images and hyperlinks
-            <td>Assignment 2 (due Monday 1/29)
+            <td><a class="hw" href="homework/hw2.pdf">Assignment 2 (due Monday 1/29)</a>
 		<tr>
 			<td>Thu, 02/01
 			<td>
