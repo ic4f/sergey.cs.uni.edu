@@ -59,34 +59,34 @@
 			<td rowspan="2">3
 			<td>Tue, 01/23
 			<td>Ch. 4
-			<td>
+            <td>Encoding images; manipulating pixels; introduction to loops | <a href="http://coweb.cc.gatech.edu/mediaComp-teach/uploads/60/Ch04-ModifyingPicturesUsingLoops.1.ppt">textbook slides</a>
 			<td>
 		<tr>
 			<td>Thu, 01/25
 			<td>Ch. 4
-			<td>
+			<td class="lab"><a href="labs/lab03.pdf">Lab 3: Manipulating images with loops</a> | <a href="labs/lab03r.pdf">response sheet</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">4
 			<td>Tue, 01/30
-			<td>
-			<td>
+			<td>Ch.4, 5
+			<td>Changing colors; basic effects; loops (cont.)
 			<td>
 		<tr>
 			<td>Thu, 02/01
-			<td>
-			<td>
+			<td>Ch. 5
+			<td class="lab">Lab 4
 			<td>
 		<tr class="week">
 			<td rowspan="2">5
 			<td>Tue, 02/06
 			<td>
 			<td>
-			<td>
+			<td><a class="hw" href="homework/hw01.pdf">Assignment 1 (due Monday 2/5)</a>
 		<tr>
 			<td>Thu, 02/08
 			<td>
-			<td>
+			<td class="lab">Lab 5
 			<td>
 		<tr class="week">
 			<td rowspan="2">6
@@ -97,14 +97,14 @@
 		<tr>
 			<td>Thu, 02/15
 			<td>
-			<td>
+			<td class="lab">Lab 6
 			<td>
 		<tr class="week">
 			<td rowspan="2">7
 			<td>Tue, 02/20
 			<td>
 			<td>
-			<td>
+			<td>Assignment 2 (due Monday 2/19)
 		<tr>
 			<td>Thu, 02/22
 			<td>
