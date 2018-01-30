@@ -70,7 +70,7 @@
 			<td rowspan="2">4
 			<td>Tue, 01/30
 			<td>Ch.4, 5
-			<td>Changing colors; basic effects; loops (cont.)
+			<td>Changing colors; basic effects; loops (cont.) | <a href="code/code013018.py">code from class</a>
 			<td>
 		<tr>
 			<td>Thu, 02/01
