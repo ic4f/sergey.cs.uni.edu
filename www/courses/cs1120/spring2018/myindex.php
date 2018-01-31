@@ -69,13 +69,13 @@
 		<tr class="week">
 			<td rowspan="2">4
 			<td>Tue, 01/30
-			<td>Ch.4, 5
+			<td>Ch. 4, 5
 			<td>Changing colors; basic effects; loops (cont.) | <a href="code/code013018.py">code from class</a>
 			<td>
 		<tr>
 			<td>Thu, 02/01
 			<td>Ch. 5
-			<td class="lab">Lab 4
+			<td class="lab"><a href="labs/lab04.pdf">Lab 4: Using conditional statements to change color</a> | <a href="labs/lab04r.pdf">response sheet</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">5
