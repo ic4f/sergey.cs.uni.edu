@@ -75,7 +75,7 @@
 		<tr>
 			<td>Thu, 02/01
 			<td>
-			<td class="lab">Lab 3: Building a simple website: linking pages; adding images
+			<td class="lab"><a href="labs/lab03.pdf">Lab 3: Building a simple website: linking pages; adding images</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">5
