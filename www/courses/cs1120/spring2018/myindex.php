@@ -80,31 +80,31 @@
 		<tr class="week">
 			<td rowspan="2">5
 			<td>Tue, 02/06
-			<td>
-			<td>
+			<td>Ch. 5
+			<td>Accessing pixels by index; range() and len(); <a href="media/redeye.jpg">red eye</a> removal | <a href="code/code020618.py">code from class</a>
 			<td><a class="hw" href="homework/hw01.pdf">Assignment 1 (due Monday 2/5)</a>
 		<tr>
 			<td>Thu, 02/08
-			<td>
+			<td>Ch. 5
 			<td class="lab"><a href="labs/lab05.pdf">Lab 5: Selective color manipulation</a> | <a href="media/rose.jpg">rose.jpg</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">6
 			<td>Tue, 02/13
-			<td>
-			<td>
+			<td>Ch. 6
+			<td>Nested loops
 			<td>
 		<tr>
 			<td>Thu, 02/15
-			<td>
+			<td>Ch. 6
 			<td class="lab">Lab 6
 			<td>
 		<tr class="week">
 			<td rowspan="2">7
 			<td>Tue, 02/20
+			<td>Ch. 6
 			<td>
-			<td>
-			<td>Assignment 2 (due Monday 2/19)
+			<td><a class="hw" href="homework/hw02.pdf">Assignment 2 (due Monday 2/19)</a>
 		<tr>
 			<td>Thu, 02/22
 			<td>
