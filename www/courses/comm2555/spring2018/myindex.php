@@ -81,12 +81,12 @@
 			<td rowspan="2">5
 			<td>Tue, 02/06
 			<td>Duckett, Ch. 8, 10
-			<td>CSS: Styling text and colors
+			<td><a href="sessions/05-css.pdf">CSS: Intro; styling text and colors</a>
 			<td>
 		<tr>
 			<td>Thu, 02/08
 			<td>Duckett, Ch. 11, 12
-			<td class="lab">Lab 4: Intro to CSS
+			<td class="lab"><a href="labs/lab04.pdf">Lab 4: Intro to CSS</a> | <a href="labs/lab04.zip">lab file</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">6
