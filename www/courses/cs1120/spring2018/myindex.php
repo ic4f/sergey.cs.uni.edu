@@ -86,7 +86,7 @@
 		<tr>
 			<td>Thu, 02/08
 			<td>
-			<td class="lab">Lab 5
+			<td class="lab"><a href="labs/lab05.pdf">Lab 5: Selective color manipulation</a> | <a href="media/rose.jpg">rose.jpg</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">6
