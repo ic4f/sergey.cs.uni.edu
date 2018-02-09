@@ -104,7 +104,7 @@
 			<td>Tue, 02/20
 			<td>
 			<td>HTML and CSS review
-            <td>Assignment 3 (due Monday 2/19)
+            <td><a class="hw" href="homework/hw3.pdf">Assignment 3 (due Monday 2/19)</a> | <a href="homework/source.txt">source.txt</a>
 		<tr>
 			<td>Thu, 02/22
 			<td>
