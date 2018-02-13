@@ -92,7 +92,11 @@
 			<td rowspan="2">6
 			<td>Tue, 02/13
 			<td>Ch. 6
-			<td>Nested loops
+            <td>Revisiting conditional statements, boolean expressions and logical operators; nested loops
+<a href="code/code021318.py">code from class</a> | 
+<a href="media/redeye.jpg">red eye</a> |
+<a href="media/tc.jpg">TC</a> |
+<a href="media/js.jpg">Jon Snow</a>
 			<td>
 		<tr>
 			<td>Thu, 02/15
