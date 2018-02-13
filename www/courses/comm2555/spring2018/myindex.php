@@ -92,12 +92,12 @@
 			<td rowspan="2">6
 			<td>Tue, 02/13
 			<td>Duckett, Ch. 13
-			<td>CSS: The box model; styling lists, tables, etc.
+			<td><a href="sessions/06-css.pdf">CSS: The box model; styling lists, tables, etc.</a>
 			<td>
 		<tr>
 			<td>Thu, 02/15
 			<td>Duckett, Ch. 14
-			<td class="lab">Lab 5: The box model
+			<td class="lab"><a href="labs/lab05.pdf">Lab 5: The box model</a> | <a href="labs/gallery.html">lab file</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">7
