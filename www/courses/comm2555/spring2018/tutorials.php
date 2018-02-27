@@ -5,6 +5,10 @@
 
 <h4>Thursday, March 1</h4>
 
+<h5>Essential Training / Ch. 1: Photoshop interfase essentials</h5>
+<ul>
+<li><a href="https://www.lynda.com/Photoshop-tutorials/Opening-files-Photoshop/372339/507796-4.html">Recommended: all 8 parts (if no prior experience)</a>
+</ul>
 <h5>Essential Training / Ch. 6: Working with layers</h5>
 
 <ul>

@@ -113,24 +113,25 @@
 		<tr class="week">
 			<td rowspan="2">8
 			<td>Tue, 02/27
-			<td><a href="http://www.nytimes.com/2006/06/26/arts/26crea.html">In Digital Age...</a>
-			<td>Exam debrief; Creative Commons
+			<td>Williams, Ch. 1, 2, 3 
+			<td><a href="sessions/design1.pdf">Design principles: proximity and alignment; Intro to Photoshop</a>
 			<td>
 		<tr>
 			<td>Thu, 03/01
 			<td><a href="tutorials">Lynda.com tutorials</a>
-			<td class="lab">Lab 6: Photoshop-1
+			<td class="lab"><a href="https://bb9.uni.edu/">Lab 6: Photoshop-1</a> (posted on elearning)
 			<td>
 		<tr class="week">
 			<td rowspan="2">9
 			<td>Tue, 03/06
-			<td>Williams, Ch. 1, 2, 3 
-			<td>Design principles: proximity and alignment; related CSS
+			<td><a href="http://www.nytimes.com/2006/06/26/arts/26crea.html">In Digital Age...</a>
+            <td><a href="sessions/cc.pdf">Copyright, Public Domain, and the Creative Commons</a>;
+                <br>Design principles (continued)
 			<td>
 		<tr>
 			<td>Thu, 03/08
 			<td><a href="tutorials">Lynda.com tutorials</a>
-			<td class="lab">Lab 7: Photoshop-2
+			<td class="lab"><a href="https://bb9.uni.edu/">Lab 7: Photoshop-2</a> (posted on elearning)
 			<td>
 		<tr class="break">
 			<td colspan="5">
@@ -140,12 +141,12 @@
 			<td rowspan="2">10
 			<td>Tue, 03/20
 			<td>Williams, Ch. 4, 5
-			<td>Design principles: repetition and contrast; related CSS
+			<td><a href="sessions/design2.pdf">Design principles: repetition and contrast</a>
 			<td>
 		<tr>
 			<td>Thu, 03/22
 			<td><a href="tutorials">Lynda.com tutorials</a>
-			<td class="lab">Lab 8: Photoshop-3
+			<td class="lab"><a href="https://bb9.uni.edu/">Lab 8: Photoshop-3</a> (posted on elearning)
 			<td>
 		<tr class="week">
 			<td rowspan="2">11
