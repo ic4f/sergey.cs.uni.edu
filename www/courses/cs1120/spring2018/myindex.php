@@ -101,13 +101,13 @@
 		<tr>
 			<td>Thu, 02/15
 			<td>Ch. 6
-			<td class="lab">Lab 6
+			<td>Accessing pixels by index (cont.); mirror effect, copying
 			<td>
 		<tr class="week">
 			<td rowspan="2">7
 			<td>Tue, 02/20
-			<td>Ch. 6
 			<td>
+			<td>Exam review
 			<td><a class="hw" href="homework/hw02.pdf">Assignment 2 (due Monday 2/19)</a>
 		<tr>
 			<td>Thu, 02/22
@@ -117,24 +117,25 @@
 		<tr class="week">
 			<td rowspan="2">8
 			<td>Tue, 02/27
-			<td>
-			<td>
+			<td>Ch. 6
+			<td>Copying and transforming pictures (cont.)
 			<td>
 		<tr>
 			<td>Thu, 03/01
-			<td>
-			<td>
+			<td>Ch. 6
+            <td class="lab"><a href="labs/lab06.pdf">Lab 6: Blending images</a> | 
+                <a href="media/lab6.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">9
 			<td>Tue, 03/06
-			<td>
-			<td>
+			<td>Ch. 6.3, 4.4
+			<td>Functional decomposition; generalizing a function
 			<td>
 		<tr>
 			<td>Thu, 03/08
 			<td>
-			<td>
+			<td>Lab 7: Making a collage
 			<td>
 		<tr class="break">
 			<td colspan="5">
@@ -156,7 +157,7 @@
 			<td>Tue, 03/27
 			<td>
 			<td>
-			<td>
+			<td>Assignment 3 (due Monday 3/26)
 		<tr>
 			<td>Thu, 03/29
 			<td>
