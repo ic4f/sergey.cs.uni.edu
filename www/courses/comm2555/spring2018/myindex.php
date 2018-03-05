@@ -153,7 +153,7 @@
 			<td>Tue, 03/27
 			<td>Williams, Ch. 7, 10-12
 			<td>Design principles: color and typography; related CSS
-            <td>Assignment 4 (due Monday 3/26)
+			<td>Be prepared to discuss your project topic
 		<tr>
 			<td>Thu, 03/29
 			<td>
@@ -164,7 +164,7 @@
 			<td>Tue, 04/03
 			<td>
 			<td>Review
-			<td>
+            <td><a class="hw" href="homework/hw4.pdf">Assignment 4 (due Monday 4/2)</a>
 		<tr>
 			<td>Thu, 04/05
 			<td>
@@ -186,7 +186,7 @@
 			<td>Tue, 04/17
 			<td>Ducket, Ch. 15, 16
 			<td>CSS layout
-            <td>Assignment 5 (due Monday 4/16)
+            <td><a class="hw" href="homework/hw5.pdf">Assignment 5 (due Monday 4/16)</a>
 		<tr>
 			<td>Thu, 04/19
 			<td>
@@ -207,7 +207,7 @@
 			<td rowspan="2">16
 			<td>
 			<td>
-			<td>Final project
+			<td>Final project (posted on eLearning; due May 3)
 			<td>
 </table>
 
