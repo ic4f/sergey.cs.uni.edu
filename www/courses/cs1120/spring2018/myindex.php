@@ -124,7 +124,7 @@
 			<td>Thu, 03/01
 			<td>Ch. 6
             <td class="lab"><a href="labs/lab06.pdf">Lab 6: Blending images</a> | 
-                <a href="media/lab6.zip">lab files</a>
+                <a href="media/lab06.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">9
@@ -135,7 +135,8 @@
 		<tr>
 			<td>Thu, 03/08
 			<td>
-			<td>Lab 7: Making a collage
+            <td class="lab"><a href="labs/lab07.pdf">Lab 7: Making a collage</a> | 
+                <a href="media/lab07.zip">lab files</a>
 			<td>
 		<tr class="break">
 			<td colspan="5">
@@ -167,7 +168,7 @@
 			<td rowspan="2">12
 			<td>Tue, 04/03
 			<td>
-			<td>
+			<td>Exam review
 			<td>
 		<tr>
 			<td>Thu, 04/05
