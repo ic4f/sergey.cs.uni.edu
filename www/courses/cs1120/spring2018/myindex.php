@@ -145,25 +145,25 @@
 		<tr class="week">
 			<td rowspan="2">10
 			<td>Tue, 03/20
-			<td>
-			<td>
+			<td>Ch. 7
+			<td>Digital sound: encoding, changing the volume, clipping, normalization
 			<td>
 		<tr>
 			<td>Thu, 03/22
-			<td>
-			<td>
+			<td>Ch. 7
+			<td class="lab">Lab 8: Introduction to digital sound
 			<td>
 		<tr class="week">
 			<td rowspan="2">11
 			<td>Tue, 03/27
+			<td>Ch. 8
+			<td>Sound: splicing; generalized clip and copy
 			<td>
-			<td>
-			<td>Assignment 3 (due Monday 3/26)
 		<tr>
 			<td>Thu, 03/29
-			<td>
-			<td>
-			<td>
+			<td>Ch. 8
+			<td class="lab">Lab 9: Splicing sound
+			<td>Assignment 3 (due Thursday 3/29)
 		<tr class="week">
 			<td rowspan="2">12
 			<td>Tue, 04/03
