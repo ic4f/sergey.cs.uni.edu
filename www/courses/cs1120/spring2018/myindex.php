@@ -164,7 +164,7 @@
 			<td>Thu, 03/29
 			<td>Ch. 8
 			<td class="lab">Lab 9: Splicing sound
-			<td>Assignment 3 (due Thursday 3/29)
+			<td><a class="hw" href="homework/hw03.pdf">Assignment 3 (due Thursday 3/19)</a>
 		<tr class="week">
 			<td rowspan="2">12
 			<td>Tue, 04/03
