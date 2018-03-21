@@ -151,7 +151,8 @@
 		<tr>
 			<td>Thu, 03/22
 			<td>Ch. 7
-			<td class="lab">Lab 8: Introduction to digital sound
+            <td class="lab"><a href="labs/lab08.pdf">Lab 8: Introduction to digital sound</a> | 
+                <a href="labs/lab8_responses.rtf">response sheet</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">11
