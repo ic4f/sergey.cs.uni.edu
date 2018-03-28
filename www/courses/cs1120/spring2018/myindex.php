@@ -168,46 +168,46 @@
 		<tr class="week">
 			<td rowspan="2">12
 			<td>Tue, 04/03
-			<td>
-			<td>Exam review
+			<td>Ch. 9
+			<td>Blending sounds; echo effect, chords
 			<td>
 		<tr>
 			<td>Thu, 04/05
-			<td>
-			<td>Exam-2
+			<td>Ch. 9
+			<td>Lab 10
 			<td>
 		<tr class="week">
 			<td rowspan="2">13
 			<td>Tue, 04/10
 			<td>
-			<td>
-			<td>
+			<td>Exam review
+			<td><a class="hw" href="homework/4">Assignment 4 (due Monday 4/9)</a>
 		<tr>
 			<td>Thu, 04/12
 			<td>
-			<td>
+			<td>Exam-2
 			<td>
 		<tr class="week">
 			<td rowspan="2">14
 			<td>Tue, 04/17
-			<td>
-			<td>
+			<td>Ch. 3
+			<td>Working with text; introduction to strings
 			<td>
 		<tr>
 			<td>Thu, 04/19
-			<td>
-			<td>
+			<td>Ch. 3
+			<td>Lab 11
 			<td>
 		<tr class="week">
 			<td rowspan="2">15
 			<td>Tue, 04/24
-			<td>
-			<td>
+			<td>Ch. 11
+			<td>Dot notation; string methods
 			<td>
 		<tr>
 			<td>Thu, 04/26
-			<td>
-			<td>
+			<td>Ch. 11
+			<td>Reading and writing files
 			<td>
 		<tr class="week">
 			<td rowspan="2">16
