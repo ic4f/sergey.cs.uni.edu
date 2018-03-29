@@ -152,7 +152,7 @@
 			<td rowspan="2">11
 			<td>Tue, 03/27
 			<td>Williams, Ch. 7, 10-12
-			<td>Design principles: color and typography; related CSS
+			<td><a href="sessions/structure.pdf">Web design: web page structure</a>
 			<td>Be prepared to discuss your project topic
 		<tr>
 			<td>Thu, 03/29
