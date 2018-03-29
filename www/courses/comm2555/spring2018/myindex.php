@@ -157,7 +157,8 @@
 		<tr>
 			<td>Thu, 03/29
 			<td>
-			<td class="lab">Lab 9: Design principles
+			<td class="lab"><a href="labs/lab09.pdf">Lab 9: Basic layout techniques with CSS</a>
+                | <a href="labs/lab09.html">lab file</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">12
@@ -173,35 +174,35 @@
 		<tr class="week">
 			<td rowspan="2">13
 			<td>Tue, 04/10
-			<td>TBD
+			<td>Ducket, Ch. 15, 16
 			<td>Exam debrief; building websites
 			<td>
 		<tr>
 			<td>Thu, 04/12
 			<td>
-			<td class="lab">Lab 10: Designing web pages
+			<td class="lab">Lab 10: Building web pages; more CSS 
 			<td>
 		<tr class="week">
 			<td rowspan="2">14
 			<td>Tue, 04/17
 			<td>Ducket, Ch. 15, 16
-			<td>CSS layout
+			<td>CSS layout frameworks
             <td><a class="hw" href="homework/hw5.pdf">Assignment 5 (due Monday 4/16)</a>
 		<tr>
 			<td>Thu, 04/19
 			<td>
-			<td class="lab">Lab 11: CSS layout-1
+			<td class="lab">Lab 11: CSS layout-2
 			<td>
 		<tr class="week">
 			<td rowspan="2">15
 			<td>Tue, 04/24
 			<td>
-			<td>CSS layout (cont.); CSS frameworks
+			<td>HTML/CSS review; project implementation
 			<td>
 		<tr>
 			<td>Thu, 04/26
 			<td>TBD
-			<td class="lab">Lab 12: CSS layout-2
+			<td>Project implementation (cont.)
 			<td>
 		<tr class="week">
 			<td rowspan="2">16
