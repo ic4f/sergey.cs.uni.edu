@@ -163,7 +163,8 @@
 		<tr>
 			<td>Thu, 03/29
 			<td>Ch. 8
-			<td class="lab">Lab 9: Splicing sound
+            <td class="lab"><a href="labs/lab09.pdf">Lab 9: Making a fake quote</a> | 
+                <a href="labs/lab9.wav">lab file</a>
 			<td><a class="hw" href="homework/hw03.pdf">Assignment 3 (due Thursday 3/29)</a>
 		<tr class="week">
 			<td rowspan="2">12
