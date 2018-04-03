@@ -175,7 +175,8 @@
 		<tr>
 			<td>Thu, 04/05
 			<td>Ch. 9
-			<td>Lab 10
+            <td class="lab"><a href="labs/lab10.pdf">Lab 10: Blending sounds</a> | 
+                <a href="labs/lab10_responses.rtf">response sheet</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">13
