@@ -180,7 +180,8 @@
 		<tr>
 			<td>Thu, 04/12
 			<td>
-			<td class="lab">Lab 10: Building web pages; more CSS 
+			<td class="lab"><a href="labs/lab10.pdf">Lab 10: Introducing Bootstrap</a>
+                | <a href="labs/lab10.zip">lab files</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">14
