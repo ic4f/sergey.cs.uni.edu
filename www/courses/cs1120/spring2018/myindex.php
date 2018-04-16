@@ -198,7 +198,8 @@
 		<tr>
 			<td>Thu, 04/19
 			<td>Ch. 3
-			<td>Lab 11
+            <td class="lab"><a href="labs/lab11.pdf">Lab 11: Introduction to strings</a> | 
+                <a href="labs/lab11_responses.rtf">response sheet</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">15
