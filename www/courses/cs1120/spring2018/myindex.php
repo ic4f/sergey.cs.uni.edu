@@ -205,19 +205,19 @@
 			<td rowspan="2">15
 			<td>Tue, 04/24
 			<td>Ch. 11
-			<td>Dot notation; string methods
+			<td>Strings (cont.) <a href="code/code042418.py">code used in class</a>
 			<td>
 		<tr>
 			<td>Thu, 04/26
 			<td>Ch. 11
-			<td>Reading and writing files
+			<td>Dot notation; string methods; reading and writing files
 			<td>
 		<tr class="week">
 			<td rowspan="2">16
-			<td>Tue, 05/03
+			<td>Thu, 05/03
 			<td>
 			<td>Final exam
-			<td>
+			<td><a class="hw" href="homework/extra.pdf">Extra credit Assignment (due Monday 4/30)</a>
 </table>
 
 
