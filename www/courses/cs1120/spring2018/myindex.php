@@ -210,7 +210,7 @@
 		<tr>
 			<td>Thu, 04/26
 			<td>Ch. 11
-			<td>Dot notation; string methods; reading and writing files
+			<td>Strings; dot notation; string methods <a href="code/code042618.py">code used in class</a>
 			<td>
 		<tr class="week">
 			<td rowspan="2">16
