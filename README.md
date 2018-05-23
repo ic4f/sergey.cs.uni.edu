@@ -6,5 +6,5 @@ the way I want it for this site. There's also a neat [Python script](utils/make_
 generates the HTML for my course schedule web pages.
 
 ## License
-Code: [Public Domain](https://github.com/ic4f/phd-code/blob/master/LICENSE)  
+Code: [Public Domain](LICENSE)  
 Course content: [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
