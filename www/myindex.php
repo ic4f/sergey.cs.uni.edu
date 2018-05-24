@@ -1,6 +1,20 @@
 <h3>About me</h3>
 
+<div style="padding:0 1em 1em 1em;color: #777;border:1px solid #ccc;margin: 1em 0;">
+<p>This is an archive of my faculty website. My last semester at UNI was
+Spring 2018. I have moved on to pursue a career in software development. You
+may contact me at <a href="mailto:sgolitsynskiy@gmail.com">sgolitsynskiy@gmail.com</a>, 
+or <a href="http://icode4.fun">check here</a> for my latest news. 
+
+
+
+
+
+</div>
+
 <img src="images/sergey.jpg" class="float-r image1 img-resp" alt="Sergey Golitsynskiy">
+
+
 
 <p>I am an Assistant Professor in the Interactive Digital Studies program at the <a href="http://uni.edu">University of Northern Iowa</a>. 
 I teach courses in the <a href="http://uni.edu/commstudies">Department of Communication Studies</a> and the <a href="http://cs.uni.edu">Department of Computer Science</a>. 
@@ -13,11 +27,6 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 <a id="courses"></a>
 <h3>My courses</h3>
 
-<h4>Current Semester: Spring 2018</h4>
-<ul>
-    <li><a href="courses/cs1120/spring2018">CS 1120: Media Computation</a>
-    <li><a href="courses/comm2555/spring2018">COMM 2555: Interactive Digital Communication</a>
-</ul>
 
 <h4>Previous Semesters</h4>
 
@@ -26,6 +35,8 @@ and my Diploma (1998) from <a href="http://spbu.ru">St. Petersburg State Univers
 </style>
 
 <ul>
+    <li><a href="courses/cs1120/spring2018">CS 1120: Media Computation</a> <span class="comment"> / Spring 2018</span>
+    <li><a href="courses/comm2555/spring2018">COMM 2555: Interactive Digital Communication</a> <span class="comment"> / Spring 2018</span>
     <li><a href="courses/cs1510/fall2017">CS 1510: Introduction to Computing</a> <span class="comment"> / Fall 2017</span>
     <li><a href="courses/comm2555/fall2017">COMM 2555: Interactive Digital Communication</a> <span class="comment"> / Fall 2017</span>
     <li>CS 3110: Web Application Development <span class="comment"> / independent study</span> <span class="comment"> / Fall 2017</span>
